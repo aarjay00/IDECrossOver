@@ -39,8 +39,9 @@ public class IDELogger {
         LOGGER.info(jsonString);
         System.out.println(jsonString);
     }
-    public static String toString(Map<String,String> mp)
+    public static String toString(Object object)
     {
-        return gson.toJson(mp);
+        return gson.toJson(object);
     }
+
 }
