@@ -5,6 +5,7 @@ import com.intellij.openapi.editor.Editor;
 import com.intellij.openapi.editor.EditorFactory;
 import com.intellij.openapi.fileEditor.*;
 import com.intellij.openapi.vfs.VirtualFile;
+import log.ActionLogger;
 import org.jetbrains.annotations.NotNull;
 
 /**
@@ -28,6 +29,9 @@ public class EditorManagerListener implements FileEditorManagerListener {
         FileDocumentManager fileDocumentManager  = FileDocumentManager.getInstance();
         Document document = fileDocumentManager.getDocument(file);
 
+        document.addDocumentListener(DocListener.getInstance());
+        ActionLogger.getInstance().logFileOpenClose(file,true);
+
         Editor[] editorList = EditorFactory.getInstance().getEditors(document);
 //        FileEditor[] editorList= source.getAllEditors(file);
         for(Editor editor : editorList) {
@@ -40,6 +44,10 @@ public class EditorManagerListener implements FileEditorManagerListener {
 
         FileDocumentManager fileDocumentManager  = FileDocumentManager.getInstance();
         Document document = fileDocumentManager.getDocument(file);
+
+        document.removeDocumentListener(DocListener.getInstance());
+
+        ActionLogger.getInstance().logFileOpenClose(file,false);
 
         Editor[] editorList = EditorFactory.getInstance().getEditors(document);
         for(Editor editor : editorList) {

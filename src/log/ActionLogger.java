@@ -6,7 +6,12 @@ import com.intellij.notification.EventLog;
 import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.AnActionEvent;
 import com.intellij.openapi.actionSystem.DataContext;
+import com.intellij.openapi.editor.Document;
+import com.intellij.openapi.editor.event.DocumentEvent;
+import com.intellij.openapi.editor.event.DocumentListener;
 import com.intellij.openapi.editor.event.EditorMouseEvent;
+import com.intellij.openapi.fileEditor.FileDocumentManager;
+import com.intellij.openapi.vfs.VirtualFile;
 import com.intellij.psi.tree.xml.IDTDElementType;
 
 import java.awt.event.InputEvent;
@@ -81,6 +86,33 @@ public class ActionLogger {
         Map<String,String> logEntry=new HashMap<>();
         logEntry.put("KeyText",keyEvent.getKeyText(keyEvent.getKeyCode()));
         logEntry.put("KeyEvent",keyEvent.paramString());
+        return logEntry;
+    }
+
+    public void logDocumentEvent(DocumentEvent event)
+    {
+        Map<String ,String> logEntry = new HashMap<>();
+        logEntry.put("description",event.toString());
+        VirtualFile virtualFile = FileDocumentManager.getInstance().getFile(event.getDocument());
+        logEntry.put("fileName",virtualFile.getPath());
+        logEntry.put("oldText",event.getOldFragment().toString());
+        logEntry.put("newText",event.getNewFragment().toString());
+        IDELogger.getInstance().log(logEntry);
+    }
+
+    public void logFileOpenClose(VirtualFile virtualFile,Boolean open)
+    {
+        Map<String,String> logEntry= logVirtualFile(virtualFile);
+        logEntry.put("FileAction",open.toString());
+        IDELogger.getInstance().log(logEntry);
+    }
+
+    public Map<String,String> logVirtualFile(VirtualFile virtualFile)
+    {
+        Document document = FileDocumentManager.getInstance().getDocument(virtualFile);
+        Map<String,String> logEntry= new HashMap<>();
+        logEntry.put("fileContent",document.getText());
+        logEntry.put("fileName",virtualFile.getPath());
         return logEntry;
     }
 
