@@ -40,6 +40,7 @@ public class ActionLogger {
         String inputEvent = event.getInputEvent().toString();
         String myText=action.getTemplatePresentation().getText();
         Map<String,String> logEntry= new HashMap<String,String>();
+        logEntry.put("logType","Action");
         logEntry.put("description",action.getTemplatePresentation().getDescription());
         logEntry.put("inputEvent",event.getInputEvent().toString());
         logEntry.put("myText",action.getTemplatePresentation().getText());
@@ -50,6 +51,7 @@ public class ActionLogger {
     public void logEditorMouseEvent(EditorMouseEvent e)
     {
         Map<String,String> logEntry = new HashMap<String,String>();
+        logEntry.put("logType","EditorMouseEvent");
         logEntry.put("mouseEvent",IDELogger.toString(logMouseEvent(e.getMouseEvent())));
         try{
             logEntry.put("mouseEventArea",e.getArea().toString());
@@ -76,6 +78,7 @@ public class ActionLogger {
     public Map<String,String> logMouseEvent(MouseEvent mouseEvent)
     {
         Map<String,String> logEntry= new HashMap<String,String>();
+        logEntry.put("logType","MouseEvent");
         logEntry.put("MouseEvent",mouseEvent.paramString());
         logEntry.put("clickCount", Integer.toString(mouseEvent.getClickCount()));
         logEntry.put("keyboardHotkeys",mouseEvent.getMouseModifiersText(mouseEvent.getModifiers()));
@@ -84,6 +87,7 @@ public class ActionLogger {
     public Map<String,String> logKeyEvent(KeyEvent keyEvent)
     {
         Map<String,String> logEntry=new HashMap<>();
+        logEntry.put("logType","KeyEvent");
         logEntry.put("KeyText",keyEvent.getKeyText(keyEvent.getKeyCode()));
         logEntry.put("KeyEvent",keyEvent.paramString());
         return logEntry;
@@ -92,6 +96,7 @@ public class ActionLogger {
     public void logDocumentEvent(DocumentEvent event)
     {
         Map<String ,String> logEntry = new HashMap<>();
+        logEntry.put("logType","DocumentEvent");
         logEntry.put("description",event.toString());
         VirtualFile virtualFile = FileDocumentManager.getInstance().getFile(event.getDocument());
         logEntry.put("fileName",virtualFile.getPath());
@@ -103,6 +108,7 @@ public class ActionLogger {
     public void logFileOpenClose(VirtualFile virtualFile,Boolean open)
     {
         Map<String,String> logEntry= logVirtualFile(virtualFile);
+        logEntry.put("logType","FileOpenClose");
         logEntry.put("FileAction",open.toString());
         IDELogger.getInstance().log(logEntry);
     }
@@ -111,9 +117,9 @@ public class ActionLogger {
     {
         Document document = FileDocumentManager.getInstance().getDocument(virtualFile);
         Map<String,String> logEntry= new HashMap<>();
+        logEntry.put("logType","VirtualFile");
         logEntry.put("fileContent",document.getText());
         logEntry.put("fileName",virtualFile.getPath());
         return logEntry;
     }
-
 }

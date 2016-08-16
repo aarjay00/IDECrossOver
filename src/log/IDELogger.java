@@ -7,6 +7,7 @@ package log;
 
 import com.google.gson.Gson;
 import com.intellij.openapi.diagnostic.Logger;
+import com.sun.jna.platform.win32.Sspi;
 
 import java.util.Map;
 
@@ -35,6 +36,7 @@ public class IDELogger {
         System.out.println(logEntry);
     }
     public void log(Map<String,String> logEntry){
+        logEntry.put("timeStamp",Long.toString(System.currentTimeMillis()/1000L));
         String jsonString = gson.toJson(logEntry);
         LOGGER.info(jsonString);
         System.out.println(jsonString);

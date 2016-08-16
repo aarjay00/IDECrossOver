@@ -1,10 +1,8 @@
 package Listeners;
 
-import com.intellij.openapi.actionSystem.AnAction;
-import com.intellij.openapi.actionSystem.AnActionEvent;
-import com.intellij.openapi.actionSystem.DataContext;
-import com.intellij.openapi.actionSystem.PlatformDataKeys;
+import com.intellij.openapi.actionSystem.*;
 import com.intellij.openapi.actionSystem.ex.AnActionListener;
+import com.intellij.openapi.module.Module;
 import log.ActionLogger;
 
 /**
@@ -27,8 +25,11 @@ public class ActionListener implements AnActionListener {
     @Override
     public void beforeActionPerformed(AnAction action, DataContext dataContext, AnActionEvent event) {
 
-        event.getData(PlatformDataKeys.FILE_EDITOR);
+        Class cl = dataContext.getClass();
 
+        Module module = (Module)dataContext.getData(DataKeys.MODULE.getName());
+
+        event.getData(PlatformDataKeys.FILE_EDITOR);
         System.out.println(action.getTemplatePresentation().getDescription());
         ActionLogger.getInstance().logAction(action,dataContext,event);
     }

@@ -1,14 +1,21 @@
-import Listeners.ActionListener;
-import Listeners.EditorManagerListener;
-import Listeners.ProjectListener;
+import Listeners.*;
 import com.intellij.openapi.actionSystem.ActionManager;
+import com.intellij.openapi.compiler.CompilerManager;
 import com.intellij.openapi.components.ProjectComponent;
+import com.intellij.openapi.editor.EditorFactory;
 import com.intellij.openapi.fileEditor.FileEditorManager;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.project.ProjectManager;
 import com.intellij.openapi.project.ProjectManagerListener;
+import com.intellij.openapi.wm.IdeFocusManager;
+import com.intellij.openapi.wm.ToolWindowManager;
+import com.intellij.openapi.wm.WindowManager;
+import com.intellij.openapi.wm.impl.FocusManagerImpl;
+import com.intellij.ui.content.ContentManager;
+import com.intellij.ui.content.impl.ContentManagerImpl;
 import com.intellij.util.messages.MessageBus;
 import log.IDELogger;
+import org.apache.batik.bridge.FocusManager;
 import org.jetbrains.annotations.NotNull;
 
 /**
@@ -45,12 +52,28 @@ public class PluginStartUp implements ProjectComponent {
 
         ProjectManager.getInstance().addProjectManagerListener(ProjectListener.getInstance());
 
+        EditorFactory editorFactory = EditorFactory.getInstance();
+        editorFactory.addEditorFactoryListener(EditorFactoryHook.getInstance());
+
+        WindowManager windowManager = WindowManager.getInstance();
+        windowManager.addListener(WindowManagerHook.getInstance());
+
+
         for(Project project : projectList )
         {
             MessageBus messageBus = project.getMessageBus();
             FileEditorManager fileEditorManager= FileEditorManager.getInstance(project);
-            //deprecated
-            fileEditorManager.addFileEditorManagerListener(EditorManagerListener.getInstance());
+            ToolWindowManager toolWindowManager  = ToolWindowManager.getInstance(project);
+            String[] toolWindowIDList = toolWindowManager.getToolWindowIds();
+
+            for(String ID : toolWindowIDList){
+                toolWindowManager.getToolWindow(ID);
+            }
+            ToolWindowManager.getInstance(project).getToolWindowIds();
+            IdeFocusManager focusManager = toolWindowManager.getFocusManager();
+            CompilerManager compilerManager =  CompilerManager.getInstance(project);
+            compilerManager.addCompilationStatusListener(CompileStatusListener.getInstance());
+            fileEditorManager.addFileEditorManagerListener(EditorManagerListener.getInstance());//deprecated
         }
         System.out.println("Plugin opened!!!!\n");
 
