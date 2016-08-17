@@ -31,11 +31,6 @@ public class CompileStatusListener implements CompilationStatusListener {
     }
 
     @Override
-    public void automakeCompilationFinished(int errors, int warnings, CompileContext compileContext) {
-
-    }
-
-    @Override
     public void fileGenerated(String outputRoot, String relativePath) {
 
     }
