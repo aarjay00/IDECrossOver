@@ -41,7 +41,7 @@ public class ProjectListener implements ProjectManagerListener {
      */
     @Override
     public boolean canCloseProject(Project project) {
-        return false;
+        return true;
     }
 
     /**
