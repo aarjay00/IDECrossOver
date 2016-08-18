@@ -8,15 +8,21 @@ import com.intellij.openapi.project.Project;
 import com.intellij.openapi.project.ProjectManager;
 import com.intellij.openapi.project.ProjectManagerListener;
 import com.intellij.openapi.wm.IdeFocusManager;
+import com.intellij.openapi.wm.ToolWindow;
 import com.intellij.openapi.wm.ToolWindowManager;
 import com.intellij.openapi.wm.WindowManager;
+import com.intellij.openapi.wm.ex.ToolWindowManagerListener;
 import com.intellij.openapi.wm.impl.FocusManagerImpl;
+import com.intellij.openapi.wm.impl.ToolWindowManagerImpl;
 import com.intellij.ui.content.ContentManager;
 import com.intellij.ui.content.impl.ContentManagerImpl;
 import com.intellij.util.messages.MessageBus;
+import log.ActionLogger;
 import log.IDELogger;
 import org.apache.batik.bridge.FocusManager;
 import org.jetbrains.annotations.NotNull;
+
+import javax.swing.*;
 
 /**
  * Created by aarjay on 12/08/16.
@@ -61,13 +67,16 @@ public class PluginStartUp implements ProjectComponent {
 
         for(Project project : projectList )
         {
+            ActionLogger.getInstance().logProjectOpenClose(project,true);
             MessageBus messageBus = project.getMessageBus();
             FileEditorManager fileEditorManager= FileEditorManager.getInstance(project);
-            ToolWindowManager toolWindowManager  = ToolWindowManager.getInstance(project);
+            ToolWindowManagerImpl toolWindowManager  =(ToolWindowManagerImpl)ToolWindowManager.getInstance(project);
+            toolWindowManager.addToolWindowManagerListener(ToolWindowManagerHook.getInstance());
             String[] toolWindowIDList = toolWindowManager.getToolWindowIds();
 
             for(String ID : toolWindowIDList){
-                toolWindowManager.getToolWindow(ID);
+                ToolWindow toolWindow = toolWindowManager.getToolWindow(ID);
+                JComponent jComponent = toolWindow.getComponent();
             }
             ToolWindowManager.getInstance(project).getToolWindowIds();
             IdeFocusManager focusManager = toolWindowManager.getFocusManager();

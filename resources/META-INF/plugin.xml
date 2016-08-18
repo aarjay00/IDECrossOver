@@ -2,8 +2,8 @@
 <!--
   <id>IDECrossover.Release.New</id>
 -->
-  <id>IDECrossover.Development</id>
-  <name>IDE CrossOver Plugins</name>
+  <id>IDECrossover.Release</id>
+  <name>IDE CrossOver</name>
   <version>1.0</version>
   <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
 

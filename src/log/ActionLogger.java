@@ -11,6 +11,7 @@ import com.intellij.openapi.editor.event.DocumentEvent;
 import com.intellij.openapi.editor.event.DocumentListener;
 import com.intellij.openapi.editor.event.EditorMouseEvent;
 import com.intellij.openapi.fileEditor.FileDocumentManager;
+import com.intellij.openapi.project.Project;
 import com.intellij.openapi.vfs.VirtualFile;
 import com.intellij.psi.tree.xml.IDTDElementType;
 
@@ -109,7 +110,7 @@ public class ActionLogger {
     {
         Map<String,String> logEntry= logVirtualFile(virtualFile);
         logEntry.put("logType","FileOpenClose");
-        logEntry.put("FileAction",open.toString());
+        logEntry.put("fileAction",open.toString());
         IDELogger.getInstance().log(logEntry);
     }
 
@@ -121,5 +122,13 @@ public class ActionLogger {
         logEntry.put("fileContent",document.getText());
         logEntry.put("fileName",virtualFile.getPath());
         return logEntry;
+    }
+    public void logProjectOpenClose(Project project, Boolean open)
+    {
+        Map<String,String> logEntry = new HashMap<String,String>();
+        logEntry.put("logType","ProjectOpenClose");
+        logEntry.put("projectAction",open.toString());
+        logEntry.put("projectDetails",project.toString());
+        IDELogger.getInstance().log(logEntry);
     }
 }

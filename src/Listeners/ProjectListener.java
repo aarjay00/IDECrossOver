@@ -2,6 +2,7 @@ package Listeners;
 
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.project.ProjectManagerListener;
+import log.ActionLogger;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,12 +14,16 @@ public class ProjectListener implements ProjectManagerListener {
 
     private static ProjectManagerListener projectListener = null;
 
-    private List<Project> projectList = null;
+    private static List<Project> projectList = null;
 
     public static ProjectManagerListener getInstance()
     {
         if(projectListener==null){
             projectListener =  new ProjectListener();
+        }
+        if(projectList==null)
+        {
+            projectList= new ArrayList<Project>();
         }
         return projectListener;
     }
@@ -30,7 +35,10 @@ public class ProjectListener implements ProjectManagerListener {
      */
     @Override
     public void projectOpened(Project project) {
+/*
         projectList.add(project);
+*/
+        ActionLogger.getInstance().logProjectOpenClose(project,true);
     }
 
     /**
@@ -51,6 +59,7 @@ public class ProjectListener implements ProjectManagerListener {
      */
     @Override
     public void projectClosed(Project project) {
+        ActionLogger.getInstance().logProjectOpenClose(project,false);
         project=null;
     }
 
@@ -61,6 +70,8 @@ public class ProjectListener implements ProjectManagerListener {
      */
     @Override
     public void projectClosing(Project project) {
+/*
         projectList.remove(project);
+*/
     }
 }
