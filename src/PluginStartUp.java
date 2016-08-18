@@ -1,7 +1,9 @@
 import Listeners.*;
 import com.intellij.openapi.actionSystem.ActionManager;
+import com.intellij.openapi.application.ApplicationManager;
 import com.intellij.openapi.compiler.CompilerManager;
 import com.intellij.openapi.components.ProjectComponent;
+import com.intellij.openapi.components.impl.ServiceManagerImpl;
 import com.intellij.openapi.editor.EditorFactory;
 import com.intellij.openapi.fileEditor.FileEditorManager;
 import com.intellij.openapi.project.Project;
@@ -22,7 +24,11 @@ import log.IDELogger;
 import org.apache.batik.bridge.FocusManager;
 import org.jetbrains.annotations.NotNull;
 
+import javax.jnlp.ServiceManager;
 import javax.swing.*;
+import java.awt.*;
+import java.beans.PropertyChangeEvent;
+import java.beans.PropertyChangeListener;
 
 /**
  * Created by aarjay on 12/08/16.
@@ -69,6 +75,16 @@ public class PluginStartUp implements ProjectComponent {
         {
             ActionLogger.getInstance().logProjectOpenClose(project,true);
             MessageBus messageBus = project.getMessageBus();
+            KeyboardFocusManager.getCurrentKeyboardFocusManager().addPropertyChangeListener(new PropertyChangeListener() {
+                @Override
+                public void propertyChange(PropertyChangeEvent evt) {
+                    System.out.println("yipee!!");
+                    if(evt.getOldValue()!=null)
+                        System.out.println("Old Value"+evt.getOldValue().getClass().getName());
+                    if(evt.getNewValue()!=null)
+                        System.out.println("New Value"+evt.getNewValue().getClass().getName());
+                }
+            });
             FileEditorManager fileEditorManager= FileEditorManager.getInstance(project);
             ToolWindowManagerImpl toolWindowManager  =(ToolWindowManagerImpl)ToolWindowManager.getInstance(project);
             toolWindowManager.addToolWindowManagerListener(ToolWindowManagerHook.getInstance());
@@ -94,5 +110,35 @@ public class PluginStartUp implements ProjectComponent {
         System.out.println("Plugin closed!!!!\n");
 
         // called when project is being closed
+    }
+
+    private void InFocusComponent(Project project)
+    {
+        ApplicationManager.getApplication().executeOnPooledThread(new Runnable() {
+            @Override
+            public void run() {
+                ApplicationManager.getApplication().runReadAction(new Runnable() {
+                    @Override
+                    public void run() {
+
+                        Integer i =0;
+                        while(i<100)
+                        {
+                            System.out.println("haha");
+                            Component component = FocusManagerImpl.getInstance().getFocusOwner();
+                            System.out.println(component.toString());
+                            try {
+                                Thread.sleep(5000);
+                                i++;
+                            }
+                            catch (InterruptedException e)
+                            {
+                                IDELogger.getInstance().log("Error in Thread Sleeping");
+                            }
+                        }
+                    }
+                });
+            }
+        });
     }
 }
