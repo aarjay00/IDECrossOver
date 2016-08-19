@@ -18,13 +18,16 @@ public class ContentManagerHook implements ContentManagerListener {
     private ToolWindowImpl toolWindow;
     private JComponent component;
     ComponentMouseMotionListener componentMouseMotionListener;
+    ComponentFocusListener componentFocusListener;
 
     public ContentManagerHook(ToolWindowImpl toolWindow) {
         this.toolWindow = toolWindow;
         this.component = toolWindow.getComponent();
 //        component.add
         this.componentMouseMotionListener =  new ComponentMouseMotionListener(toolWindow);
+        this.componentFocusListener  =  new ComponentFocusListener(toolWindow);
         addMouseListenerToComponent(this.component);
+        addFocusListenerToComponent(this.component);
     }
 
     @Override
@@ -44,6 +47,15 @@ public class ContentManagerHook implements ContentManagerListener {
         for(Component component1 : component.getComponents()){
             component1.addMouseMotionListener(this.componentMouseMotionListener);
             addMouseListenerToComponent((JComponent)component1);
+        }
+    }
+
+
+    private void addFocusListenerToComponent(JComponent component) {
+        component.addFocusListener(this.componentFocusListener);
+        for (Component component1 : component.getComponents()) {
+            component.addFocusListener(this.componentFocusListener);
+            addFocusListenerToComponent((JComponent) component1);
         }
     }
 
