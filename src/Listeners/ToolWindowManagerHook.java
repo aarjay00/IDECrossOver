@@ -1,5 +1,6 @@
 package Listeners;
 
+import Util.ReflectUtil;
 import com.intellij.openapi.components.ComponentManager;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.project.ProjectManager;
@@ -38,32 +39,9 @@ public class ToolWindowManagerHook implements ToolWindowManagerListener {
             ToolWindowImpl toolWindow= (ToolWindowImpl)ToolWindowManager.getInstance(project).getToolWindow(s);
             /*toolWindow.addPropertyChangeListener();*/
             ContentManager contentManager = toolWindow.getContentManager();
-            if(s=="Event Log"){
-                NonOpaquePanel nonOpaquePanel = (NonOpaquePanel) toolWindow.getComponent();
+            if(s.equals("Event Log")){
+                ReflectUtil.getInstance().getAllFieldValues(toolWindow);
             }
-            JComponent component  = toolWindow.getComponent();
-            component.addFocusListener(new FocusListener() {
-                @Override
-                public void focusGained(FocusEvent e) {
-                    System.out.println("here");
-                }
-                @Override
-                public void focusLost(FocusEvent e) {
-                    System.out.println("there");
-                }
-            });
-            Class cl  = component.getClass();
-//            toolWindow.getType()
-            Class toolClass=component.getClass();
-            String name  = component.getClass().getName();
-//            component.addFocusListener(ComponentFocusListener.getInstance());
-            contentManager.addContentManagerListener(new ContentManagerHook(toolWindow));
-
-       /*     Content[] contents = contentManager.getContents();
-            for(Content content:contents){
-                String st= content.getToolwindowTitle();
-                System.out.println(st);
-            }*/
         }
     }
 

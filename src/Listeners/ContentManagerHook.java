@@ -9,18 +9,27 @@ import com.intellij.ui.content.ContentManagerListener;
 import com.intellij.ui.content.impl.ContentImpl;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.FocusListener;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseMotionListener;
+
 
 /**
  * Created by aarjay on 18/08/16.
  */
 public class ContentManagerHook implements ContentManagerListener {
 
-    private ToolWindowImpl toolWindow;
 
+    private ToolWindowImpl toolWindow;
+    private JComponent component;
+    ComponentMouseListener componentMouseListener;
 
     public ContentManagerHook(ToolWindowImpl toolWindow) {
         this.toolWindow = toolWindow;
+        this.component = toolWindow.getComponent();
+        this.componentMouseListener =  new ComponentMouseListener(toolWindow);
+        this.component.addMouseMotionListener(this.componentMouseListener);
     }
 
     @Override
@@ -29,15 +38,17 @@ public class ContentManagerHook implements ContentManagerListener {
         System.out.println(toolWindow.getTitle());
         for(Content content: contents){
 
-            JComponent componentFocus = content.getPreferredFocusableComponent();
             JComponent component = content.getComponent();
-            JComponent componentAction =  content.getActionsContextComponent();
-            JComponent jComponentSearch = content.getSearchComponent();
-            component.addFocusListener(ComponentFocusListener.getInstance());
-            System.out.println(content.getDisplayName());
-//            System.out.println(component.getName());
-//            System.out.println(component.toString());
-            System.out.println(component.getClass().getName());
+            this.component=component;
+            addMouseListenerToComponent(component);
+        }
+    }
+
+    private void addMouseListenerToComponent(JComponent component){
+        component.addMouseMotionListener(this.componentMouseListener);
+        for(Component component1 : component.getComponents()){
+            component1.addMouseMotionListener(this.componentMouseListener);
+            addMouseListenerToComponent((JComponent)component1);
         }
     }
 
