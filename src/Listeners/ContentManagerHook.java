@@ -29,7 +29,7 @@ public class ContentManagerHook implements ContentManagerListener {
         this.toolWindow = toolWindow;
         this.component = toolWindow.getComponent();
         this.componentMouseListener =  new ComponentMouseListener(toolWindow);
-        this.component.addMouseMotionListener(this.componentMouseListener);
+        addMouseListenerToComponent(this.component);
     }
 
     @Override
