@@ -1,18 +1,12 @@
 package Listeners;
 
-import com.intellij.openapi.wm.ToolWindow;
-import com.intellij.openapi.wm.impl.SystemDock;
 import com.intellij.openapi.wm.impl.ToolWindowImpl;
 import com.intellij.ui.content.Content;
 import com.intellij.ui.content.ContentManagerEvent;
 import com.intellij.ui.content.ContentManagerListener;
-import com.intellij.ui.content.impl.ContentImpl;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.FocusListener;
-import java.awt.event.MouseEvent;
-import java.awt.event.MouseMotionListener;
 
 
 /**
@@ -23,12 +17,13 @@ public class ContentManagerHook implements ContentManagerListener {
 
     private ToolWindowImpl toolWindow;
     private JComponent component;
-    ComponentMouseListener componentMouseListener;
+    ComponentMouseMotionListener componentMouseMotionListener;
 
     public ContentManagerHook(ToolWindowImpl toolWindow) {
         this.toolWindow = toolWindow;
         this.component = toolWindow.getComponent();
-        this.componentMouseListener =  new ComponentMouseListener(toolWindow);
+//        component.add
+        this.componentMouseMotionListener =  new ComponentMouseMotionListener(toolWindow);
         addMouseListenerToComponent(this.component);
     }
 
@@ -45,9 +40,9 @@ public class ContentManagerHook implements ContentManagerListener {
     }
 
     private void addMouseListenerToComponent(JComponent component){
-        component.addMouseMotionListener(this.componentMouseListener);
+        component.addMouseMotionListener(this.componentMouseMotionListener);
         for(Component component1 : component.getComponents()){
-            component1.addMouseMotionListener(this.componentMouseListener);
+            component1.addMouseMotionListener(this.componentMouseMotionListener);
             addMouseListenerToComponent((JComponent)component1);
         }
     }

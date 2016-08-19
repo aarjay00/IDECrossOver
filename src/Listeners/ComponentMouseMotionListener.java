@@ -8,12 +8,12 @@ import java.awt.event.MouseMotionListener;
 /**
  * Created by aarjay on 19/08/16.
  */
-public class ComponentMouseListener implements MouseMotionListener {
+public class ComponentMouseMotionListener implements MouseMotionListener {
 
 
     ToolWindowImpl toolWindow;
 
-    public ComponentMouseListener(ToolWindowImpl toolWindow) {
+    public ComponentMouseMotionListener(ToolWindowImpl toolWindow) {
         this.toolWindow = toolWindow;
     }
 
