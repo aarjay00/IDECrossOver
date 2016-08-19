@@ -39,9 +39,7 @@ public class ToolWindowManagerHook implements ToolWindowManagerListener {
             ToolWindowImpl toolWindow= (ToolWindowImpl)ToolWindowManager.getInstance(project).getToolWindow(s);
             /*toolWindow.addPropertyChangeListener();*/
             ContentManager contentManager = toolWindow.getContentManager();
-            if(s.equals("Event Log")){
-                ReflectUtil.getInstance().getAllFieldValues(toolWindow);
-            }
+            ReflectUtil.getInstance().getAllFieldValues(toolWindow);
         }
     }
 

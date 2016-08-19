@@ -1,4 +1,8 @@
 import Listeners.*;
+import com.intellij.notification.EventLog;
+import com.intellij.notification.Notification;
+import com.intellij.notification.Notifications;
+import com.intellij.notification.NotificationsAdapter;
 import com.intellij.openapi.actionSystem.ActionManager;
 import com.intellij.openapi.application.ApplicationManager;
 import com.intellij.openapi.compiler.CompilerManager;
@@ -9,10 +13,7 @@ import com.intellij.openapi.fileEditor.FileEditorManager;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.project.ProjectManager;
 import com.intellij.openapi.project.ProjectManagerListener;
-import com.intellij.openapi.wm.IdeFocusManager;
-import com.intellij.openapi.wm.ToolWindow;
-import com.intellij.openapi.wm.ToolWindowManager;
-import com.intellij.openapi.wm.WindowManager;
+import com.intellij.openapi.wm.*;
 import com.intellij.openapi.wm.ex.ToolWindowManagerListener;
 import com.intellij.openapi.wm.impl.FocusManagerImpl;
 import com.intellij.openapi.wm.impl.ToolWindowManagerImpl;
@@ -70,10 +71,16 @@ public class PluginStartUp implements ProjectComponent {
         WindowManager windowManager = WindowManager.getInstance();
         windowManager.addListener(WindowManagerHook.getInstance());
 
-
+        String na = ToolWindowId.MESSAGES_WINDOW;
         for(Project project : projectList )
         {
-
+            project.getMessageBus().connect(project).subscribe(Notifications.TOPIC, new NotificationsAdapter() {
+                @Override
+                public void notify(@NotNull Notification notification) {
+                    System.out.println(notification.toString());
+                }
+            });
+            ToolWindow eventLog = EventLog.getEventLog(project);
             ActionLogger.getInstance().logProjectOpenClose(project,true);
             MessageBus messageBus = project.getMessageBus();
             KeyboardFocusManager.getCurrentKeyboardFocusManager().addPropertyChangeListener(new PropertyChangeListener() {

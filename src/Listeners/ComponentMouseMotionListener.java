@@ -32,7 +32,7 @@ public class ComponentMouseMotionListener implements MouseMotionListener {
      */
     @Override
     public void mouseDragged(MouseEvent e) {
-        System.out.println(toolWindow.getId());
+//        System.out.println(toolWindow.getId());
     }
 
     /**
@@ -43,6 +43,6 @@ public class ComponentMouseMotionListener implements MouseMotionListener {
      */
     @Override
     public void mouseMoved(MouseEvent e) {
-        System.out.println("mouse moved in "+toolWindow.getId());
+//        System.out.println("mouse moved in "+toolWindow.getId());
     }
 }
