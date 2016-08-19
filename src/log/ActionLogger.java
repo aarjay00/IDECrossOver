@@ -15,9 +15,11 @@ import com.intellij.openapi.project.Project;
 import com.intellij.openapi.vfs.VirtualFile;
 import com.intellij.psi.tree.xml.IDTDElementType;
 
+import java.awt.event.FocusEvent;
 import java.awt.event.InputEvent;
 import java.awt.event.KeyEvent;
 import java.awt.event.MouseEvent;
+import java.beans.PropertyChangeEvent;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -130,5 +132,15 @@ public class ActionLogger {
         logEntry.put("projectAction",open.toString());
         logEntry.put("projectDetails",project.toString());
         IDELogger.getInstance().log(logEntry);
+    }
+    public void logFocusComponent(PropertyChangeEvent event){
+        Map<String,String> logEntry  = new HashMap<>();
+        logEntry.put("logType","focusComponent");
+        if(event.getOldValue()!=null)
+            logEntry.put("oldEvent",event.getOldValue().toString());
+        if(event.getNewValue()!=null)
+            logEntry.put("newEvent",event.getNewValue().toString());
+        if(logEntry.size()>1)
+            IDELogger.getInstance().log(logEntry);
     }
 }
