@@ -25,7 +25,7 @@ public class ComponentKeyListener implements KeyListener {
 
     @Override
     public void keyTyped(KeyEvent e) {
-        System.out.println("keyTyped-"+e.paramString());
+        System.out.println("keyTyped-"+toolWindow.getId());
     }
 
     /**
@@ -37,7 +37,7 @@ public class ComponentKeyListener implements KeyListener {
      */
     @Override
     public void keyPressed(KeyEvent e) {
-        System.out.println("keyPressed-"+e.paramString());
+        System.out.println("keyPressed-"+toolWindow.getId());
 
     }
 

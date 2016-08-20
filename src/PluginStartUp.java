@@ -18,6 +18,7 @@ import com.intellij.openapi.wm.ex.ToolWindowManagerListener;
 import com.intellij.openapi.wm.impl.FocusManagerImpl;
 import com.intellij.openapi.wm.impl.ToolWindowManagerImpl;
 import com.intellij.ui.content.ContentManager;
+import com.intellij.ui.content.MessageView;
 import com.intellij.ui.content.impl.ContentManagerImpl;
 import com.intellij.util.messages.MessageBus;
 import log.ActionLogger;
@@ -80,6 +81,8 @@ public class PluginStartUp implements ProjectComponent {
                     System.out.println(notification.toString());
                 }
             });
+
+            MessageView messageView = MessageView.SERVICE.getInstance(project);
             ToolWindow eventLog = EventLog.getEventLog(project);
             ActionLogger.getInstance().logProjectOpenClose(project,true);
             MessageBus messageBus = project.getMessageBus();
