@@ -4,6 +4,7 @@ import com.intellij.openapi.wm.impl.ToolWindowImpl;
 
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseMotionListener;
+import log.ActionLogger;
 
 /**
  * Created by aarjay on 19/08/16.
@@ -43,6 +44,7 @@ public class ComponentMouseMotionListener implements MouseMotionListener {
      */
     @Override
     public void mouseMoved(MouseEvent e) {
+        ActionLogger.getInstance().logToolMouseMovement(this.toolWindow);
 //        System.out.println("mouse moved in "+toolWindow.getId());
     }
 }

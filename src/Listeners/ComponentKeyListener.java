@@ -37,7 +37,7 @@ public class ComponentKeyListener implements KeyListener {
      */
     @Override
     public void keyPressed(KeyEvent e) {
-        System.out.println("keyPressed-"+toolWindow.getId());
+//        System.out.println("keyPressed-"+toolWindow.getId());
 
     }
 
@@ -50,7 +50,7 @@ public class ComponentKeyListener implements KeyListener {
      */
     @Override
     public void keyReleased(KeyEvent e) {
-        System.out.println("keyReleased-"+e.paramString());
+//        System.out.println("keyReleased-"+e.paramString());
 
     }
 }

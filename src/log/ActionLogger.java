@@ -13,7 +13,10 @@ import com.intellij.openapi.editor.event.EditorMouseEvent;
 import com.intellij.openapi.fileEditor.FileDocumentManager;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.vfs.VirtualFile;
+import com.intellij.openapi.wm.ToolWindow;
+import com.intellij.openapi.wm.impl.ToolWindowImpl;
 import com.intellij.psi.tree.xml.IDTDElementType;
+import com.intellij.tools.Tool;
 
 import java.awt.event.FocusEvent;
 import java.awt.event.InputEvent;
@@ -31,11 +34,19 @@ public class ActionLogger {
 
     private static ActionLogger actionLogger = null;
 
+    private ToolWindowImpl currentToolWindow ;
+    private Integer mouseOnTool;
+
     public static ActionLogger getInstance(){
         if(actionLogger==null) {
-            actionLogger  =  new ActionLogger();
+            actionLogger  =  new ActionLogger(null,0);
         }
         return actionLogger;
+    }
+
+    public ActionLogger(ToolWindowImpl toolWindow, Integer mouseOnTool) {
+        this.currentToolWindow = toolWindow;
+        this.mouseOnTool = mouseOnTool;
     }
 
     public  void logAction(AnAction action, DataContext dataContext, AnActionEvent event){
@@ -142,5 +153,28 @@ public class ActionLogger {
             logEntry.put("newEvent",event.getNewValue().toString());
         if(logEntry.size()>1)
             IDELogger.getInstance().log(logEntry);
+    }
+    public void logToolMouseMovement(ToolWindowImpl newToolWindow){
+        if(newToolWindow==null) return;
+        if(this.currentToolWindow!=null && newToolWindow.getId().equals(this.currentToolWindow.getId())){
+            this.mouseOnTool+=1;
+        }
+        else
+        {
+            if(this.currentToolWindow!=null)
+                logNewToolWindow(this.currentToolWindow,false);
+            this.currentToolWindow=newToolWindow;
+            this.mouseOnTool=0;
+            logNewToolWindow(this.currentToolWindow,true);
+        }
+    }
+    public void logNewToolWindow(ToolWindowImpl toolWindow, Boolean leaveTool){
+        Map<String,String> logEntry = new HashMap<>();
+        logEntry.put("logType","ToolEntry");
+        logEntry.put("toolEnter",leaveTool.toString());
+        logEntry.put("tooName",toolWindow.getId());
+        logEntry.put("toolDetails",this.currentToolWindow.toString());
+        logEntry.put("mouseMovementNum",this.mouseOnTool.toString());
+        IDELogger.getInstance().log(logEntry);
     }
 }

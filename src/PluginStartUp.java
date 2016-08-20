@@ -86,34 +86,12 @@ public class PluginStartUp implements ProjectComponent {
             ToolWindow eventLog = EventLog.getEventLog(project);
             ActionLogger.getInstance().logProjectOpenClose(project,true);
             MessageBus messageBus = project.getMessageBus();
-            KeyboardFocusManager.getCurrentKeyboardFocusManager().addPropertyChangeListener(new PropertyChangeListener() {
-                @Override
-                public void propertyChange(PropertyChangeEvent evt) {
-                    ActionLogger.getInstance().logFocusComponent(evt);
-                    /*if(ProjectManager.getInstance().getOpenProjects()!=null && ProjectManager.getInstance().getOpenProjects().length>0) {
-                        Component component = FocusManagerImpl.getInstance(ProjectManager.getInstance().getOpenProjects()[0]).getFocusOwner();
-                        if (component != null) {
-                            System.out.println("gaaa" + component.toString());
-                            while (component.getParent() != null) {
-                                component = component.getParent();
-                                System.out.println("gaaparent" + component.toString());
-                            }
-                        }
-                    }
-                    else
-                        return;
-                    System.out.println("yipee!!");
-                    if(evt.getOldValue()!=null){
-                        System.out.println("oo"+evt.getOldValue().toString());
-                        System.out.println("Old Value"+evt.getOldValue().getClass().getName());
-                    }
-                    if(evt.getNewValue()!=null){
-                        System.out.println("nn"+evt.getNewValue().toString());
-                        System.out.println("New Value"+evt.getNewValue().getClass().getName());
-
-                    }*/
-                }
-            });
+//            KeyboardFocusManager.getCurrentKeyboardFocusManager().addPropertyChangeListener(new PropertyChangeListener() {
+//                @Override
+//                public void propertyChange(PropertyChangeEvent evt) {
+//                    ActionLogger.getInstance().logFocusComponent(evt);
+//                }
+//            });
             FileEditorManager fileEditorManager= FileEditorManager.getInstance(project);
             ToolWindowManagerImpl toolWindowManager  =(ToolWindowManagerImpl)ToolWindowManager.getInstance(project);
             toolWindowManager.addToolWindowManagerListener(ToolWindowManagerHook.getInstance());
