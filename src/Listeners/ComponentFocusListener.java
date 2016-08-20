@@ -4,11 +4,12 @@ import com.intellij.openapi.wm.impl.ToolWindowImpl;
 
 import java.awt.event.FocusEvent;
 import java.awt.event.FocusListener;
+import log.ActionLogger;
 
 /**
  * Created by aarjay on 18/08/16.
  */
-public class ComponentFocusListener implements FocusListener {
+public class    ComponentFocusListener implements FocusListener {
 
 
 
@@ -25,10 +26,8 @@ public class ComponentFocusListener implements FocusListener {
      * @param e
      */
     @Override
-    public void focusGained(FocusEvent e) {
-        System.out.println(e.toString());
-        System.out.println(e.getComponent().toString());
-        System.out.println(e.getComponent().getName());
+    public void focusGained(FocusEvent e){
+        ActionLogger.getInstance().logFocus(e,this.toolWindow,true);
     }
 
     /**
@@ -38,10 +37,6 @@ public class ComponentFocusListener implements FocusListener {
      */
     @Override
     public void focusLost(FocusEvent e) {
-
-        System.out.println(e.toString());
-        System.out.println(e.getComponent().toString());
-        System.out.println(e.getComponent().getName());
+        ActionLogger.getInstance().logFocus(e,this.toolWindow,false);
     }
-
 }

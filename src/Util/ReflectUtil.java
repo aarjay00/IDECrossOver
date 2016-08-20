@@ -21,16 +21,16 @@ public class ReflectUtil {
         return reflect;
     }
 
-    public void getAllFieldValues(Object object){
+    public void getAllFieldValues(Object object,ToolWindowImpl toolWindow){
         for(Field field : object.getClass().getDeclaredFields()){
             field.setAccessible(true);
             try {
                 Object value = field.get(object);
                 if(value instanceof ContentManagerImpl){
                     ContentManagerImpl contentManager = (ContentManagerImpl)value;
-                    contentManager.addContentManagerListener(new ContentManagerHook((ToolWindowImpl) object));
+                    contentManager.addContentManagerListener(new ContentManagerHook(toolWindow));
                 }
-                System.out.println(field.getName()+"="+value.getClass().getName());
+//                System.out.println(field.getName()+"="+value.getClass().getName());
             }
             catch (Exception e){
                 System.out.println("err");

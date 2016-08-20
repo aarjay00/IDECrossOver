@@ -78,7 +78,7 @@ public class PluginStartUp implements ProjectComponent {
             project.getMessageBus().connect(project).subscribe(Notifications.TOPIC, new NotificationsAdapter() {
                 @Override
                 public void notify(@NotNull Notification notification) {
-                    System.out.println(notification.toString());
+                    ActionLogger.getInstance().logNotification(notification);
                 }
             });
 

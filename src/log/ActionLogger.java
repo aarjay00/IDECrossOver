@@ -3,9 +3,12 @@ package log;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.intellij.notification.EventLog;
+import com.intellij.notification.Notification;
+import com.intellij.notification.Notifications;
 import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.AnActionEvent;
 import com.intellij.openapi.actionSystem.DataContext;
+import com.intellij.openapi.compiler.CompileContext;
 import com.intellij.openapi.editor.Document;
 import com.intellij.openapi.editor.event.DocumentEvent;
 import com.intellij.openapi.editor.event.DocumentListener;
@@ -175,6 +178,32 @@ public class ActionLogger {
         logEntry.put("tooName",toolWindow.getId());
         logEntry.put("toolDetails",this.currentToolWindow.toString());
         logEntry.put("mouseMovementNum",this.mouseOnTool.toString());
+        IDELogger.getInstance().log(logEntry);
+    }
+    public void logFocus(FocusEvent e,ToolWindowImpl toolWindow,Boolean focusGained){
+        Map<String,String> logEntry = new HashMap<>();
+        logEntry.put("logType","FocusEvent");
+        logEntry.put("focusDetails",e.paramString());
+        logEntry.put("focusGained",focusGained.toString());
+        logEntry.put("toolName",toolWindow.getId());
+        IDELogger.getInstance().log(logEntry);
+    }
+    public void  logNotification(Notification notification){
+        System.out.println(notification.toString());
+        Map<String,String> logEntry = new HashMap<>();
+        logEntry.put("logType","Notification");
+        logEntry.put("groupId",notification.getGroupId());
+        logEntry.put("title",notification.getTitle());
+        logEntry.put("content",notification.getContent());
+        IDELogger.getInstance().log(logEntry);
+    }
+    public void logCompilationStatus(CompileContext compileContext , Integer errors, Boolean aborted, Integer warnings){
+        HashMap<String,String> logEntry =  new HashMap<>();
+        logEntry.put("logType","CompilationStatus");
+        logEntry.put("errors",errors.toString());
+        logEntry.put("aborted",aborted.toString());
+        logEntry.put("warnings",warnings.toString());
+        logEntry.put("compileScope",compileContext.getCompileScope().toString());
         IDELogger.getInstance().log(logEntry);
     }
 }

@@ -38,14 +38,15 @@ public class ContentManagerHook implements ContentManagerListener {
 
     @Override
     public void contentAdded(ContentManagerEvent contentManagerEvent) {
-            Content []  contents = (Content[]) toolWindow.getContentManager().getContents();
-        System.out.println(toolWindow.getTitle());
+        Content []  contents = (Content[]) toolWindow.getContentManager().getContents();
+        System.out.println(toolWindow.getId());
+        if(toolWindow.getId().equals("Project"))
+            System.out.println("check");
         for(Content content: contents){
-
             JComponent component = content.getComponent();
             this.component=component;
             addMouseListenerToComponent(component);
-//            addFocusListenerToComponent(component);
+            addFocusListenerToComponent(component);
             addInputMethodListenerToComponent(component);
             addKeyListenerToComponent(component);
         }
@@ -58,12 +59,15 @@ public class ContentManagerHook implements ContentManagerListener {
                 if(component1 instanceof  JComponent) {
                     addMouseListenerToComponent((JComponent) component1);
                 }
-                else if(component1 instanceof JPanel){
-                    JPanel jPanel = (JPanel) component1;
-                }
-                else {
-                    System.out.println("Not JComponent/Jpanel"+component.getClass().getName());
-                }
+                 else
+                    System.out.println("Not Jcompoent"+component.getClass().getName());
+//                else if(component1 instanceof JPanel){
+//                    JPanel jPanel = (JPanel) component1;
+//                    System.out.println("Jpanels");
+//                }
+//                else {
+//                    System.out.println("Not JComponent/Jpanel"+component.getClass().getName());
+//                }
         }
     }
 
