@@ -130,11 +130,18 @@ public class ActionLogger {
         IDELogger.getInstance().log(logEntry);
     }
 
+    public void logFileEditorChange(VirtualFile virtualFile)
+    {
+        Map<String,String> logEntry = logVirtualFile(virtualFile);
+        logEntry.remove("fileContent");
+        logEntry.put("logType","FileEditorChange");
+        IDELogger.getInstance().log(logEntry);
+    }
+
     public Map<String,String> logVirtualFile(VirtualFile virtualFile)
     {
         Document document = FileDocumentManager.getInstance().getDocument(virtualFile);
         Map<String,String> logEntry= new HashMap<>();
-        logEntry.put("logType","VirtualFile");
         logEntry.put("fileContent",document.getText());
         logEntry.put("fileName",virtualFile.getPath());
         return logEntry;

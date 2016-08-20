@@ -58,6 +58,6 @@ public class EditorManagerListener implements FileEditorManagerListener {
 
     @Override
     public void selectionChanged(@NotNull FileEditorManagerEvent event) {
-
-    }
+            ActionLogger.getInstance().logFileEditorChange(event.getNewFile());
+        }
 }
