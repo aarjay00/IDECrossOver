@@ -108,7 +108,6 @@ public class PluginStartUp implements ProjectComponent {
             fileEditorManager.addFileEditorManagerListener(EditorManagerListener.getInstance());//deprecated
         }
         System.out.println("Plugin opened!!!!\n");
-        S3Client s3Client = new S3Client();
 
         // called when project is opened
     }

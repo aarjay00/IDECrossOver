@@ -26,6 +26,7 @@ public class IDELogger {
     private static Gson gson;
 
     private static IDELogger ideLogger = null;
+    private static  Integer logEntryNum=0;
 
     private IDELogger() {
     }
@@ -53,17 +54,26 @@ public class IDELogger {
 
     public void log(String logEntry) {
         LOGGER.info(logEntry);
+        logEntryNum+=1;
+        uploadLogs(false);
 //        System.out.println(logEntry);
     }
     public void log(Map<String,String> logEntry){
         logEntry.put("timeStamp",Long.toString(System.currentTimeMillis()/1000L));
         String jsonString = gson.toJson(logEntry);
         LOGGER.info(jsonString);
+        logEntryNum+=1;
+        uploadLogs(false);
         System.out.println(jsonString);
     }
     public static String toString(Object object)
     {
         return gson.toJson(object);
     }
-
+    public void uploadLogs(Boolean forceUpload){
+     if(logEntryNum<100 && !forceUpload) return;
+        if(S3Client.getInstance().uploadLogToS3()){
+            System.out.println("uploaded!!");
+        }
+    }
 }
