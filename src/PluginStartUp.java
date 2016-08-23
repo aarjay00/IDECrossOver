@@ -65,7 +65,7 @@ public class PluginStartUp implements ProjectComponent {
 
         ProjectManager.getInstance().addProjectManagerListener(ProjectListener.getInstance());
 
-        EditorFactory editorFactory = EditorFactory.getInstance();
+            EditorFactory editorFactory = EditorFactory.getInstance();
         editorFactory.addEditorFactoryListener(EditorFactoryHook.getInstance());
 
         WindowManager windowManager = WindowManager.getInstance();

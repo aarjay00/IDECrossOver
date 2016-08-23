@@ -3,6 +3,8 @@ package Listeners;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.project.ProjectManagerListener;
 import log.ActionLogger;
+import log.IDELogger;
+import log.S3Client;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -61,6 +63,7 @@ public class ProjectListener implements ProjectManagerListener {
     public void projectClosed(Project project) {
         ActionLogger.getInstance().logProjectOpenClose(project,false);
         project=null;
+        IDELogger.getInstance().uploadLogs(true);
     }
 
     /**
