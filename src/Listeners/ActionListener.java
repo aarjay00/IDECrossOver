@@ -11,7 +11,6 @@ import log.ActionLogger;
 public class ActionListener implements AnActionListener {
 
 
-
     private static ActionListener IdeActionListener = null;
 
     public static AnActionListener getInstance() {

@@ -59,8 +59,8 @@ public class ContentManagerHook implements ContentManagerListener {
                 if(component1 instanceof  JComponent) {
                     addMouseListenerToComponent((JComponent) component1);
                 }
-                 else
-                    System.out.println("Not Jcompoent"+component.getClass().getName());
+//                 else
+//                    System.out.println("Not Jcompoent"+component.getClass().getName());
 //                else if(component1 instanceof JPanel){
 //                    JPanel jPanel = (JPanel) component1;
 //                    System.out.println("Jpanels");

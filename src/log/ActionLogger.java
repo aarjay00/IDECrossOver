@@ -13,6 +13,7 @@ import com.intellij.openapi.editor.Document;
 import com.intellij.openapi.editor.event.DocumentEvent;
 import com.intellij.openapi.editor.event.DocumentListener;
 import com.intellij.openapi.editor.event.EditorMouseEvent;
+import com.intellij.openapi.editor.impl.EditorImpl;
 import com.intellij.openapi.fileEditor.FileDocumentManager;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.vfs.VirtualFile;
@@ -70,6 +71,9 @@ public class ActionLogger {
         Map<String,String> logEntry = new HashMap<String,String>();
         logEntry.put("logType","EditorMouseEvent");
         logEntry.put("mouseEvent",IDELogger.toString(logMouseEvent(e.getMouseEvent())));
+        EditorImpl editor = (EditorImpl)e.getSource();
+        VirtualFile virtualFile = FileDocumentManager.getInstance().getFile(editor.getDocument());
+        logEntry.put("fileName",virtualFile.getPath());
         try{
             logEntry.put("mouseEventArea",e.getArea().toString());
         }
@@ -119,6 +123,7 @@ public class ActionLogger {
         logEntry.put("fileName",virtualFile.getPath());
         logEntry.put("oldText",event.getOldFragment().toString());
         logEntry.put("newText",event.getNewFragment().toString());
+        logEntry.put("offSet",((Integer)event.getOffset()).toString());
         IDELogger.getInstance().log(logEntry);
     }
 

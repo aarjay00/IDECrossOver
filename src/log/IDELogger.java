@@ -33,13 +33,13 @@ public class IDELogger {
 
     public void log(String logEntry) {
         LOGGER.info(logEntry);
-        System.out.println(logEntry);
+//        System.out.println(logEntry);
     }
     public void log(Map<String,String> logEntry){
         logEntry.put("timeStamp",Long.toString(System.currentTimeMillis()/1000L));
         String jsonString = gson.toJson(logEntry);
         LOGGER.info(jsonString);
-        System.out.println(jsonString);
+//        System.out.println(jsonString);
     }
     public static String toString(Object object)
     {

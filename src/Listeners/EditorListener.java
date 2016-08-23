@@ -63,7 +63,7 @@ public class EditorListener implements EditorMouseListener {
      */
     @Override
     public void mouseEntered(EditorMouseEvent e) {
-        System.out.println("4");
+//        System.out.println("4");
             ActionLogger.getInstance().logEditorMouseEvent(e);
          }
 
@@ -74,7 +74,7 @@ public class EditorListener implements EditorMouseListener {
      */
     @Override
     public void mouseExited(EditorMouseEvent e) {
-        System.out.println("5");
+//        System.out.println("5");
         ActionLogger.getInstance().logEditorMouseEvent(e);
     }
 }

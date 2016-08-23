@@ -1,3 +1,5 @@
+import graph
+
 def get_file_open_commands(command_list):
     return filter(lambda x: x["command_type"]=="FileOpenCommand" and x['filePath']!='null', command_list)
 
@@ -15,6 +17,10 @@ def file_open_analysis(command_list,document_change_list):
 
     print len(file_activity_list),len(file_activity_list_merge),len(file_accessed)
 
+
+    file_edit=[]
+    file_time=[]
+
     for f in file_activity_list_merge:
         print "start-",command_list[f[0]]['log_num'],"end-",command_list[f[1]]['log_num']
         print "mouse-",mouse_activity_from_file_activity(f,command_list)
@@ -22,6 +28,10 @@ def file_open_analysis(command_list,document_change_list):
         print "file-",file_accessed.index(f[4])
         e=edit_actitvity_from_file_activity(f,command_list,document_change_list)
         print "edit - ",e
+        file_edit.append((file_accessed.index(f[4]),e))
+        file_time.append((file_accessed.index(f[4]),f[3]))
+    graph.basic_two_plot(file_edit,"file_opened_vs_edit_num")
+    graph.basic_two_plot(file_time,"file_opened_vs_time_spent")
 
 def file_activity(command_list,file_commands,file_command_index):
 
