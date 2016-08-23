@@ -3,12 +3,13 @@ package Listeners;
 import com.intellij.openapi.editor.Editor;
 import com.intellij.openapi.editor.event.EditorMouseEvent;
 import com.intellij.openapi.editor.event.EditorMouseListener;
+import com.intellij.openapi.editor.event.EditorMouseMotionListener;
 import log.ActionLogger;
 
 /**
  * Created by aarjay on 13/08/16.
  */
-public class EditorListener implements EditorMouseListener {
+public class EditorListener implements EditorMouseListener,EditorMouseMotionListener {
     /**
      * Called when a mouse button is pressed over the editor.
      * <p/>
@@ -76,5 +77,25 @@ public class EditorListener implements EditorMouseListener {
     public void mouseExited(EditorMouseEvent e) {
 //        System.out.println("5");
         ActionLogger.getInstance().logEditorMouseEvent(e);
+    }
+
+    /**
+     * Called when the mouse is moved over the editor and no mouse buttons are pressed.
+     *
+     * @param e the event containing information about the mouse movement.
+     */
+    @Override
+    public void mouseMoved(EditorMouseEvent e) {
+        ActionLogger.getInstance().logEditorMouseEvent(e);
+    }
+
+    /**
+     * Called when the mouse is moved over the editor and a mouse button is pressed.
+     *
+     * @param e the event containing information about the mouse movement.
+     */
+    @Override
+    public void mouseDragged(EditorMouseEvent e) {
+
     }
 }

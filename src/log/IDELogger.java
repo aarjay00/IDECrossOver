@@ -39,7 +39,7 @@ public class IDELogger {
         logEntry.put("timeStamp",Long.toString(System.currentTimeMillis()/1000L));
         String jsonString = gson.toJson(logEntry);
         LOGGER.info(jsonString);
-//        System.out.println(jsonString);
+        System.out.println(jsonString);
     }
     public static String toString(Object object)
     {

@@ -201,7 +201,7 @@ public class ActionLogger {
         IDELogger.getInstance().log(logEntry);
     }
     public void  logNotification(Notification notification){
-        System.out.println(notification.toString());
+//        System.out.println(notification.toString());
         Map<String,String> logEntry = new HashMap<>();
         logEntry.put("logType","Notification");
         logEntry.put("groupId",notification.getGroupId());

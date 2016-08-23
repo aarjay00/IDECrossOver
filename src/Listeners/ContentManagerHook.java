@@ -39,9 +39,9 @@ public class ContentManagerHook implements ContentManagerListener {
     @Override
     public void contentAdded(ContentManagerEvent contentManagerEvent) {
         Content []  contents = (Content[]) toolWindow.getContentManager().getContents();
-        System.out.println(toolWindow.getId());
-        if(toolWindow.getId().equals("Project"))
-            System.out.println("check");
+//        System.out.println(toolWindow.getId());
+//        if(toolWindow.getId().equals("Project"))
+//            System.out.println("check");
         for(Content content: contents){
             JComponent component = content.getComponent();
             this.component=component;

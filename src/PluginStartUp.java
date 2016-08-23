@@ -17,6 +17,7 @@ import com.intellij.openapi.wm.*;
 import com.intellij.openapi.wm.ex.ToolWindowManagerListener;
 import com.intellij.openapi.wm.impl.FocusManagerImpl;
 import com.intellij.openapi.wm.impl.ToolWindowManagerImpl;
+import com.intellij.psi.PsiManager;
 import com.intellij.ui.content.ContentManager;
 import com.intellij.ui.content.MessageView;
 import com.intellij.ui.content.impl.ContentManagerImpl;
@@ -75,6 +76,8 @@ public class PluginStartUp implements ProjectComponent {
         String na = ToolWindowId.MESSAGES_WINDOW;
         for(Project project : projectList )
         {
+            PsiManager psiManager = PsiManager.getInstance(project);
+            psiManager.
             project.getMessageBus().connect(project).subscribe(Notifications.TOPIC, new NotificationsAdapter() {
                 @Override
                 public void notify(@NotNull Notification notification) {
