@@ -29,7 +29,12 @@ public class EditorManagerListener implements FileEditorManagerListener {
         FileDocumentManager fileDocumentManager  = FileDocumentManager.getInstance();
         Document document = fileDocumentManager.getDocument(file);
 
-        document.addDocumentListener(DocListener.getInstance());
+        try {
+            document.addDocumentListener(DocListener.getInstance());
+        }
+        catch (Throwable e){
+
+        }
         ActionLogger.getInstance().logFileOpenClose(file,true);
 
         Editor[] editorList = EditorFactory.getInstance().getEditors(document);

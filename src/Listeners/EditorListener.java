@@ -85,6 +85,7 @@ public class EditorListener implements EditorMouseListener,EditorMouseMotionList
      */
     @Override
     public void mouseMoved(EditorMouseEvent e) {
+
         ActionLogger.getInstance().logEditorMouseEvent(e);
     }
 

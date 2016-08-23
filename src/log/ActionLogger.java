@@ -1,8 +1,10 @@
 package log;
 
+import com.intellij.ide.ui.AppearanceOptionsTopHitProvider;
 import com.intellij.notification.Notification;
 import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.AnActionEvent;
+import com.intellij.openapi.actionSystem.DataConstants;
 import com.intellij.openapi.actionSystem.DataContext;
 import com.intellij.openapi.compiler.CompileContext;
 import com.intellij.openapi.editor.Document;
@@ -12,6 +14,7 @@ import com.intellij.openapi.editor.impl.EditorImpl;
 import com.intellij.openapi.fileEditor.FileDocumentManager;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.vfs.VirtualFile;
+import com.intellij.openapi.vfs.VirtualFileManager;
 import com.intellij.openapi.wm.impl.ToolWindowImpl;
 
 import java.awt.event.FocusEvent;
@@ -29,6 +32,7 @@ public class ActionLogger {
 
 
     private static ActionLogger actionLogger = null;
+    private static Project activeProject = null;
 
     private ToolWindowImpl currentToolWindow ;
     private Integer mouseOnTool;
@@ -45,8 +49,19 @@ public class ActionLogger {
         this.mouseOnTool = mouseOnTool;
     }
 
+    public void logProjectChange(Project project){
+        activeProject=project;
+        HashMap<String,String> logEntry = new HashMap<>();
+        logEntry.put("logType","projectType");
+        logEntry.put("projectDetails",project.toString());
+        IDELogger.getInstance().log(logEntry);
+    }
+
     public  void logAction(AnAction action, DataContext dataContext, AnActionEvent event){
 
+        Project project = event.getProject();
+        if(activeProject==null || !project.equals(activeProject))
+            logProjectChange(project);
         String inputEvent = event.getInputEvent().toString();
         String myText=action.getTemplatePresentation().getText();
         Map<String,String> logEntry= new HashMap<String,String>();
@@ -108,6 +123,7 @@ public class ActionLogger {
 
     public void logDocumentEvent(DocumentEvent event)
     {
+
         Map<String ,String> logEntry = new HashMap<>();
         logEntry.put("logType","DocumentEvent");
         logEntry.put("description",event.toString());
@@ -139,20 +155,25 @@ public class ActionLogger {
 
     public Map<String,String> logVirtualFile(VirtualFile virtualFile)
     {
-
         Map<String,String> logEntry= new HashMap<>();
         try{
             Document document = FileDocumentManager.getInstance().getDocument(virtualFile);
             logEntry.put("fileContent",document.getText());
             logEntry.put("fileName",virtualFile.getPath());
         }
-        catch(NullPointerException e) {
+        catch(Exception e) {
             return logEntry;
         }
         return logEntry;
     }
     public void logProjectOpenClose(Project project, Boolean open)
     {
+        if(open)
+        {
+            if(activeProject==null || !project.equals(activeProject))
+                logProjectChange(project);
+            activeProject=project;
+        }
         Map<String,String> logEntry = new HashMap<String,String>();
         logEntry.put("logType","ProjectOpenClose");
         logEntry.put("projectAction",open.toString());
@@ -160,6 +181,7 @@ public class ActionLogger {
         IDELogger.getInstance().log(logEntry);
     }
     public void logFocusComponent(PropertyChangeEvent event){
+
         Map<String,String> logEntry  = new HashMap<>();
         logEntry.put("logType","focusComponent");
         if(event.getOldValue()!=null)
@@ -170,6 +192,10 @@ public class ActionLogger {
             IDELogger.getInstance().log(logEntry);
     }
     public void logToolMouseMovement(ToolWindowImpl newToolWindow){
+        Project project = newToolWindow.getToolWindowManager().getProject();
+        if(activeProject==null || !project.equals(activeProject)){
+            logProjectChange(project);
+        }
         if(newToolWindow==null) return;
         if(this.currentToolWindow!=null && newToolWindow.getId().equals(this.currentToolWindow.getId())){
             this.mouseOnTool+=1;

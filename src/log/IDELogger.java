@@ -6,6 +6,10 @@ package log;
  */
 
 import com.google.gson.Gson;
+import com.intellij.ide.DataManager;
+import com.intellij.openapi.actionSystem.DataConstants;
+import com.intellij.openapi.actionSystem.DataContext;
+import com.intellij.openapi.project.Project;
 import com.intellij.openapi.project.ProjectManager;
 
 import java.io.File;
@@ -30,6 +34,8 @@ public class IDELogger {
 
     private static IDELogger ideLogger = null;
     private static  Integer logEntryNum=0;
+
+    private static Project project=null;
 
     private IDELogger() {
     }
@@ -56,12 +62,14 @@ public class IDELogger {
     }
 
     public void log(String logEntry) {
+        checkActiveProject();
         LOGGER.info(logEntry);
         logEntryNum+=1;
         uploadLogs(false);
 //        System.out.println(logEntry);
     }
     public void log(Map<String,String> logEntry){
+        checkActiveProject();
         logEntry.put("timeStamp",Long.toString(System.currentTimeMillis()/1000L));
         String jsonString = gson.toJson(logEntry);
         LOGGER.info(jsonString);
@@ -74,7 +82,7 @@ public class IDELogger {
         return gson.toJson(object);
     }
     public void uploadLogs(Boolean forceUpload){
-     if(logEntryNum<10 && !forceUpload) return;
+     if(logEntryNum<1000 && !forceUpload) return;
 
         System.out.println("uploading");
         if(S3Client.getInstance().uploadLogToS3()){
@@ -91,5 +99,11 @@ public class IDELogger {
 
             }
         }
+    }
+    public void checkActiveProject(){
+
+//        DataContext dataContext = DataManager.getInstance().getDataContext();
+        System.out.println("here");
+//        Project project = (Project) dataContext.getData(DataConstants.PROJECT);
     }
 }

@@ -5,10 +5,8 @@ import com.amazonaws.auth.AWSCredentials;
 import com.amazonaws.auth.BasicAWSCredentials;
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.AmazonS3Client;
-import com.amazonaws.services.s3.model.Bucket;
 import com.amazonaws.services.s3.model.PutObjectRequest;
 import com.intellij.openapi.application.ApplicationManager;
-import com.sun.org.apache.xpath.internal.operations.Bool;
 
 import java.io.File;
 import java.io.IOException;
@@ -53,11 +51,8 @@ public class S3Client {
             ApplicationManager.getApplication().executeOnPooledThread(new Runnable() {
                 @Override
                 public void run() {
-                    System.out.println("hello");
                     AWSCredentials credentials = new BasicAWSCredentials(accesskeyID,secretAccessKey);
-                    System.out.println("hello");
                     AmazonS3 s3client = new AmazonS3Client(credentials);
-                    System.out.println("hello");
                     s3client.putObject(new PutObjectRequest(bucketName, fileName, fileUpload));
                     fileUpload.delete();
                 }
@@ -79,6 +74,6 @@ public class S3Client {
     }
     private String getFileName() {
         Long epoch = System.currentTimeMillis() / 1000L;
-        return epoch.toString()+"-Log";
+        return epoch.toString()+"-log";
     }
 }

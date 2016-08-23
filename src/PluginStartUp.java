@@ -1,6 +1,4 @@
 import Listeners.*;
-import com.intellij.openapi.wm.impl.SystemDock;
-import log.S3Client;
 import com.intellij.notification.EventLog;
 import com.intellij.notification.Notification;
 import com.intellij.notification.Notifications;
