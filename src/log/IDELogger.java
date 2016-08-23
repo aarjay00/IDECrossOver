@@ -13,7 +13,9 @@ import java.io.File;
 //import com.intellij.openapi.diagnostic.Logger;
 
 
+import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.Map;
 import java.util.logging.FileHandler;
 import java.util.logging.Handler;
@@ -23,6 +25,7 @@ import java.util.logging.SimpleFormatter;
 public class IDELogger {
 
     private static Logger LOGGER;
+    private static FileHandler fileHandler;
     private static Gson gson;
 
     private static IDELogger ideLogger = null;
@@ -40,7 +43,7 @@ public class IDELogger {
                 Handler[] handlers = LOGGER.getHandlers();
                 new File(System.getProperty("user.dir")+"/.IDECrossOverLogs").mkdir();
                 System.out.println("Logs in "+System.getProperty("user.dir"));
-                FileHandler fileHandler = new FileHandler(System.getProperty("user.dir")+"/.IDECrossOverLogs/log");
+                fileHandler = new FileHandler(System.getProperty("user.dir")+"/.IDECrossOverLogs/log");
                 fileHandler.setFormatter(new SimpleFormatter());
                 LOGGER.addHandler(fileHandler);
             }
@@ -71,9 +74,22 @@ public class IDELogger {
         return gson.toJson(object);
     }
     public void uploadLogs(Boolean forceUpload){
-     if(logEntryNum<100 && !forceUpload) return;
+     if(logEntryNum<10 && !forceUpload) return;
+
+        System.out.println("uploading");
         if(S3Client.getInstance().uploadLogToS3()){
             System.out.println("uploaded!!");
+            logEntryNum=0;
+            try {
+                LOGGER.removeHandler(fileHandler);
+                fileHandler.close();
+                fileHandler = new FileHandler(System.getProperty("user.dir")+"/.IDECrossOverLogs/log");
+                fileHandler.setFormatter(new SimpleFormatter());
+                LOGGER.addHandler(fileHandler);
+            }
+            catch (IOException e){
+
+            }
         }
     }
 }
