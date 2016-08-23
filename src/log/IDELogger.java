@@ -6,10 +6,19 @@ package log;
  */
 
 import com.google.gson.Gson;
-import com.intellij.openapi.diagnostic.Logger;
-import com.sun.jna.platform.win32.Sspi;
+import com.intellij.openapi.project.ProjectManager;
 
+import java.io.File;
+
+//import com.intellij.openapi.diagnostic.Logger;
+
+
+import java.io.IOException;
 import java.util.Map;
+import java.util.logging.FileHandler;
+import java.util.logging.Handler;
+import java.util.logging.Logger;
+import java.util.logging.SimpleFormatter;
 
 public class IDELogger {
 
@@ -22,10 +31,21 @@ public class IDELogger {
     }
 
     public static IDELogger getInstance() {
-
         if(ideLogger==null) {
             ideLogger = new IDELogger();
-            ideLogger.LOGGER=Logger.getInstance("IDECrossOver");
+//            ideLogger.LOGGER=Logger.getInstance("IDECrossOver");
+            ideLogger.LOGGER = Logger.getLogger("IDECrossOver");
+            try {
+                Handler[] handlers = LOGGER.getHandlers();
+                new File(System.getProperty("user.dir")+"/.IDECrossOverLogs").mkdir();
+                System.out.println("Logs in "+System.getProperty("user.dir"));
+                FileHandler fileHandler = new FileHandler(System.getProperty("user.dir")+"/.IDECrossOverLogs/log");
+                fileHandler.setFormatter(new SimpleFormatter());
+                LOGGER.addHandler(fileHandler);
+            }
+            catch (IOException e){
+                e.printStackTrace();
+            }
             ideLogger.gson= new Gson();
         }
         return ideLogger;

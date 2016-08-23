@@ -1,26 +1,18 @@
 package log;
 
-import com.google.gson.Gson;
-import com.google.gson.JsonArray;
-import com.intellij.notification.EventLog;
 import com.intellij.notification.Notification;
-import com.intellij.notification.Notifications;
 import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.AnActionEvent;
 import com.intellij.openapi.actionSystem.DataContext;
 import com.intellij.openapi.compiler.CompileContext;
 import com.intellij.openapi.editor.Document;
 import com.intellij.openapi.editor.event.DocumentEvent;
-import com.intellij.openapi.editor.event.DocumentListener;
 import com.intellij.openapi.editor.event.EditorMouseEvent;
 import com.intellij.openapi.editor.impl.EditorImpl;
 import com.intellij.openapi.fileEditor.FileDocumentManager;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.vfs.VirtualFile;
-import com.intellij.openapi.wm.ToolWindow;
 import com.intellij.openapi.wm.impl.ToolWindowImpl;
-import com.intellij.psi.tree.xml.IDTDElementType;
-import com.intellij.tools.Tool;
 
 import java.awt.event.FocusEvent;
 import java.awt.event.InputEvent;
@@ -138,17 +130,25 @@ public class ActionLogger {
     public void logFileEditorChange(VirtualFile virtualFile)
     {
         Map<String,String> logEntry = logVirtualFile(virtualFile);
-        logEntry.remove("fileContent");
+        try {
+            logEntry.remove("fileContent");
+        }catch (Exception e){}
         logEntry.put("logType","FileEditorChange");
         IDELogger.getInstance().log(logEntry);
     }
 
     public Map<String,String> logVirtualFile(VirtualFile virtualFile)
     {
-        Document document = FileDocumentManager.getInstance().getDocument(virtualFile);
+
         Map<String,String> logEntry= new HashMap<>();
-        logEntry.put("fileContent",document.getText());
-        logEntry.put("fileName",virtualFile.getPath());
+        try{
+            Document document = FileDocumentManager.getInstance().getDocument(virtualFile);
+            logEntry.put("fileContent",document.getText());
+            logEntry.put("fileName",virtualFile.getPath());
+        }
+        catch(NullPointerException e) {
+            return logEntry;
+        }
         return logEntry;
     }
     public void logProjectOpenClose(Project project, Boolean open)

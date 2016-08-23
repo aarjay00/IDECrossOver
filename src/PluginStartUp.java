@@ -1,37 +1,32 @@
 import Listeners.*;
+import com.intellij.openapi.wm.impl.SystemDock;
+import log.S3Client;
 import com.intellij.notification.EventLog;
 import com.intellij.notification.Notification;
 import com.intellij.notification.Notifications;
 import com.intellij.notification.NotificationsAdapter;
 import com.intellij.openapi.actionSystem.ActionManager;
+import com.intellij.openapi.application.Application;
 import com.intellij.openapi.application.ApplicationManager;
 import com.intellij.openapi.compiler.CompilerManager;
 import com.intellij.openapi.components.ProjectComponent;
-import com.intellij.openapi.components.impl.ServiceManagerImpl;
 import com.intellij.openapi.editor.EditorFactory;
 import com.intellij.openapi.fileEditor.FileEditorManager;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.project.ProjectManager;
-import com.intellij.openapi.project.ProjectManagerListener;
 import com.intellij.openapi.wm.*;
-import com.intellij.openapi.wm.ex.ToolWindowManagerListener;
 import com.intellij.openapi.wm.impl.FocusManagerImpl;
 import com.intellij.openapi.wm.impl.ToolWindowManagerImpl;
 import com.intellij.psi.PsiManager;
-import com.intellij.ui.content.ContentManager;
 import com.intellij.ui.content.MessageView;
-import com.intellij.ui.content.impl.ContentManagerImpl;
 import com.intellij.util.messages.MessageBus;
 import log.ActionLogger;
 import log.IDELogger;
-import org.apache.batik.bridge.FocusManager;
 import org.jetbrains.annotations.NotNull;
 
-import javax.jnlp.ServiceManager;
 import javax.swing.*;
 import java.awt.*;
-import java.beans.PropertyChangeEvent;
-import java.beans.PropertyChangeListener;
+import java.util.Properties;
 
 /**
  * Created by aarjay on 12/08/16.
@@ -63,6 +58,9 @@ public class PluginStartUp implements ProjectComponent {
 
     @Override
     public void projectOpened() {
+
+        Properties properties = System.getProperties();
+        Application application = ApplicationManager.getApplication();
         Project[] projectList  = ProjectManager.getInstance().getOpenProjects();
 
         ProjectManager.getInstance().addProjectManagerListener(ProjectListener.getInstance());
@@ -77,7 +75,6 @@ public class PluginStartUp implements ProjectComponent {
         for(Project project : projectList )
         {
             PsiManager psiManager = PsiManager.getInstance(project);
-            psiManager.
             project.getMessageBus().connect(project).subscribe(Notifications.TOPIC, new NotificationsAdapter() {
                 @Override
                 public void notify(@NotNull Notification notification) {
@@ -111,6 +108,7 @@ public class PluginStartUp implements ProjectComponent {
             fileEditorManager.addFileEditorManagerListener(EditorManagerListener.getInstance());//deprecated
         }
         System.out.println("Plugin opened!!!!\n");
+        S3Client s3Client = new S3Client();
 
         // called when project is opened
     }
