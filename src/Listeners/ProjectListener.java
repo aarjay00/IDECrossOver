@@ -5,6 +5,9 @@ import com.intellij.openapi.project.ProjectManagerListener;
 import log.ActionLogger;
 import log.IDELogger;
 
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -60,9 +63,9 @@ public class ProjectListener implements ProjectManagerListener {
      */
     @Override
     public void projectClosed(Project project) {
+
         ActionLogger.getInstance().logProjectOpenClose(project,false);
         project=null;
-        IDELogger.getInstance().uploadLogs(true);
     }
 
     /**

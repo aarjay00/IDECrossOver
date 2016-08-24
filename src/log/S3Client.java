@@ -59,6 +59,7 @@ public class S3Client {
                     AmazonS3 s3client = new AmazonS3Client(credentials);
                     s3client.putObject(new PutObjectRequest(bucketName, fileName, fileUpload));
                     fileUpload.delete();
+                    IDELogger.getInstance().deleteLogs();
                 }
             });
 //            s3client.putObject(new PutObjectRequest(bucketName, fileName, file));

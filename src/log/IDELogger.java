@@ -12,14 +12,11 @@ import com.intellij.openapi.actionSystem.DataContext;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.project.ProjectManager;
 
-import java.io.File;
+import java.io.*;
 
 //import com.intellij.openapi.diagnostic.Logger;
 
 
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.PrintWriter;
 import java.util.Map;
 import java.util.logging.FileHandler;
 import java.util.logging.Handler;
@@ -34,14 +31,18 @@ public class IDELogger {
 
     private static IDELogger ideLogger = null;
     private static  Integer logEntryNum=0;
-
+    private static  Long lastUploadTime=0L;
     private static Project project=null;
+    private  static Integer uploadFrequency=600;
+
+
 
     private IDELogger() {
     }
 
     public static IDELogger getInstance() {
         if(ideLogger==null) {
+            lastUploadTime=System.currentTimeMillis()/1000L;
             ideLogger = new IDELogger();
 //            ideLogger.LOGGER=Logger.getInstance("IDECrossOver");
             ideLogger.LOGGER = Logger.getLogger("IDECrossOver");
@@ -49,7 +50,7 @@ public class IDELogger {
                 Handler[] handlers = LOGGER.getHandlers();
                 new File(System.getProperty("user.dir")+"/.IDECrossOverLogs").mkdir();
                 System.out.println("Logs in "+System.getProperty("user.dir"));
-                fileHandler = new FileHandler(System.getProperty("user.dir")+"/.IDECrossOverLogs/log");
+                fileHandler = new FileHandler(System.getProperty("user.dir")+"/.IDECrossOverLogs/log",true);
                 fileHandler.setFormatter(new SimpleFormatter());
                 LOGGER.addHandler(fileHandler);
             }
@@ -82,27 +83,34 @@ public class IDELogger {
         return gson.toJson(object);
     }
     public void uploadLogs(Boolean forceUpload){
-     if(logEntryNum<1000 && !forceUpload) return;
+        Long timeSinceUpload=System.currentTimeMillis()/1000L - lastUploadTime;
+        if(timeSinceUpload<uploadFrequency && !forceUpload) return;
+        uploadFrequency=3600;
+//        System.out.println("uploading");
+        lastUploadTime=System.currentTimeMillis()/1000L;
+        logEntryNum=0;
+        S3Client.getInstance().uploadLogToS3();
 
-        System.out.println("uploading");
-        if(S3Client.getInstance().uploadLogToS3()){
-            System.out.println("uploaded!!");
-            logEntryNum=0;
-            try {
-                LOGGER.removeHandler(fileHandler);
-                fileHandler.close();
-                fileHandler = new FileHandler(System.getProperty("user.dir")+"/.IDECrossOverLogs/log");
-                fileHandler.setFormatter(new SimpleFormatter());
-                LOGGER.addHandler(fileHandler);
-            }
-            catch (IOException e){
+    }
+    public void deleteLogs(){
+//        System.out.println("uploaded!!");
+        try {
+            LOGGER.removeHandler(fileHandler);
+            fileHandler.close();
+            fileHandler = new FileHandler(System.getProperty("user.dir")+"/.IDECrossOverLogs/log");
+            fileHandler.setFormatter(new SimpleFormatter());
+            LOGGER.addHandler(fileHandler);
+        }
+        catch (IOException e){
 
-            }
         }
     }
     public void checkActiveProject(){
 
 //        DataContext dataContext = DataManager.getInstance().getDataContext();
 //        Project project = (Project) dataContext.getData(DataConstants.PROJECT);
+    }
+    public static Long getLastUploadTime() {
+        return lastUploadTime;
     }
 }

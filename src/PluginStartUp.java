@@ -163,7 +163,6 @@ public class PluginStartUp implements ProjectComponent {
             }
             private void runWindows(){
                 while(true){
-
                     char[] buffer = new char[1024 * 2];
                     HWND hwnd = User32.INSTANCE.GetForegroundWindow();
                     User32.INSTANCE.GetWindowText(hwnd, buffer, 1024   );

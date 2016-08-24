@@ -51,7 +51,12 @@ public class EditorManagerListener implements FileEditorManagerListener {
         FileDocumentManager fileDocumentManager  = FileDocumentManager.getInstance();
         Document document = fileDocumentManager.getDocument(file);
 
-        document.removeDocumentListener(DocListener.getInstance());
+        try {
+            document.removeDocumentListener(DocListener.getInstance());
+        }
+        catch (Throwable e){
+            return;
+        }
 
         ActionLogger.getInstance().logFileOpenClose(file,false);
 
