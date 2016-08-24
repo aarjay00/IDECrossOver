@@ -33,6 +33,7 @@ public class ActionLogger {
 
     private static ActionLogger actionLogger = null;
     private static Project activeProject = null;
+    private static String activeApplication="";
 
     private ToolWindowImpl currentToolWindow ;
     private Integer mouseOnTool;
@@ -244,4 +245,12 @@ public class ActionLogger {
         logEntry.put("compileScope",compileContext.getCompileScope().toString());
         IDELogger.getInstance().log(logEntry);
     }
+    public void logActiveApplication(String newActiveApplication){
+        if(activeApplication.equals(newActiveApplication)) return;
+        activeApplication=newActiveApplication;
+        Map<String,String> logEntry = new HashMap<>();
+        logEntry.put("logType","activeWindow");
+        logEntry.put("windowDetails",activeApplication);
+        IDELogger.getInstance().log(logEntry);
+     }
 }

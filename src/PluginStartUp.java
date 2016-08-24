@@ -142,25 +142,20 @@ public class PluginStartUp implements ProjectComponent {
             private void runLinux(){
                 while(true) {
                     String command= "lsappinfo";
-                    StringBuffer output = new StringBuffer();
-                    Process p;
-                    try {
-                        p = Runtime.getRuntime().exec(command);
-                        p.waitFor();
-                        BufferedReader reader =
-                                new BufferedReader(new InputStreamReader(p.getInputStream()));
-                        String line = "";
-                        while ((line = reader.readLine()) != null) {
-                            if(line.contains("in front"))
-                                output.append(line + "\n");
-                        }
+                    String commands_1[] ={"osascript","-e","tell application \"System Events\"","-e","set frontApp to name of first application process whose frontmost is true","-e","end tell"};
+                    String applicationName=runCommand(commands_1);
 
-                    } catch (Exception e) {
-                        e.printStackTrace();
-                    }
-                    System.out.println("Command Output---" + output.toString());
+                    String commands_2[] ={"osascript",
+                            "-e","tell application \""+applicationName+"\"",
+                            "-e","set window_name to name of front window",
+                            "-e","end tell"
+                        };
+                        String applicationDetails="";
+                        if(!applicationName.equals("idea"))
+                         applicationDetails=runCommand(commands_2);
+                        ActionLogger.getInstance().logActiveApplication(applicationName+"--"+applicationDetails);
                     try {
-                        Thread.sleep(30000);
+                        Thread.sleep(15000);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
@@ -172,16 +167,32 @@ public class PluginStartUp implements ProjectComponent {
                     char[] buffer = new char[1024 * 2];
                     HWND hwnd = User32.INSTANCE.GetForegroundWindow();
                     User32.INSTANCE.GetWindowText(hwnd, buffer, 1024   );
-                    System.out.println("Active window title: " + Native.toString(buffer));
-                    RECT rect = new RECT();
-                    User32.INSTANCE.GetWindowRect(hwnd, rect);
-                    System.out.println("rect = " + rect);
+                    ActionLogger.getInstance().logActiveApplication(Native.toString(buffer));
+//                    System.out.println("Active window title: " + Native.toString(buffer));
                     try{
-                        Thread.sleep(30000);
+                        Thread.sleep(15000);
                     }catch (InterruptedException e){
                         e.printStackTrace();
                     }
                 }
+            }
+            private String runCommand(String[] commands){
+                StringBuffer output = new StringBuffer();
+                Process p;
+                try {
+                    p = Runtime.getRuntime().exec(commands);
+                    int done = p.waitFor();
+                    BufferedReader reader =
+                            new BufferedReader(new InputStreamReader(p.getInputStream()));
+                    String line = "";
+                    while ((line = reader.readLine()) != null) {
+//                            if(line.contains("in front"))
+                        output.append(line);
+                    }
+                }catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                return output.toString();
             }
         });
     }

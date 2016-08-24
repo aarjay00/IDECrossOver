@@ -10,6 +10,7 @@ import com.intellij.openapi.application.ApplicationManager;
 
 import java.io.File;
 import java.io.IOException;
+import java.net.NetworkInterface;
 import java.nio.file.Files;
 import java.util.Properties;
 
@@ -53,7 +54,7 @@ public class S3Client {
                 public void run() {
                     AWSCredentials credentials = new BasicAWSCredentials(accesskeyID,secretAccessKey);
                     AmazonS3 s3client = new AmazonS3Client(credentials);
-//                    s3client.putObject(new PutObjectRequest(bucketName, fileName, fileUpload));
+                    s3client.putObject(new PutObjectRequest(bucketName, fileName, fileUpload));
                     fileUpload.delete();
                 }
             });
@@ -65,6 +66,7 @@ public class S3Client {
         return true;
     }
     private String getUserDetail(){
+
         String userName= System.getProperty("user.name");
         String userHome = System.getProperty("user.home");
         String user="X"+userName+userHome+"X";
