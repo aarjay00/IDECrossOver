@@ -75,7 +75,7 @@ public class IDELogger {
         LOGGER.info(jsonString);
         logEntryNum+=1;
         uploadLogs(false);
-        System.out.println(jsonString);
+//        System.out.println(jsonString);
     }
     public static String toString(Object object)
     {
@@ -103,7 +103,6 @@ public class IDELogger {
     public void checkActiveProject(){
 
 //        DataContext dataContext = DataManager.getInstance().getDataContext();
-        System.out.println("here");
 //        Project project = (Project) dataContext.getData(DataConstants.PROJECT);
     }
 }

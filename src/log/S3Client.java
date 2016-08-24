@@ -10,7 +10,10 @@ import com.intellij.openapi.application.ApplicationManager;
 
 import java.io.File;
 import java.io.IOException;
+import java.net.InetAddress;
 import java.net.NetworkInterface;
+import java.net.SocketException;
+import java.net.UnknownHostException;
 import java.nio.file.Files;
 import java.util.Properties;
 
@@ -20,8 +23,8 @@ import java.util.Properties;
  */
 public class S3Client {
 
-    private static String accesskeyID = "AKIAJPLXTB7ME7WDDYBA";
-    private static String secretAccessKey = "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";
+    private static String accesskeyID = "AKIAIC3W6WEJ7IOFUA5A";
+    private static String secretAccessKey = "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";
 
     private static S3Client s3Client = null;
 
@@ -34,8 +37,8 @@ public class S3Client {
 
     public Boolean uploadLogToS3(){
 
-        String bucketName="cnu-2016";
-        String fileName="rjain/IDE_logs/"+getUserDetail()+"/"+getFileName();
+        String bucketName="cnu-idelogs";
+        String fileName=getUserDetail()+"/"+getFileName();
         Properties properties = System.getProperties();
         File fileLog = new File(System.getProperty("user.dir")+"/.IDECrossOverLogs/log");
         Long epoch = System.currentTimeMillis()/1000L;
@@ -68,8 +71,8 @@ public class S3Client {
     private String getUserDetail(){
 
         String userName= System.getProperty("user.name");
-        String userHome = System.getProperty("user.home");
-        String user="X"+userName+userHome+"X";
+        String macAddress = getMacAddress();
+        String user="X"+userName+macAddress+"X";
         user=user.replace('/','-');
         user=user.replace('\\','-');
         return user;
@@ -77,5 +80,33 @@ public class S3Client {
     private String getFileName() {
         Long epoch = System.currentTimeMillis() / 1000L;
         return epoch.toString()+"-log";
+    }
+    private String getMacAddress(){
+        try {
+            InetAddress ip = InetAddress.getLocalHost();
+            System.out.println("Current IP address : " + ip.getHostAddress());
+
+            NetworkInterface network = NetworkInterface.getByInetAddress(ip);
+
+            byte[] mac = network.getHardwareAddress();
+
+            System.out.print("Current MAC address : ");
+
+            StringBuilder sb = new StringBuilder();
+            for (int i = 0; i < mac.length; i++) {
+                sb.append(String.format("%02X%s", mac[i], (i < mac.length - 1) ? "-" : ""));
+            }
+            System.out.println(sb.toString());
+            return sb.toString();
+        }
+        catch(UnknownHostException e) {
+            e.printStackTrace();
+        }
+        catch (SocketException e){
+
+            e.printStackTrace();
+
+        }
+        return "";
     }
 }

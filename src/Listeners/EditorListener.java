@@ -20,6 +20,8 @@ public class EditorListener implements EditorMouseListener,EditorMouseMotionList
 
     private static EditorListener editorListener =null;
 
+    private static Integer editorMoveCount =0 ;
+
     public static EditorListener getInstance(){
         if(editorListener==null) {
             editorListener = new EditorListener();
@@ -63,8 +65,9 @@ public class EditorListener implements EditorMouseListener,EditorMouseMotionList
      */
     @Override
     public void mouseEntered(EditorMouseEvent e) {
+        editorMoveCount=0;
 //        System.out.println("4");
-            ActionLogger.getInstance().logEditorMouseEvent(e);
+            ActionLogger.getInstance().logEditorMouseEvent(e,editorMoveCount);
          }
 
     /**
@@ -75,7 +78,8 @@ public class EditorListener implements EditorMouseListener,EditorMouseMotionList
     @Override
     public void mouseExited(EditorMouseEvent e) {
 //        System.out.println("5");
-        ActionLogger.getInstance().logEditorMouseEvent(e);
+        ActionLogger.getInstance().logEditorMouseEvent(e,editorMoveCount);
+        editorMoveCount=0;
     }
 
     /**
@@ -85,8 +89,7 @@ public class EditorListener implements EditorMouseListener,EditorMouseMotionList
      */
     @Override
     public void mouseMoved(EditorMouseEvent e) {
-
-        ActionLogger.getInstance().logEditorMouseEvent(e);
+        editorMoveCount+=1;
     }
 
     /**
@@ -96,6 +99,6 @@ public class EditorListener implements EditorMouseListener,EditorMouseMotionList
      */
     @Override
     public void mouseDragged(EditorMouseEvent e) {
-
+        editorMoveCount+=1;
     }
 }

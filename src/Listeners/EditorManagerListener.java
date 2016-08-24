@@ -41,6 +41,7 @@ public class EditorManagerListener implements FileEditorManagerListener {
 //        FileEditor[] editorList= source.getAllEditors(file);
         for(Editor editor : editorList) {
             editor.addEditorMouseListener(EditorListener.getInstance());
+            editor.addEditorMouseMotionListener(EditorListener.getInstance());
         }
     }
 

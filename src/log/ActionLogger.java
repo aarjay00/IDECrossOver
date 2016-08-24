@@ -74,11 +74,14 @@ public class ActionLogger {
         logEntry.put("inputEvent",IDELogger.toString(logInputEvent(event.getInputEvent())));
         IDELogger.getInstance().log(logEntry);
     }
-    public void logEditorMouseEvent(EditorMouseEvent e)
+    public void logEditorMouseEvent(EditorMouseEvent e,Integer mouseMovementNum)
     {
         Map<String,String> logEntry = new HashMap<String,String>();
         logEntry.put("logType","EditorMouseEvent");
+        if(mouseMovementNum>0)
+            System.out.println("here");
         logEntry.put("mouseEvent",IDELogger.toString(logMouseEvent(e.getMouseEvent())));
+        logEntry.put("mouseMovementNum",mouseMovementNum.toString());
         EditorImpl editor = (EditorImpl)e.getSource();
         VirtualFile virtualFile = FileDocumentManager.getInstance().getFile(editor.getDocument());
         logEntry.put("fileName",virtualFile.getPath());
@@ -106,6 +109,7 @@ public class ActionLogger {
 
     public Map<String,String> logMouseEvent(MouseEvent mouseEvent)
     {
+        System.out.println();
         Map<String,String> logEntry= new HashMap<String,String>();
         logEntry.put("logType","MouseEvent");
         logEntry.put("MouseEvent",mouseEvent.paramString());
