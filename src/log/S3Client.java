@@ -53,7 +53,7 @@ public class S3Client {
                 public void run() {
                     AWSCredentials credentials = new BasicAWSCredentials(accesskeyID,secretAccessKey);
                     AmazonS3 s3client = new AmazonS3Client(credentials);
-                    s3client.putObject(new PutObjectRequest(bucketName, fileName, fileUpload));
+//                    s3client.putObject(new PutObjectRequest(bucketName, fileName, fileUpload));
                     fileUpload.delete();
                 }
             });

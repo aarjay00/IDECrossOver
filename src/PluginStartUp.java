@@ -24,7 +24,15 @@ import org.jetbrains.annotations.NotNull;
 
 import javax.swing.*;
 import java.awt.*;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 import java.util.Properties;
+
+import com.sun.jna.Native;
+import com.sun.jna.platform.win32.User32;
+import com.sun.jna.platform.win32.WinDef.HWND;
+import com.sun.jna.platform.win32.WinDef.RECT;
+
 
 /**
  * Created by aarjay on 12/08/16.
@@ -106,6 +114,7 @@ public class PluginStartUp implements ProjectComponent {
             fileEditorManager.addFileEditorManagerListener(EditorManagerListener.getInstance());//deprecated
         }
         System.out.println("Plugin opened!!!!\n");
+        getInFocusApplication();
 
         // called when project is opened
     }
@@ -117,32 +126,62 @@ public class PluginStartUp implements ProjectComponent {
         // called when project is being closed
     }
 
-    private void InFocusComponent(Project project)
+    private void getInFocusApplication()
     {
         ApplicationManager.getApplication().executeOnPooledThread(new Runnable() {
             @Override
             public void run() {
-                ApplicationManager.getApplication().runReadAction(new Runnable() {
-                    @Override
-                    public void run() {
 
-                        Integer i =0;
-                        while(i<100)
-                        {
-                            System.out.println("haha");
-                            Component component = FocusManagerImpl.getInstance().getFocusOwner();
-                            System.out.println(component.toString());
-                            try {
-                                Thread.sleep(5000);
-                                i++;
-                            }
-                            catch (InterruptedException e)
-                            {
-                                IDELogger.getInstance().log("Error in Thread Sleeping");
-                            }
+                String osName= System.getProperty("os.name").toLowerCase();
+                if(osName.contains("mac"))
+                    runLinux();
+                else if(osName.contains("windows"))
+                    runWindows();
+
+            }
+            private void runLinux(){
+                while(true) {
+                    String command= "lsappinfo";
+                    StringBuffer output = new StringBuffer();
+                    Process p;
+                    try {
+                        p = Runtime.getRuntime().exec(command);
+                        p.waitFor();
+                        BufferedReader reader =
+                                new BufferedReader(new InputStreamReader(p.getInputStream()));
+                        String line = "";
+                        while ((line = reader.readLine()) != null) {
+                            if(line.contains("in front"))
+                                output.append(line + "\n");
                         }
+
+                    } catch (Exception e) {
+                        e.printStackTrace();
                     }
-                });
+                    System.out.println("Command Output---" + output.toString());
+                    try {
+                        Thread.sleep(30000);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+                }
+            }
+            private void runWindows(){
+                while(true){
+
+                    char[] buffer = new char[1024 * 2];
+                    HWND hwnd = User32.INSTANCE.GetForegroundWindow();
+                    User32.INSTANCE.GetWindowText(hwnd, buffer, 1024   );
+                    System.out.println("Active window title: " + Native.toString(buffer));
+                    RECT rect = new RECT();
+                    User32.INSTANCE.GetWindowRect(hwnd, rect);
+                    System.out.println("rect = " + rect);
+                    try{
+                        Thread.sleep(30000);
+                    }catch (InterruptedException e){
+                        e.printStackTrace();
+                    }
+                }
             }
         });
     }
