@@ -106,9 +106,10 @@ public class S3Client {
             e.printStackTrace();
         }
         catch (SocketException e){
-
             e.printStackTrace();
-
+        }
+        catch (NullPointerException e){
+            e.printStackTrace();
         }
         return "";
     }

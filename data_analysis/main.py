@@ -20,3 +20,19 @@ from s3_client import *
 # print len(log_list)
 
 # log_list[0]
+
+from parse_logs import *
+from parse_log_entry import *
+
+from action_type import ActionType
+
+ActionType.load_files()
+
+user_logs=parse_all_logs('Logs')
+
+log_collec=[]
+for user_name,user_log in user_logs.iteritems():
+    log_collec.extend(user_log)
+
+for log_entry in log_collec:
+    parse_log_entry(log_entry)

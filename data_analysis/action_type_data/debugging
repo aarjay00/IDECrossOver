@@ -1,4 +1,11 @@
 Force Step Into
-Step Out,Step Over
-Step Into, Resume Program
+Step Out
+Step Over
+Step Into
+Resume Program
 Toggle Line Breakpoint
+Run Inspection by Name...
+Inspect Code...
+View Breakpoints...
+Analyze Project Files
+Analyze Package(s) Files

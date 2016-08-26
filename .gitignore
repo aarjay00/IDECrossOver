@@ -5,6 +5,7 @@ out/
 *.pyc
 *.swp
 *.zip
+log*
 data_analysis/eclipse
 data_analysis/intellij
 data_analysis/Logs
