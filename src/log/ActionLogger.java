@@ -199,6 +199,7 @@ public class ActionLogger {
     }
     public void logToolMouseMovement(ToolWindowImpl newToolWindow){
         Project project = newToolWindow.getToolWindowManager().getProject();
+        if(project==null) return;
         if(activeProject==null || !project.equals(activeProject)){
             logProjectChange(project);
         }
