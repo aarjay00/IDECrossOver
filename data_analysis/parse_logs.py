@@ -39,8 +39,8 @@ def parse_intellij_log(file):
         try:
             log_list.append(json.loads(file_data_clean_line))
         except ValueError:
-            pass
-            # print "Could not load as Json",file_data_clean_line
+            # pass
+            print "Could not load as Json",file_data_clean_line
 
     return log_list
 
