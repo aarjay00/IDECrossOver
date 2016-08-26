@@ -53,9 +53,7 @@ def parse_user_logs(dir_name):
     return user_log_list
 
 def parse_all_logs(log_dir_path):
-
     user_dir_paths=get_all_dir(log_dir_path)
-
     user_logs={}
     for user_dir_path in user_dir_paths:
         user_logs[user_dir_path] = parse_user_logs(user_dir_path)
