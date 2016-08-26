@@ -1,0 +1,204 @@
+active Window Google Chrome--Trello
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+active Window idea--
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 53
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 8
+active Window Terminal--utqg-demo-local — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/utqg-demo-local org.codehaus.plexus.classworlds.launcher.Launcher -DBUILD_VCS_NUMBER=TEST1 clean install — 188×44
+active Window Terminal--utqg-demo-local — java ◂ java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/utqg-demo-local org.codehaus.plexus.classworlds.launcher.Launcher -DBUILD_VCS_NUMBER=TEST1 clean install — 188×44
+active Window Terminal--utqg-demo-local — -bash — 188×44
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 29
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 32
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 50
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 2
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 104
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 20
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 1
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 6
+active Window idea--
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/pom.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/pom.xml 1
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/pom.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/pom.xml 29
+File Opened  /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
+Document Changed Code Added
+Active Project Project '/Users/nicolasfontenele/IdeaProjects/utqg-demo-local' my-app
+Action misc
+Action misc
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 95
+Exited Tool Run 2203
+Entered Tool Event Log 0
+active Window Terminal--quality-gate — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
+active Window Terminal--quality-gate — java ◂ java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
+active Window Terminal--quality-gate — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
+active Window java--
+active Window Terminal--quality-gate — -bash — 188×44
+active Window Terminal--utqg-demo-local — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/utqg-demo-local org.codehaus.plexus.classworlds.launcher.Launcher -DBUILD_VCS_NUMBER=TEST1 clean install — 188×44
+active Window Terminal--utqg-demo-local — java ◂ java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/utqg-demo-local org.codehaus.plexus.classworlds.launcher.Launcher -DBUILD_VCS_NUMBER=TEST1 clean install — 188×44
+active Window Terminal--utqg-demo-local — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/utqg-demo-local org.codehaus.plexus.classworlds.launcher.Launcher -DBUILD_VCS_NUMBER=TEST1 clean install — 188×44
+active Window Terminal--utqg-demo-local — -bash — 188×44
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 7
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 1
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+active Window idea--
+Active Project Project '/Users/nicolasfontenele/IdeaProjects/quality-gate' quality-gate
+Action misc
+Action misc
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 98
+active Window MySQLWorkbench--
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 16
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 7
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 1
+active Window idea--
+active Window Slack--
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 3
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+active Window idea--
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 112
+active Window Skype--Skype
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 40
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 3
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 18
+active Window idea--
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 10
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 17
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 68
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 16
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 6
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 11
+active Window Terminal--utqg-demo-local — -bash — 188×44
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 2
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 6
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 3
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 2
+active Window idea--
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 1
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 48
+Active Project Project '/Users/nicolasfontenele/IdeaProjects/utqg-demo-local' my-app
+active Window Terminal--utqg-demo-local — -bash — 188×44
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 17
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 13
+Active Project Project '/Users/nicolasfontenele/IdeaProjects/quality-gate' quality-gate
+Action run
+Action run
+active Window idea--
+active Window MySQLWorkbench--
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 15
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 13
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 60
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 12
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 2
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 12
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Action run
+Action run
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Successful Compilation
+Successful Compilation
+Notification Compiler All files are up-to-date
+Notification Compiler All files are up-to-date
+active Window idea--
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 36
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+active Window Terminal--utqg-demo-local — -bash — 188×44
+active Window Terminal--utqg-demo-local — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/utqg-demo-local org.codehaus.plexus.classworlds.launcher.Launcher -DBUILD_VCS_NUMBER=TEST1 clean install — 188×44
+active Window MySQLWorkbench--
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 6
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 10
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 6
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 20
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 1
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 2
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 24
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+active Window Terminal--utqg-demo-local — -bash — 188×44

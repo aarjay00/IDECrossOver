@@ -1,0 +1,347 @@
+active Window Terminal--quality-gate — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 2
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 26
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 6
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 134
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 26
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 2
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 2
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Action file_action_edit
+Action file_action_edit
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 50
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+active Window idea--
+Action misc
+Action misc
+Action file_action_edit
+Action file_action_edit
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 62
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Action file_action_edit
+Action file_action_edit
+Document Changed Code Removed
+Action misc
+Action misc
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 44
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 8
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 114
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Action file_action_edit
+Action file_action_edit
+Document Changed Code Removed
+Action file_action_edit
+Action file_action_edit
+Document Changed Code Removed
+Action file_action_edit
+Action file_action_edit
+Document Changed Code Removed
+Action misc
+Action misc
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 214
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Action file_action_edit
+Action file_action_edit
+Document Changed Code Removed
+Action file_action_edit
+Action file_action_edit
+Document Changed Code Removed
+Action misc
+Action misc
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 144
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 28
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+active Window Terminal--quality-gate — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 4
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 40
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 8
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+active Window Skype--Skype
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 36
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 4
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+active Window java--
+active Window Terminal--quality-gate — -bash — 188×44
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 20
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Action file_action_edit
+Action file_action_edit
+Document Changed Code Added
+Action misc
+Action misc
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 56
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 16
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+active Window idea--
+active Window Terminal--quality-gate — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
+active Window Terminal--quality-gate — java ◂ java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
+active Window java--
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 4
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 32
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+active Window idea--
+active Window Sublime Text--
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 78
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 6
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Action file_action_non_edit
+Action file_action_non_edit
+Document Changed Code Added
+Action file_action_non_edit
+Action file_action_non_edit
+Document Changed Code Added
+Action file_action_edit
+Action file_action_edit
+Document Changed Code Added
+active Window idea--
+Action misc
+Action misc
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 70
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+active Window Terminal--quality-gate — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
+active Window Terminal--quality-gate — java ◂ java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
+active Window java--
+active Window Terminal--quality-gate — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 34
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Document Changed Code Added
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 220
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Action file_action_non_edit
+Action file_action_non_edit
+Document Changed Code Added
+Action file_action_edit
+Action file_action_edit
+Document Changed Code Added
+Action misc
+Action misc
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 142
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 44
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Action file_action_non_edit
+Action file_action_non_edit
+Document Changed Code Added
+Action misc
+Action misc
+active Window idea--
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 38
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+active Window Terminal--quality-gate — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
+active Window Terminal--quality-gate — java ◂ java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
+active Window java--
+active Window Terminal--quality-gate — -bash — 188×44
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 8
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+active Window idea--
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 110
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 4
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+active Window Finder--nicolasfontenele
+active Window Google Chrome--Unit Test Quality Gate –
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 38
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 2
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Action versioning
+Action versioning
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+active Window idea--
+Action file_action_edit
+Action file_action_edit
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Notification Vcs Messages 2 files committed: UTQG-23  - Adding disabled rules capability
+- Adding documentation
+Notification Vcs Messages 2 files committed: UTQG-23  - Adding disabled rules capability
+- Adding documentation
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 8
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 42
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Notification Vcs Messages Pushed 1 commit to upstream/feature/UTQG-23-disabling-of-rules-for-specific-products
+Notification Vcs Messages Pushed 1 commit to upstream/feature/UTQG-23-disabling-of-rules-for-specific-products
+active Window Skype--Skype
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+active Window idea--
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 270
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 2
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 2
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 32
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
+File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 38
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 2
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 20
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 10
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 34
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 6
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 168
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 24
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 106
+Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+active Window Google Chrome--Projects - Stash
+active Window Google Chrome--Unit Test Quality Gate –
+active Window Google Chrome--Create Pull Request Unit Test Automated Quality Gate / unit-test-automation-quality-gate - Stash
+active Window Google Chrome--Pull Request #282: Feature/UTQG-23 disabling of rules for specific products - Stash
+active Window Google Chrome--IMPORTANT. Codenvy Survey - nicolas.fontenele@aurea.com - Aurea Software Mail

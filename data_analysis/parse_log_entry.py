@@ -120,7 +120,7 @@ def parse_document_event(logEntry):
     elif(oldLength==0 and newLength>0):
         return ["Document Changed","Code Added"]
     elif(oldLength>0  and newLength==0):
-        return ["Document Changed","Code Added"]
+        return ["Document Changed","Code Removed"]
     elif(oldLength<newLength):
         return ["Document Changed", "Code Replaced","More"]
     else:

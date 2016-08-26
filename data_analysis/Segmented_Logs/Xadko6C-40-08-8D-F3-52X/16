@@ -1,0 +1,918 @@
+File Opened  /Users/adko/Projects/aurea/unit-test-automation-quality-gate/utqg-tool/utqg-bitbucket/src/main/docker/stash/Dockerfile
+File Opened  /Users/adko/Projects/aurea/unit-test-automation-quality-gate/utqg-tool/utqg-bitbucket/src/main/docker/stash/Dockerfile
+File Opened  /Users/adko/Projects/aurea/unit-test-automation-quality-gate/utqg-tool/utqg-bitbucket/src/main/docker/stash/Dockerfile
+active Window idea--
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/utqg-tool/utqg-bitbucket/src/main/docker/stash/Dockerfile 54
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/utqg-tool/utqg-bitbucket/src/main/docker/stash/Dockerfile 0
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/utqg-tool/utqg-bitbucket/src/main/docker/stash/Dockerfile 0
+File Opened  /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile
+File Opened  /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile
+File Opened  /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 162
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+active Window Google Chrome--https://bitbucket.org/atlassian/docker-atlassian-bitbucket-server/raw/090af69b1ac6099b5636b1ee8df30b20293d72d7/Dockerfile
+active Window Google Chrome--Inbox (8) - adam.siemion@aurea.com - Aurea Software Mail
+active Window Google Chrome--Unit Test Quality Gate - Aurea Engineering - Aurea Wiki
+active Window Google Chrome--Quality Gate (maven release) #4 Console [Jenkins]
+active Window Google Chrome--Quality Gate (maven release) Config [Jenkins]
+active Window Google Chrome--Quality Gate (maven release) [Jenkins]
+active Window Google Chrome--Jenkins
+active Window Google Chrome--Quality Gate (maven release) #5 Console [Jenkins]
+active Window Google Chrome--Pull Request #273: UTQG-9: Use parameterized collections rule. - Stash
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+active Window Google Chrome--Bitbucket Server home directory - Atlassian Documentation
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+active Window idea--
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 102
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+active Window iTerm2--1. adko@ip-10-164-6-240: ~/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket (zsh)
+active Window iTerm2--1. docker run -p 8888:7990 bitbucket:4.8.4 (docker)
+active Window iTerm2--1. adko@ip-10-164-6-240: ~/Projects/aurea/unit-test-automation-quality-gate/swarm (zsh)
+active Window iTerm2--1. docker run -p 8888:7990 bitbucket:4.8.4 (docker)
+active Window iTerm2--1. adko@ip-10-164-6-240: ~/Projects/aurea/unit-test-automation-quality-gate/swarm (zsh)
+active Window iTerm2--1. adko@ip-10-164-6-240: ~/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket (zsh)
+active Window iTerm2--1. docker build -t bitbucket:4.8.4 . (docker)
+active Window Google Chrome--Quality Gate (maven release) #5 Console [Jenkins]
+active Window Google Chrome--detecting the current branch failed: fatal: ref HEAD is not a symbolic ref - Google Search
+active Window Google Chrome--"Git fatal: ref HEAD is not a symbolic ref" while using maven release plugin - Stack Overflow
+active Window Google Chrome--Quality Gate (maven release) Config [Jenkins]
+active Window Google Chrome--"Git fatal: ref HEAD is not a symbolic ref" while using maven release plugin - Stack Overflow
+active Window Google Chrome--Quality Gate (maven release) [Jenkins]
+active Window Google Chrome--worker.devfactory.com:15315/job/Quality Gate (maven release)/m2release/
+active Window Google Chrome--Jenkins
+active Window Google Chrome--Bitbucket Server home directory - Atlassian Documentation
+active Window iTerm2--1. adko@ip-10-164-6-240: ~/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket (zsh)
+active Window iTerm2--1. docker run -p 8888:7990 bitbucket:4.8.4 (docker)
+active Window Google Chrome--"Git fatal: ref HEAD is not a symbolic ref" while using maven release plugin - Stack Overflow
+active Window iTerm2--1. adko@ip-10-164-6-240: ~/Projects/aurea/unit-test-automation-quality-gate/swarm (zsh)
+active Window iTerm2--1. docker exec -i -t 270a625f5836 bash (docker)
+active Window iTerm2--1. docker run -p 8888:7990 bitbucket:4.8.4 (docker)
+Document Changed Code Replaced Less
+Document Changed Code Replaced Less
+Document Changed Code Replaced Less
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+active Window idea--
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 762
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+active Window iTerm2--1. docker exec -i -t 270a625f5836 bash (docker)
+active Window Google Chrome--Inbox (7) - adam.siemion@aurea.com - Aurea Software Mail
+active Window Google Chrome--Search results - adam.siemion@aurea.com - Aurea Software Mail
+active Window TextEdit--Dockerfile (1)
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+active Window idea--
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Action misc
+Action misc
+Action misc
+Action misc
+Action misc
+Action misc
+Action misc
+Action misc
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Action file_action_edit
+Document Changed Code Replaced Less
+Document Changed Code Replaced Less
+Document Changed Code Replaced Less
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Document Changed Code Added
+Action misc
+Action misc
+Action misc
+Action misc
+Document Changed Code Removed
+Document Changed Code Removed
+Document Changed Code Removed
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action misc
+Action misc
+Action misc
+Action misc
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 1191
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+active Window iTerm2--1. docker run -p 8888:7990 bitbucket:4.8.4 (docker)
+active Window iTerm2--1. adko@ip-10-164-6-240: ~/Projects/aurea/unit-test-automation-quality-gate/swarm (zsh)
+active Window iTerm2--1. adko@ip-10-164-6-240: ~/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket (zsh)
+active Window iTerm2--1. docker build -t bitbucket:4.8.4 . (zsh)
+active Window iTerm2--1. docker build -t bitbucket:4.8.4 . (docker)
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+active Window idea--
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action file_navigation
+Action misc
+Action misc
+Action misc
+Action misc
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Action file_action_non_edit
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 924
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 15
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
