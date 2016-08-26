@@ -1,5 +1,6 @@
 package Listeners;
 
+import com.intellij.openapi.wm.ToolWindow;
 import com.intellij.openapi.wm.impl.ToolWindowImpl;
 
 import java.awt.event.FocusEvent;

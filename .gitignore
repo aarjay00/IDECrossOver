@@ -3,5 +3,8 @@ resources/
 out/
 *.jar
 *.pyc
+*.swp
+*.zip
 data_analysis/eclipse
 data_analysis/intellij
+data_analysis/Logs

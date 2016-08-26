@@ -24,9 +24,9 @@ public class ActionListener implements AnActionListener {
     @Override
     public void beforeActionPerformed(AnAction action, DataContext dataContext, AnActionEvent event) {
 
-        Class cl = dataContext.getClass();
+//        Class cl = dataContext.getClass();
 
-        Module module = (Module)dataContext.getData(DataKeys.MODULE.getName());
+//        Module module = (Module)dataContext.getData(DataKeys.MODULE.getName());
 
         event.getData(PlatformDataKeys.FILE_EDITOR);
         System.out.println(action.getTemplatePresentation().getDescription());

@@ -33,14 +33,17 @@ public class ToolWindowManagerHook implements ToolWindowManagerListener {
     }
     @Override
     public void toolWindowRegistered(@NotNull String s) {
-        Project [] projects = ProjectManager.getInstance().getOpenProjects();
+
+        ProjectManager projectManager = ProjectManager.getInstance();
+        if(projectManager==null) return;
+        Project [] projects = projectManager.getOpenProjects();
         for(Project project: projects)
         {
-            ToolWindowImpl toolWindow= (ToolWindowImpl)ToolWindowManager.getInstance(project).getToolWindow(s);
-            /*toolWindow.addPropertyChangeListener();*/
-            ContentManager contentManager = toolWindow.getContentManager();
-            if(toolWindow.getId().equals("Project"))
-                System.out.println("check");
+            ToolWindowManager toolWindowManager = ToolWindowManager.getInstance(project);
+            if(toolWindowManager==null) continue;
+            ToolWindowImpl toolWindow= (ToolWindowImpl)toolWindowManager.getToolWindow(s);
+            if(toolWindow==null) continue;
+//            ContentManager contentManager = toolWindow.getContentManager();
             ReflectUtil.getInstance().getAllFieldValues(toolWindow,toolWindow);
         }
     }

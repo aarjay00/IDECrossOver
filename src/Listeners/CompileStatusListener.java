@@ -31,10 +31,10 @@ public class CompileStatusListener implements CompilationStatusListener {
     @Override
     public void compilationFinished(boolean aborted, int errors, int warnings, CompileContext compileContext) {
 
-        CompilerMessage[] compilerMessagesError = compileContext.getMessages(CompilerMessageCategory.ERROR);
-        CompilerMessage[] compilerMessagesInfo = compileContext.getMessages(CompilerMessageCategory.INFORMATION);
-        CompilerMessage[] compilerMessagesWarning = compileContext.getMessages(CompilerMessageCategory.WARNING);
-        CompilerMessage[] compilerMessagesStattistics = compileContext.getMessages(CompilerMessageCategory.STATISTICS);
+//        CompilerMessage[] compilerMessagesError = compileContext.getMessages(CompilerMessageCategory.ERROR);
+//        CompilerMessage[] compilerMessagesInfo = compileContext.getMessages(CompilerMessageCategory.INFORMATION);
+//        CompilerMessage[] compilerMessagesWarning = compileContext.getMessages(CompilerMessageCategory.WARNING);
+//        CompilerMessage[] compilerMessagesStattistics = compileContext.getMessages(CompilerMessageCategory.STATISTICS);
         System.out.println(compileContext.toString());
         ActionLogger.getInstance().logCompilationStatus(compileContext,errors,aborted,warnings);
     }

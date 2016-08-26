@@ -13,10 +13,10 @@
 
 
 from parse_logs import *
+from s3_client import *
 
+# log_list=parse_old_intelliJ_log("log")
 
-log_list=parse_old_intelliJ_log("log")
+# print len(log_list)
 
-print len(log_list)
-
-log_list[0]
+# log_list[0]

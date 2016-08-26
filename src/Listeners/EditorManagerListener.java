@@ -8,12 +8,17 @@ import com.intellij.openapi.vfs.VirtualFile;
 import log.ActionLogger;
 import org.jetbrains.annotations.NotNull;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Created by aarjay on 13/08/16.
  */
 public class EditorManagerListener implements FileEditorManagerListener {
 
     private static EditorManagerListener editorManagerListener = null;
+
+    private static List<Document> registered_documents  = new ArrayList<Document>();
 
     public static EditorManagerListener getInstance()
     {
@@ -28,9 +33,8 @@ public class EditorManagerListener implements FileEditorManagerListener {
 
         FileDocumentManager fileDocumentManager  = FileDocumentManager.getInstance();
         Document document = fileDocumentManager.getDocument(file);
-
         try {
-            document.addDocumentListener(DocListener.getInstance());
+            addDocumentListener(document);
         }
         catch (Throwable e){
 
@@ -52,7 +56,7 @@ public class EditorManagerListener implements FileEditorManagerListener {
         Document document = fileDocumentManager.getDocument(file);
 
         try {
-            document.removeDocumentListener(DocListener.getInstance());
+            removeDocumentListener(document);
         }
         catch (Throwable e){
             return;
@@ -66,9 +70,20 @@ public class EditorManagerListener implements FileEditorManagerListener {
         }
 
     }
-
     @Override
     public void selectionChanged(@NotNull FileEditorManagerEvent event) {
             ActionLogger.getInstance().logFileEditorChange(event.getNewFile());
         }
+    private void addDocumentListener(Document document){
+        if(registered_documents.contains(document))
+            return;
+        registered_documents.add(document);
+        document.addDocumentListener(DocListener.getInstance());
+    }
+    private void removeDocumentListener(Document document){
+        if(!registered_documents.contains(document))
+            return;
+        document.removeDocumentListener(DocListener.getInstance());
+        registered_documents.remove(document);
+    }
 }

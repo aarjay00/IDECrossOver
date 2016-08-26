@@ -36,6 +36,7 @@ public class DocListener implements DocumentListener {
      */
     @Override
     public void documentChanged(DocumentEvent event) {
+
         ActionLogger.getInstance().logDocumentEvent(event);
     }
 }

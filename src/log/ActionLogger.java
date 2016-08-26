@@ -61,10 +61,11 @@ public class ActionLogger {
     public  void logAction(AnAction action, DataContext dataContext, AnActionEvent event){
 
         Project project = event.getProject();
+        if(project==null) return;
         if(activeProject==null || !project.equals(activeProject))
             logProjectChange(project);
-        String inputEvent = event.getInputEvent().toString();
-        String myText=action.getTemplatePresentation().getText();
+//        String inputEvent = event.getInputEvent().toString();
+//        String myText=action.getTemplatePresentation().getText();
         Map<String,String> logEntry= new HashMap<String,String>();
         logEntry.put("logType","Action");
         logEntry.put("description",action.getTemplatePresentation().getDescription());

@@ -39,7 +39,7 @@ public class S3Client {
 
         String bucketName="cnu-idelogs";
         String fileName=getUserDetail()+"/"+getFileName();
-        Properties properties = System.getProperties();
+//        Properties properties = System.getProperties();
         File fileLog = new File(System.getProperty("user.dir")+"/.IDECrossOverLogs/log");
         Long epoch = System.currentTimeMillis()/1000L;
         File fileUpload = new File(System.getProperty("user.dir")+"/.IDECrossOverLogs/upload"+epoch.toString());
@@ -58,7 +58,9 @@ public class S3Client {
                     AWSCredentials credentials = new BasicAWSCredentials(accesskeyID,secretAccessKey);
                     AmazonS3 s3client = new AmazonS3Client(credentials);
                     s3client.putObject(new PutObjectRequest(bucketName, fileName, fileUpload));
-                    fileUpload.delete();
+                    if(!fileUpload.delete()){
+                        //Handle upload file not being deleted
+                    }
                     IDELogger.getInstance().deleteLogs();
                 }
             });

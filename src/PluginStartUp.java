@@ -13,6 +13,7 @@ import com.intellij.openapi.fileEditor.FileEditorManager;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.project.ProjectManager;
 import com.intellij.openapi.wm.*;
+import com.intellij.openapi.wm.ex.ToolWindowManagerEx;
 import com.intellij.openapi.wm.impl.FocusManagerImpl;
 import com.intellij.openapi.wm.impl.ToolWindowManagerImpl;
 import com.intellij.psi.PsiManager;
@@ -65,8 +66,8 @@ public class PluginStartUp implements ProjectComponent {
     @Override
     public void projectOpened() {
 
-        Properties properties = System.getProperties();
-        Application application = ApplicationManager.getApplication();
+//        Properties properties = System.getProperties();
+//        Application application = ApplicationManager.getApplication();
         Project[] projectList  = ProjectManager.getInstance().getOpenProjects();
 
         ProjectManager.getInstance().addProjectManagerListener(ProjectListener.getInstance());
@@ -77,7 +78,7 @@ public class PluginStartUp implements ProjectComponent {
         WindowManager windowManager = WindowManager.getInstance();
         windowManager.addListener(WindowManagerHook.getInstance());
 
-        String na = ToolWindowId.MESSAGES_WINDOW;
+//        String na = ToolWindowId.MESSAGES_WINDOW;
         for(Project project : projectList )
         {
             PsiManager psiManager = PsiManager.getInstance(project);
@@ -99,8 +100,15 @@ public class PluginStartUp implements ProjectComponent {
 //                }
 //            });
             FileEditorManager fileEditorManager= FileEditorManager.getInstance(project);
-            ToolWindowManagerImpl toolWindowManager  =(ToolWindowManagerImpl)ToolWindowManager.getInstance(project);
-            toolWindowManager.addToolWindowManagerListener(ToolWindowManagerHook.getInstance());
+            if(ToolWindowManager.getInstance(project) instanceof  ToolWindowManagerImpl) {
+                ToolWindowManagerImpl toolWindowManager = (ToolWindowManagerImpl) ToolWindowManager.getInstance(project);
+                toolWindowManager.addToolWindowManagerListener(ToolWindowManagerHook.getInstance());
+            }
+            else{
+                ToolWindowManagerEx toolWindowManager = (ToolWindowManagerEx) ToolWindowManager.getInstance(project);
+                toolWindowManager.addToolWindowManagerListener(ToolWindowManagerHook.getInstance());
+            }
+            ToolWindowManager toolWindowManager = ToolWindowManager.getInstance(project);
             String[] toolWindowIDList = toolWindowManager.getToolWindowIds();
 
             for(String ID : toolWindowIDList){
