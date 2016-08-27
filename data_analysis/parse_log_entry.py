@@ -63,7 +63,7 @@ def parse_focus_entry(log_entry):
 
 def parse_file_editor_change(log_entry):
     try:
-        return ['File Opened', log_entry['fileName']]
+        return ['Active File', log_entry['fileName']]
     except KeyError:
         return None
 
@@ -118,11 +118,11 @@ def parse_document_event(logEntry):
     if(newLength==0 and oldLength==0):
         return None
     elif(oldLength==0 and newLength>0):
-        return ["Document Changed","Code Added"]
+        return ["Document Changed","Code Added",str(newLength)]
     elif(oldLength>0  and newLength==0):
-        return ["Document Changed","Code Removed"]
+        return ["Document Changed","Code Removed",str(oldLength)]
     elif(oldLength<newLength):
-        return ["Document Changed", "Code Replaced","More"]
+        return ["Document Changed", "Code Replaced",str(newLength),str(oldLength)]
     else:
-        return ["Document Changed", "Code Replaced","Less"]
+        return ["Document Changed", "Code Replaced",str(newLength),str(oldLength)]
     return None

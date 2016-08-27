@@ -30,7 +30,7 @@ from action_type import ActionType
 
 ActionType.load_files()
 
-s3_client.downloadLogs()
+# s3_client.downloadLogs()
 
 old_log=parse_old_intelliJ_log('log')
 
