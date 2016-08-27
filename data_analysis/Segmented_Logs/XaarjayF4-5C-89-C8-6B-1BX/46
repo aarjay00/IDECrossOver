@@ -1,31 +1,28 @@
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 6
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 15
+Exiting File Editor File 1 activity-6
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-15
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 6
-Focus Lost Tool Debug
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-6
 Focus Lost Tool Debug
 active Window Slack--
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
-Focus Gained Tool Debug
+Entering File Editor File 1 activity-0
 Focus Gained Tool Debug
 Focus Lost Tool Debug
-Focus Lost Tool Debug
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 28
+Exiting File Editor File 1 activity-28
 Action run
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully with 4 warnings in 3s 25ms</a>
 active Window idea--
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 15
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-15
 Exited Tool Debug 1579
 Entered Tool Messages 0
 Exited Tool Messages 1
@@ -250,66 +247,65 @@ Exited Tool Debug 3
 Entered Tool Messages 0
 Exited Tool Messages 1
 Entered Tool Debug 0
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 2
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-2
 Action run
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully with 4 warnings in 3s 124ms</a>
 Action run
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
+Entering File Editor File 1 activity-0
 Successful Compilation
 Notification Compiler All files are up-to-date
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
+Exiting File Editor File 1 activity-0
 Notification Plugin DevKit Deployment Zip for module 'IDECrossOver' was saved to /Users/aarjay/IdeaProjects/IDECrossOver/IDECrossOver.zip
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
+Entering File Editor File 1 activity-0
+Active Project Project 1
 active Window idea--
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 2
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 1
-File Opened  /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java
-File Opened  /Users/aarjay/plugin/intellij-community/platform/platform-api/src/com/intellij/openapi/wm/ToolWindowManager.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java
+File Opened File 1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-2
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
+File Opened File 2
+File Opened File 3
+File Opened File 4
+File Opened File 5
+File Opened File 5
 Entered Tool Project 0
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 7
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 9
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-7
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-9
 active Window Terminal--.IDECrossOverLogs — -bash — 235×66
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 22
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-File Opened  /Users/aarjay/plugin/intellij-community/platform/platform-api/src/com/intellij/openapi/wm/ToolWindowManager.java
-File Opened  /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-22
+File Opened File 5
+File Opened File 5
+File Opened File 5
+File Opened File 5
 Action misc
 active Window idea--
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 3
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-3
 Action misc
 active Window Terminal--.IDECrossOverLogs — tail -f log — 235×66
 active Window Google Chrome--My Drive - Google Drive
 active Window Google Chrome--ToolRuns - Google Drive
 active Window Google Chrome--Install IntelliJ IDE Logger Plugin - Google Docs
 active Window Skype--Skype
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 5
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 1
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 0
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 2
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 11
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 0
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 5
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 1
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-1
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-2
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-11
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-1

@@ -1,63 +1,61 @@
 Action run
-Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
 Notification Execution Unable to open debugger port (127.0.0.1:54983): java.net.BindException "Address already in use"
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java 0
+Entering File Editor File 1 activity-0
 Action file_navigation
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java 4
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java 0
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java 0
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 2
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 30
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 0
+Exiting File Editor File 1 activity-4
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-0
+File Opened File 2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-30
+Entering File Editor File 2 activity-0
 Action debugging
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 19
-Action run
+Exiting File Editor File 2 activity-19
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 16
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 5
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-16
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-5
 Action debugging
 Action run
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 0
+Entering File Editor File 2 activity-0
 Action debugging
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 45
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 24
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 1
+Exiting File Editor File 2 activity-45
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-24
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java
+File Opened File 2
 Action run
 active Window Google Chrome--Tame Impala - Love/Paranoia (Music Video) - YouTube
 active Window Google Chrome--Tame Impala - Love/Paranoia (Music Video) - YouTube 🔊
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java 13
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-13
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java
+File Opened File 2
 active Window idea--
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java
+File Opened File 2
 Action debugging
 Action debugging
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java
+File Opened File 2
 Action debugging
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java
+File Opened File 2
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
@@ -65,26 +63,23 @@ Notification HotSwap Loaded classes are up to date. Nothing to reload.
 Action debugging
 Action debugging
 Action debugging
-Action debugging
-Action debugging
-Action debugging
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDiffNode.java
+File Opened File 3
 active Window Google Chrome--Tame Impala - Love/Paranoia (Music Video) - YouTube
 active Window idea--
 active Window Skype--Skype
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDiffNode.java 0
+Entering File Editor File 3 activity-0
 active Window idea--
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDiffNode.java 0
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDiffNode.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDiffNode.java 0
+Exiting File Editor File 3 activity-0
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-0
 active Window Skype--Skype
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDiffNode.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDiffNode.java 10
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-10
 active Window Google Chrome--SWEvol-ChangeDistiller.pdf
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDiffNode.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDiffNode.java 23
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-23
+File Opened File 4
+Entering File Editor File 4 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -95,16 +90,13 @@ Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 24
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
+Exiting File Editor File 4 activity-24
+File Opened File 5
+Entering File Editor File 5 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -117,32 +109,28 @@ Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
 Document Changed Code Added
 Action misc
+Exiting File Editor File 5 activity-20
+File Opened File 5
+Entering File Editor File 5 activity-0
 Action misc
+Exiting File Editor File 5 activity-35
+File Opened File 5
+Entering File Editor File 5 activity-0
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 20
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 35
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 10
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 1
+Exiting File Editor File 5 activity-10
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-1
 Action run
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 1
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-1
+Entering File Editor File 5 activity-0
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 13
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 1
+Exiting File Editor File 5 activity-13
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-1
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
@@ -150,24 +138,24 @@ Notification Execution Unable to open debugger port (127.0.0.1:55427): java.net.
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 35
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 29
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-35
+File Opened File 5
+File Opened File 5
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-29
 Action debugging
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java
+File Opened File 5
 Action debugging
 active Window Google Chrome--SWEvol-ChangeDistiller.pdf
 active Window Google Chrome--YouTube
 active Window idea--
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java 45
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/distilling/FileDistiller.java
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-45
+File Opened File 6
+File Opened File 6
 Action debugging
 Action debugging
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
+File Opened File 6

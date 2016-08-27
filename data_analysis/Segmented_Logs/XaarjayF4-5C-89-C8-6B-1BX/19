@@ -1,50 +1,42 @@
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
+Active Project Project 1
 active Window idea--
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java
+File Opened File 1
+File Opened File 2
 active Window pycharm--
 Focus Gained Tool Terminal
-Focus Gained Tool Terminal
-Focus Lost Tool Terminal
 Focus Lost Tool Terminal
 Entered Tool Terminal 0
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java 9
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java 32
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java 1
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-9
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-32
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
 active Window idea--
 Action misc
-Active Project Project '/Users/aarjay/Downloads/ideacommitlogplugin/S3Client' S3Client
-Active Project Project '/Users/aarjay/Downloads/ideacommitlogplugin/S3Client' S3Client
-Active Project Project '/Users/aarjay/Downloads/ideacommitlogplugin/S3Client' S3Client
-File Opened  /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml
-File Opened  /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 80
+Active Project Project 2
+File Opened File 3
+File Opened File 4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-80
 Action run
-Action run
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 0
+Entering File Editor File 4 activity-0
 Successful Compilation
 Notification Compiler All files are up-to-date
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 6
+Exiting File Editor File 4 activity-6
 active Window Terminal--.IDECrossOverLogs — -bash — 238×66
 active Window pycharm--
 active Window Terminal--.IDECrossOverLogs — -bash — 238×66
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 0
+Entering File Editor File 4 activity-0
 active Window idea--
 Action file_action_edit
-Action file_action_edit
 Document Changed Code Removed
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 128
+Exiting File Editor File 4 activity-128
 Action run
-Action run
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 0
+Entering File Editor File 4 activity-0
 UnSuccessFull Compilation
 Notification Compiler <a href='#'>Compilation completed with 1 error and 3 warnings in 1s 951ms</a>
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 3
+Exiting File Editor File 4 activity-3
 active Window Terminal--.IDECrossOverLogs — -bash — 238×66
 active Window Terminal--.IDECrossOverLogs — vim log — 235×66
 active Window Terminal--.IDECrossOverLogs — -bash — 235×66

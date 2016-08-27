@@ -1,28 +1,5 @@
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action file_action_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
 Action file_action_edit
 Document Changed Code Removed
@@ -62,84 +39,22 @@ Action file_action_edit
 Document Changed Code Removed
 Action file_action_non_edit
 Action file_action_edit
-Action file_action_edit
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
-Action file_action_edit
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Action file_action_edit
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Removed
+Action file_action_edit
+Document Changed Code Added
+Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
 Action misc
 Action run
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully in 1s 903ms</a>
 Action debugging
-Action misc
-Action misc
 Action misc
 Action file_action_edit
 Document Changed Code Added
@@ -150,51 +65,15 @@ Successful Compilation
 Notification Compiler All files are up-to-date
 Action run
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java
-Action file_navigation
-Action file_navigation
-Action file_navigation
-Action file_navigation
-Action file_navigation
-Action file_navigation
-Action file_navigation
-Action file_navigation
-Action file_navigation
+File Opened File 1
+File Opened File 2
 Action file_navigation
 Action misc
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java
+File Opened File 2
 Action file_navigation
 Action misc
 Action file_action_edit
 Document Changed Code Removed
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
 Action misc
 Action run
 Successful Compilation
@@ -202,313 +81,99 @@ Notification Compiler <a href='#'>Compilation completed successfully with 1 warn
 Action file_action_edit
 Document Changed Code Added
 Action misc
-Action misc
 Action run
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully with 1 warning in 2s 97ms</a>
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
+Active Project Project 1
 active Window idea--
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorListener.java
-File Opened  /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/plaf/basic/BasicSliderUI.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorListener.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
+File Opened File 3
+File Opened File 4
+File Opened File 5
+File Opened File 5
+File Opened File 5
 Action misc
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorListener.java
-Action misc
+Active Project Project 1
+File Opened File 5
+File Opened File 5
 Action misc
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorListener_2.java
+File Opened File 6
 Action misc
-Action misc
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Replaced More
 Document Changed Code Removed
-Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
-Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
-Action file_action_edit
 Document Changed Code Removed
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
 Action file_action_edit
-Action file_action_edit
-Document Changed Code Removed
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Document Changed Code Added
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Document Changed Code Added
 Document Changed Code Added
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorListener.java
-Action file_action_edit
+File Opened File 6
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
+Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
-Action file_action_edit
-Document Changed Code Removed
-Action file_action_edit
-Action file_action_edit
 Document Changed Code Removed
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorListener_2.java
-Action debugging
-Action debugging
-Action debugging
-Action debugging
-Action debugging
+File Opened File 6
 Action debugging
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java
-Action file_action_non_edit
+File Opened File 7
 Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action misc
-Action misc
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_non_edit
-Action file_action_non_edit
-Action misc
-Action misc
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action misc
 Action misc
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorListener.java
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Document Changed Code Added
+Action file_action_non_edit
+Action misc
 Document Changed Code Added
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
+Action file_action_non_edit
+Action misc
+Action file_action_non_edit
+File Opened File 7
 Action file_action_edit
 Document Changed Code Added
 Action file_action_edit
+Document Changed Code Added
 Action file_action_edit
 Document Changed Code Added
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
+File Opened File 7
 Action file_action_non_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Action misc
 Action misc
 Document Changed Code Added
-Document Changed Code Added
 Action misc
-Action misc
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action run
 Action run
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully in 4s 381ms</a>

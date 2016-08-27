@@ -1,8 +1,4 @@
 Document Changed Code Added
-Document Changed Code Added
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_edit
@@ -13,127 +9,76 @@ Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 75
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor File 1 activity-75
+File Opened File 2
+Entering File Editor File 2 activity-0
 Action file_action_edit
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 55
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 10
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 0
+Exiting File Editor File 2 activity-55
+File Opened File 2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-10
+Entering File Editor File 2 activity-0
 Action file_action_edit
 Document Changed Code Added
 Action misc
 Document Changed Code Removed
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 45
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 5
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 0
+Exiting File Editor File 2 activity-45
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-5
+Entering File Editor File 2 activity-0
 Action file_action_edit
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 12
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 29
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 13
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 0
+Exiting File Editor File 2 activity-12
+File Opened File 2
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-29
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-13
+Entering File Editor File 3 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_edit
 Document Changed Code Added
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 80
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 21
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 1
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/class_name_allowed_chars.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/class_name_allowed_chars.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/class_name_allowed_chars.md 5
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/class_name_allowed_chars.md 0
+Exiting File Editor File 3 activity-80
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-21
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+File Opened File 4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-5
+Entering File Editor File 4 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_edit
 Document Changed Code Added
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Action file_action_non_edit
 Action file_action_non_edit
 Document Changed Code Added
 Action misc
 Action file_action_edit
 Document Changed Code Removed
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/class_name_allowed_chars.md 69
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/class_name_allowed_chars.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/class_name_allowed_chars.md 8
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/class_name_allowed_chars.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/class_name_allowed_chars.md 2
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/final_variables.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/final_variables.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/final_variables.md 3
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/final_variables.md 0
+Exiting File Editor File 4 activity-69
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-8
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-2
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-3
+Entering File Editor File 5 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
@@ -141,117 +86,57 @@ Document Changed Code Added
 Action file_action_edit
 Document Changed Code Added
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/final_variables.md 119
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/class_name_allowed_chars.md
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/cannot_verify_multiple_mocks.md 4
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/logic_inside_tests.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/logic_inside_tests.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/logic_inside_tests.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/logic_inside_tests.md 0
+Exiting File Editor File 5 activity-119
+File Opened File 5
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-4
+File Opened File 6
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-1
+Entering File Editor File 6 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_edit
 Document Changed Code Added
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/logic_inside_tests.md 78
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/logic_inside_tests.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/logic_inside_tests.md 5
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/logical_complexity.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/logical_complexity.md 0
+Exiting File Editor File 6 activity-78
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-5
+File Opened File 7
+Entering File Editor File 7 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_edit
 Document Changed Code Added
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/logical_complexity.md 86
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/logical_complexity.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/logical_complexity.md 10
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/magic_strings.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/magic_strings.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/magic_strings.md 6
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/magic_strings.md 0
+Exiting File Editor File 7 activity-86
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-10
+File Opened File 8
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-6
+Entering File Editor File 8 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_edit
 Document Changed Code Added
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/magic_strings.md 51
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/magic_strings.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/magic_strings.md 7
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/non_dynamic_values.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/non_dynamic_values.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/non_dynamic_values.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/non_dynamic_values.md 0
+Exiting File Editor File 8 activity-51
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-7
+File Opened File 9
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-1
+Entering File Editor File 9 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
@@ -260,24 +145,8 @@ Action file_action_edit
 Document Changed Code Added
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action file_action_edit
 Document Changed Code Removed
@@ -290,21 +159,16 @@ Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/non_dynamic_values.md 89
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/non_dynamic_values.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/non_dynamic_values.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/non_dynamic_values.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/non_dynamic_values.md 16
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/private_helper_methods.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/private_helper_methods.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/private_helper_methods.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/private_helper_methods.md 0
+Exiting File Editor File 9 activity-89
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-1
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-16
+File Opened File 10
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-1
+Entering File Editor File 10 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
@@ -314,38 +178,17 @@ Document Changed Code Added
 Action misc
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/private_helper_methods.md 97
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/stateful_tests_must_cleanup.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/stateful_tests_must_cleanup.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/stateful_tests_must_cleanup.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/stateful_tests_must_cleanup.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/stateful_tests_must_cleanup.md 2
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/readability.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/readability.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/readability.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/readability.md 0
+Exiting File Editor File 10 activity-97
+File Opened File 11
+Entering File Editor File 11 activity-0
+Exiting File Editor File 11 activity-1
+Entering File Editor File 11 activity-0
+Exiting File Editor File 11 activity-2
+File Opened File 12
+Entering File Editor File 12 activity-0
+Exiting File Editor File 12 activity-1
+Entering File Editor File 12 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
@@ -355,22 +198,12 @@ Document Changed Code Added
 Action misc
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/readability.md 82
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/stateful_tests_must_cleanup.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/stateful_tests_must_cleanup.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/stateful_tests_must_cleanup.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/stateful_tests_must_cleanup.md 0
+Exiting File Editor File 12 activity-82
+File Opened File 12
+Entering File Editor File 12 activity-0
+Exiting File Editor File 12 activity-1
+Entering File Editor File 12 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
@@ -380,38 +213,12 @@ Document Changed Code Added
 Action misc
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/stateful_tests_must_cleanup.md 72
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/stateful_tests_must_cleanup.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/stateful_tests_must_cleanup.md 9
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/statement_max_size.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/statement_max_size.md 0
+Exiting File Editor File 12 activity-72
+Entering File Editor File 12 activity-0
+Exiting File Editor File 12 activity-9
+File Opened File 13
+Entering File Editor File 13 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_edit
@@ -419,27 +226,10 @@ Document Changed Code Added
 Action misc
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/statement_max_size.md 84
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/switch_must_end_with_default_clause.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/switch_must_end_with_default_clause.md 0
+Exiting File Editor File 13 activity-84
+File Opened File 14
+Entering File Editor File 14 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_edit
@@ -447,48 +237,15 @@ Document Changed Code Added
 Action misc
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/switch_must_end_with_default_clause.md 81
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/switch_must_end_with_default_clause.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/switch_must_end_with_default_clause.md 27
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/switch_must_end_with_default_clause.md 0
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
+Exiting File Editor File 14 activity-81
+Entering File Editor File 14 activity-0
+Exiting File Editor File 14 activity-27
+Entering File Editor File 14 activity-0
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/switch_must_end_with_default_clause.md 28
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_class_suffix.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_class_suffix.md 0
+Exiting File Editor File 14 activity-28
+File Opened File 15
+Entering File Editor File 15 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
@@ -498,28 +255,12 @@ Document Changed Code Added
 Action misc
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_class_suffix.md 102
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_independency.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_independency.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_independency.md 3
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_independency.md 0
+Exiting File Editor File 15 activity-102
+File Opened File 16
+Entering File Editor File 16 activity-0
+Exiting File Editor File 16 activity-3
+Entering File Editor File 16 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_edit
@@ -528,29 +269,14 @@ Action misc
 Document Changed Code Removed
 Document Changed Code Added
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action file_action_non_edit
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_independency.md 62
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_independency.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_independency.md 7
+Exiting File Editor File 16 activity-62
+Entering File Editor File 16 activity-0
+Exiting File Editor File 16 activity-7
 Action misc
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_comments.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_comments.md 0
+File Opened File 17
+Entering File Editor File 17 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
@@ -559,32 +285,13 @@ Action file_action_edit
 Document Changed Code Added
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_comments.md 135
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_independency.md
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_capital_letters.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_capital_letters.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_capital_letters.md 2
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_capital_letters.md 0
+Exiting File Editor File 17 activity-135
+File Opened File 17
+File Opened File 18
+Entering File Editor File 18 activity-0
+Exiting File Editor File 18 activity-2
+Entering File Editor File 18 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
@@ -593,44 +300,13 @@ Action file_action_edit
 Document Changed Code Added
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action file_action_non_edit
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_capital_letters.md 90
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_formation.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_formation.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_formation.md 7
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_formation.md 0
+Exiting File Editor File 18 activity-90
+File Opened File 19
+Entering File Editor File 19 activity-0
+Exiting File Editor File 19 activity-7
+Entering File Editor File 19 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
@@ -640,37 +316,12 @@ Document Changed Code Added
 Action misc
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_formation.md 103
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_prefix.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_prefix.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_prefix.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_prefix.md 0
+Exiting File Editor File 19 activity-103
+File Opened File 20
+Entering File Editor File 20 activity-0
+Exiting File Editor File 20 activity-1
+Entering File Editor File 20 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_edit
@@ -678,32 +329,10 @@ Document Changed Code Added
 Action misc
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_method_name_prefix.md 96
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_prerequisites.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_prerequisites.md 0
+Exiting File Editor File 20 activity-96
+File Opened File 21
+Entering File Editor File 21 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
@@ -713,27 +342,10 @@ Document Changed Code Added
 Action misc
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_prerequisites.md 87
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_simplicity.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_simplicity.md 0
+Exiting File Editor File 21 activity-87
+File Opened File 22
+Entering File Editor File 22 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
@@ -743,27 +355,13 @@ Document Changed Code Added
 Action misc
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/test_simplicity.md 74
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/tested_class_existance.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/tested_class_existance.md 0
+Exiting File Editor File 22 activity-74
+File Opened File 23
+Entering File Editor File 23 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
@@ -773,33 +371,12 @@ Document Changed Code Added
 Action misc
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/tested_class_existance.md 133
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/tested_method_existance.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/tested_method_existance.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/tested_method_existance.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/tested_method_existance.md 0
+Exiting File Editor File 23 activity-133
+File Opened File 24
+Entering File Editor File 24 activity-0
+Exiting File Editor File 24 activity-1
+Entering File Editor File 24 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
@@ -809,34 +386,12 @@ Document Changed Code Added
 Action misc
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/tested_method_existance.md 73
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/top_level_exceptions.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/top_level_exceptions.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/top_level_exceptions.md 3
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/top_level_exceptions.md 0
+Exiting File Editor File 24 activity-73
+File Opened File 25
+Entering File Editor File 25 activity-0
+Exiting File Editor File 25 activity-3
+Entering File Editor File 25 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
@@ -845,114 +400,68 @@ Action file_action_edit
 Document Changed Code Added
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/top_level_exceptions.md 69
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/wildcard_imports_not_allowed.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/wildcard_imports_not_allowed.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/wildcard_imports_not_allowed.md 2
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/wildcard_imports_not_allowed.md 0
+Exiting File Editor File 25 activity-69
+File Opened File 26
+Entering File Editor File 26 activity-0
+Exiting File Editor File 26 activity-2
+Entering File Editor File 26 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_edit
 Document Changed Code Added
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
 Action file_action_edit
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/wildcard_imports_not_allowed.md 72
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 51
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 9
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 13
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/wildcard_imports_not_allowed.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/wildcard_imports_not_allowed.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/wildcard_imports_not_allowed.md 14
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/wildcard_imports_not_allowed.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/wildcard_imports_not_allowed.md 3
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/wildcard_imports_not_allowed.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/wildcard_imports_not_allowed.md 14
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 94
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor File 26 activity-72
+File Opened File 27
+Entering File Editor File 27 activity-0
+Exiting File Editor File 27 activity-1
+Entering File Editor File 27 activity-0
+Exiting File Editor File 27 activity-51
+Entering File Editor File 27 activity-0
+Exiting File Editor File 27 activity-9
+Entering File Editor File 27 activity-0
+Exiting File Editor File 27 activity-1
+Entering File Editor File 27 activity-0
+Exiting File Editor File 27 activity-1
+Entering File Editor File 27 activity-0
+Exiting File Editor File 27 activity-13
+File Opened File 27
+Entering File Editor File 27 activity-0
+Exiting File Editor File 27 activity-14
+Entering File Editor File 27 activity-0
+Exiting File Editor File 27 activity-3
+Entering File Editor File 27 activity-0
+Exiting File Editor File 27 activity-14
+File Opened File 27
+Entering File Editor File 27 activity-0
+Exiting File Editor File 27 activity-1
+Entering File Editor File 27 activity-0
+Exiting File Editor File 27 activity-94
+Entering File Editor File 27 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 8
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 63
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 11
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor File 27 activity-8
+Entering File Editor File 27 activity-0
+Exiting File Editor File 27 activity-63
+Entering File Editor File 27 activity-0
+Exiting File Editor File 27 activity-11
+Entering File Editor File 27 activity-0
 Action file_action_edit
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 37
+Exiting File Editor File 27 activity-37
 Document Changed Code Removed
 Document Changed Code Added
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor File 27 activity-0
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 34
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 31
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md
+Exiting File Editor File 27 activity-34
+Entering File Editor File 27 activity-0
+Exiting File Editor File 27 activity-31
+File Opened File 27
 active Window Crossover--

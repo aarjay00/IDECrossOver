@@ -1,77 +1,58 @@
-Active Project Project '/Users/nicolasfontenele/IdeaProjects/quality-gate' quality-gate
-Active Project Project '/Users/nicolasfontenele/IdeaProjects/quality-gate' quality-gate
+Active Project Project 1
 active Window idea--
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java
-Active Project Project '/Users/nicolasfontenele/IdeaProjects/quality-gate' quality-gate
-Active Project Project '/Users/nicolasfontenele/IdeaProjects/utqg-demo-local' my-app
-Active Project Project '/Users/nicolasfontenele/IdeaProjects/utqg-demo-local' my-app
-Active Project Project '/Users/nicolasfontenele/IdeaProjects/utqg-demo-local' my-app
-File Opened  /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml
+File Opened File 1
+File Opened File 2
+Active Project Project 1
+Active Project Project 2
+File Opened File 3
 Notification Framework Detection Web framework is detected in the project <a href="configure">Configure</a>
-Notification Framework Detection Web framework is detected in the project <a href="configure">Configure</a>
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 0
+Entering File Editor File 3 activity-0
 Notification Spring Configuration Check Unmapped Spring configuration files found. <a href="#disableAll">Disable...</a><br/><br/>Please configure Spring facet or use 'Create Default Context'<br/>to add one including all unmapped files. <a href="#openHelp">Show Help</a><br/><br/><a href="config#utqg-web">utqg-web</a> (<a href="files#utqg-web">4 files</a>)&nbsp;&nbsp;&nbsp;<a href="createDefault#utqg-web">Create Default Context</a><br/>
-Notification Spring Configuration Check Unmapped Spring configuration files found. <a href="#disableAll">Disable...</a><br/><br/>Please configure Spring facet or use 'Create Default Context'<br/>to add one including all unmapped files. <a href="#openHelp">Show Help</a><br/><br/><a href="config#utqg-web">utqg-web</a> (<a href="files#utqg-web">4 files</a>)&nbsp;&nbsp;&nbsp;<a href="createDefault#utqg-web">Create Default Context</a><br/>
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 11
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 46
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 23
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 2
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 34
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 2
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 5
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 2
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 5
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 1
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 14
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
-Active Project Project '/Users/nicolasfontenele/IdeaProjects/quality-gate' quality-gate
+Exiting File Editor File 3 activity-0
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-11
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-46
+File Opened File 4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-1
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-23
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-2
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-34
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-2
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-5
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-2
+Exiting File Editor File 5 activity-0
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-1
+File Opened File 6
+Exiting File Editor File 6 activity-14
+Exiting File Editor File 6 activity-0
+Active Project Project 2
 Action run
-Action run
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
-Successful Compilation
+Entering File Editor File 6 activity-0
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully in 7s 437ms</a>
-Notification Compiler <a href='#'>Compilation completed successfully in 7s 437ms</a>
-Notification Test Runner Tests Passed: 3 passed
 Notification Test Runner Tests Passed: 3 passed
 Entered Tool Run 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 32
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 12
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Exiting File Editor File 6 activity-32
+Exiting File Editor File 6 activity-0
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-12
+Exiting File Editor File 6 activity-0
 Action misc
 Action misc
-Action misc
-Action misc
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 22
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/test/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifierTest.java 0
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-22
+Exiting File Editor File 6 activity-0
 active Window TextEdit--idea.log

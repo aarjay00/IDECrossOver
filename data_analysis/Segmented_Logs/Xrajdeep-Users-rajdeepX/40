@@ -1,18 +1,18 @@
 Action file_navigation
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 36
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/java/JavaStructureNode.java 0
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/java/JavaStructureNode.java
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/java/JavaStructureNode.java 61
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 28
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/java/JavaStructureNode.java
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
+Exiting File Editor File 1 activity-36
+Entering File Editor File 2 activity-0
+File Opened File 2
+Exiting File Editor File 2 activity-61
+File Opened File 2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-28
+File Opened File 2
+File Opened File 2
+Entering File Editor File 2 activity-0
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 32
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 1
+Exiting File Editor File 2 activity-32
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -25,118 +25,108 @@ Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
 Action run
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully in 1s 77ms</a>
 active Window Skype--Skype
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 13
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-13
 active Window idea--
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
+Entering File Editor File 2 activity-0
 Action file_navigation
-File Opened  /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.class
-Entering File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.class 0
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.class 33
-Entering File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.class 0
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.class 46
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 65
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-33
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-46
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-65
+Entering File Editor File 3 activity-0
 Action file_navigation
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 47
-File Opened  /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.class
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.class 30
-File Opened  /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java
-Entering File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 0
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 31
-Entering File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 0
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 2
+Exiting File Editor File 3 activity-47
+File Opened File 3
+Exiting File Editor File 3 activity-30
+File Opened File 4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-31
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-2
 Action file_navigation
 Focus Gained Tool Find
-Focus Gained Tool Find
-Entering File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 0
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 13
-Entering File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 0
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 14
-Entering File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 0
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-13
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-14
+Entering File Editor File 4 activity-0
 Action file_navigation
 Focus Lost Tool Find
-Focus Lost Tool Find
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 4
-Entering File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 0
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 1
+Exiting File Editor File 4 activity-4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-1
 Focus Gained Tool Find
-Focus Gained Tool Find
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java
+File Opened File 5
 Focus Lost Tool Find
-Focus Lost Tool Find
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 0
-Focus Gained Tool Find
+Entering File Editor File 5 activity-0
 Focus Gained Tool Find
 Focus Lost Tool Find
-Focus Lost Tool Find
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 37
-File Opened  /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java
-Entering File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 0
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 34
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 24
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 38
-File Opened  /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java
-Entering File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 0
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 18
-Entering File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 0
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 33
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 22
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 6
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 10
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 9
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test2Left.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test2Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test2Left.java 1
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 1
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 42
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 6
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 10
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 18
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 2
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 1
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 1
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 15
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 17
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 2
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
+Exiting File Editor File 5 activity-37
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-34
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-24
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-38
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-18
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-33
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-22
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-6
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-10
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-9
+File Opened File 6
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-1
+File Opened File 7
+File Opened File 8
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-1
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-42
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-6
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-10
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-18
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-2
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-1
+File Opened File 8
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-1
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-15
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-17
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-2
+File Opened File 8
+File Opened File 8
+Entering File Editor File 8 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -180,26 +170,25 @@ Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
-Document Changed Code Removed
 Document Changed Code Removed
 Action file_action_non_edit
 Action file_action_edit
 Document Changed Code Added
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 34
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 2
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 1
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
+Exiting File Editor File 8 activity-34
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-2
+File Opened File 8
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-1
+Entering File Editor File 8 activity-0
 Action file_action_edit
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 121
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 3
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 2
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Exiting File Editor File 8 activity-121
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-3
+File Opened File 8
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-2
+Entering File Editor File 8 activity-0
 Action file_action_edit
 Document Changed Code Added
 Action file_action_edit
@@ -207,31 +196,31 @@ Document Changed Code Added
 Action misc
 Document Changed Code Removed
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 30
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 5
+Exiting File Editor File 8 activity-30
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-5
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 5
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 33
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 3
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/test/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/java/WhenJavaStructureTreesAreBuilt.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/test/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/java/WhenJavaStructureTreesAreBuilt.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/test/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/java/WhenJavaStructureTreesAreBuilt.java 64
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/org/eclipse/jdt/internal/core/util/CommentRecorderParser.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/org/eclipse/jdt/internal/core/util/CommentRecorderParser.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/org/eclipse/jdt/internal/core/util/CommentRecorderParser.java 33
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/org/eclipse/jdt/internal/core/util/CommentRecorderParser.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/org/eclipse/jdt/internal/core/util/CommentRecorderParser.java 1
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 1
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-5
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-33
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-3
+File Opened File 8
+File Opened File 9
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-64
+File Opened File 10
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-33
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-1
+File Opened File 10
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-1
+Entering File Editor File 10 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -259,39 +248,19 @@ Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 65
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 2
+Exiting File Editor File 10 activity-65
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-2
 Action run
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully in 1s 239ms</a>
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 6
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-6
+Entering File Editor File 10 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -335,37 +304,25 @@ Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Added
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 84
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 1
+Exiting File Editor File 10 activity-84
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-1
 Action run
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully in 1s 382ms</a>
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 1
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 13
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 1
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-1
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-13
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-1
+Entering File Editor File 10 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -390,199 +347,86 @@ Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 20
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 1
+Exiting File Editor File 10 activity-20
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-1
 Action run
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully in 1s 211ms</a>
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
+Entering File Editor File 10 activity-0
 Action file_action_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 160
+Exiting File Editor File 10 activity-160
 Action run
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully in 1s 163ms</a>
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 7
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 124
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 4
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Action file_action_edit
-Action file_action_edit
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Action file_action_edit
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-7
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-124
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-4
+Entering File Editor File 10 activity-0
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
 Action file_action_edit
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
-Document Changed Code Removed
-Document Changed Code Removed
-Action file_action_edit
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Action file_action_edit
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Added
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
+Action file_action_edit
+Document Changed Code Added
+Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Added
+Action file_action_edit
+Document Changed Code Removed
+Action file_action_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
+Action file_action_edit
+Document Changed Code Removed
+Action file_action_edit
 Document Changed Code Added
 Action misc
-Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 6
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 2
+Exiting File Editor File 10 activity-6
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-2
 Action run
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully in 1s 501ms</a>
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 3
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 21
-File Opened  /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java
-Entering File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 0
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 12
-Entering File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 0
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 35
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/test/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/java/WhenJavaStructureTreesAreBuilt.java 0
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/test/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/java/WhenJavaStructureTreesAreBuilt.java
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-3
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-21
+File Opened File 10
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-12
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-35
+Entering File Editor File 10 activity-0
+File Opened File 10
 Action file_action_edit
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/test/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/java/WhenJavaStructureTreesAreBuilt.java 111
-File Opened  /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java
-Entering File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 0
-Exiting File Editor /Users/rajdeep/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1-sources.jar!/org/eclipse/jdt/internal/compiler/ast/CompilationUnitDeclaration.java 18
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 6
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/structuredifferencing/StructureDifferencer.java 5
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 2
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
+Exiting File Editor File 10 activity-111
+File Opened File 10
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-18
+File Opened File 10
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-6
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-5
+File Opened File 10
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-2
+Entering File Editor File 10 activity-0
 Action file_action_edit
 Document Changed Code Replaced More
 Action misc
-Action misc
-Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 92
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 1
+Exiting File Editor File 10 activity-92
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-1

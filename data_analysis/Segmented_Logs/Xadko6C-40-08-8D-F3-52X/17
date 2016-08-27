@@ -1,438 +1,99 @@
 Action file_navigation
-Action file_navigation
-Action file_navigation
-Action file_navigation
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 714
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-File Opened  /Users/adko/Projects/aurea/unit-test-automation-quality-gate/utqg-tool/utqg-bitbucket/src/main/docker/stash/Dockerfile
-File Opened  /Users/adko/Projects/aurea/unit-test-automation-quality-gate/utqg-tool/utqg-bitbucket/src/main/docker/stash/Dockerfile
-File Opened  /Users/adko/Projects/aurea/unit-test-automation-quality-gate/utqg-tool/utqg-bitbucket/src/main/docker/stash/Dockerfile
-File Opened  /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile
-File Opened  /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile
-File Opened  /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 549
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 1116
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor File 1 activity-714
+Exiting File Editor File 1 activity-0
+File Opened File 2
+File Opened File 2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-549
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1116
+Exiting File Editor File 2 activity-0
 active Window Google Chrome--Jenkins config files - adam.siemion@aurea.com - Aurea Software Mail
 active Window iTerm2--1. docker build -t bitbucket:4.8.4 . (docker)
 active Window TextEdit--Dockerfile (1)
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor File 2 activity-0
 active Window idea--
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 429
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor File 2 activity-429
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
 active Window iTerm2--1. adko@ip-10-164-6-240: ~/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket (zsh)
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor File 2 activity-0
 active Window idea--
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Action file_action_edit
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Replaced Less
-Document Changed Code Replaced Less
-Document Changed Code Replaced Less
 Action misc
-Action misc
-Action misc
-Action misc
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 717
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
+Exiting File Editor File 2 activity-717
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
 Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Document Changed Code Removed
-Document Changed Code Removed
 Document Changed Code Removed
 Action misc
-Action misc
-Action misc
-Action misc
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor File 2 activity-0
 active Window iTerm2--1. docker build -t bitbucket:4.8.4 . (docker)
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor File 2 activity-0
 active Window idea--
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
 active Window iTerm2--1. docker build -t bitbucket:4.8.4 . (docker)
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor File 2 activity-0
 active Window idea--
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
 active Window TextEdit--Dockerfile (1)
 active Window idea--
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor File 2 activity-0
 active Window TextEdit--Dockerfile (1)
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor File 2 activity-0
 active Window iTerm2--1. docker build -t bitbucket:4.8.4 . (docker)
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 6
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 18
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-6
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-18
+Exiting File Editor File 2 activity-0
 active Window Google Chrome--Quality Gate (maven release) #6 Console [Jenkins]
 active Window Google Chrome--Quality Gate (maven release) [Jenkins]
 active Window Google Chrome--Quality Gate (maven release) Config [Jenkins]
 active Window idea--
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
 active Window iTerm2--1. adko@ip-10-164-6-240: ~/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket (zsh)
 active Window iTerm2--1. docker run -p 8888:7990 bitbucket:4.8.4 (docker)
 active Window iTerm2--1. adko@ip-10-164-6-240: ~/Projects/aurea/unit-test-automation-quality-gate/swarm (zsh)
 active Window iTerm2--1. docker run -p 8888:7990 bitbucket:4.8.4 (docker)
 active Window iTerm2--1. docker exec -i -t fea201cd3940 bash (docker)
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor File 2 activity-0
 active Window idea--
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 312
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Exiting File Editor File 2 activity-312
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
 active Window iTerm2--1. docker exec -i -t fea201cd3940 bash (docker)
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Entering File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
-Exiting File Editor /Users/adko/Projects/aurea/unit-test-automation-quality-gate/swarm/bitbucket/Dockerfile 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
 active Window iTerm2--1. docker run -p 8888:7990 bitbucket:4.8.4 (docker)
 active Window Skype--Skype
 active Window iTerm2--1. docker exec -i -t fea201cd3940 bash (docker)

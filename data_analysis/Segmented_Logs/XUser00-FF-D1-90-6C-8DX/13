@@ -1,9 +1,9 @@
 active Window EMS AM Schema - System Engineering - Devfactory Confluence Wiki - Google Chrome
 active Window EMS Schema - System Engineering - Devfactory Confluence Wiki - Google Chrome
 active Window MessageOne EMS Development - JIRA on issue-tracker.gdev.com - Google Chrome
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 0
+Entering File Editor File 1 activity-0
 active Window EMS - [D:\M1\m1-ems] - [emsCore] - ...\core\moduleEmsCore\src\main\java\com\m1\ems\mgmt\activemailbox\cluster\ClusterManager.java - IntelliJ IDEA 14.0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 458
+Exiting File Editor File 1 activity-458
 Exited Tool Find 205
 Entered Tool Event Log 0
 active Window MessageOne EMS Development - JIRA on issue-tracker.gdev.com - Google Chrome
@@ -15,10 +15,10 @@ active Window Bitvise xterm - gold.bscp - root@52.207.219.95:22 - root@amdb1-1:~
 active Window 8+1 ways to take backup in postgresql - Brown Fort - Google Chrome
 Exited Tool Event Log 39
 Entered Tool Find 0
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 2
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-2
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
 active Window EMS - [D:\M1\m1-ems] - [emsCore] - ...\core\moduleEmsCore\src\main\java\com\m1\ems\mgmt\activemailbox\cluster\ClusterManager.java - IntelliJ IDEA 14.0
 Action file_navigation
 Action file_action_edit
@@ -27,68 +27,60 @@ Entered Tool Hierarchy 0
 Exited Tool Hierarchy 1
 Entered Tool Find 0
 Focus Gained Tool Find
-Focus Gained Tool Find
 Focus Lost Tool Find
-Focus Lost Tool Find
-File Opened  D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy 0
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy 7
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy 0
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy 1
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy 0
+File Opened File 2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-7
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
+Entering File Editor File 2 activity-0
 active Window EMS - [D:\M1\m1-ems] - [dynamic.webserver] - ...\core\moduleWebServices\moduleWebServerRPM\src\main\jython\generateClusterLocationAmpCommands.jy - IntelliJ IDEA 14.0
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy 82
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy 0
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy 32
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy 0
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy 0
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy 0
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy 13
+Exiting File Editor File 2 activity-82
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-32
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-13
 Action file_navigation
 Action file_action_edit
 Focus Gained Tool Find
-Focus Gained Tool Find
 Focus Lost Tool Find
-Focus Lost Tool Find
-File Opened  D:/M1/m1-ems/bundle/pkg/src/main/puppet/dev-modules/emsindeximporter/files/ClusterLocationSelector.jy
-Entering File Editor D:/M1/m1-ems/bundle/pkg/src/main/puppet/dev-modules/emsindeximporter/files/ClusterLocationSelector.jy 0
-Exiting File Editor D:/M1/m1-ems/bundle/pkg/src/main/puppet/dev-modules/emsindeximporter/files/ClusterLocationSelector.jy 52
-Entering File Editor D:/M1/m1-ems/bundle/pkg/src/main/puppet/dev-modules/emsindeximporter/files/ClusterLocationSelector.jy 0
-Exiting File Editor D:/M1/m1-ems/bundle/pkg/src/main/puppet/dev-modules/emsindeximporter/files/ClusterLocationSelector.jy 1
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-52
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
 Action file_navigation
-Focus Gained Tool Find
 Focus Gained Tool Find
 active Window EMS - [D:\M1\m1-ems] - [ems-bundle-build] - ...\bundle\pkg\src\main\puppet\dev-modules\emsindeximporter\files\ClusterLocationSelector.jy - IntelliJ IDEA 14.0
-Entering File Editor D:/M1/m1-ems/bundle/pkg/src/main/puppet/dev-modules/emsindeximporter/files/ClusterLocationSelector.jy 0
+Entering File Editor File 3 activity-0
 Focus Lost Tool Find
-Focus Lost Tool Find
-Exiting File Editor D:/M1/m1-ems/bundle/pkg/src/main/puppet/dev-modules/emsindeximporter/files/ClusterLocationSelector.jy 66
-Entering File Editor D:/M1/m1-ems/bundle/pkg/src/main/puppet/dev-modules/emsindeximporter/files/ClusterLocationSelector.jy 0
-Exiting File Editor D:/M1/m1-ems/bundle/pkg/src/main/puppet/dev-modules/emsindeximporter/files/ClusterLocationSelector.jy 1
-Entering File Editor D:/M1/m1-ems/bundle/pkg/src/main/puppet/dev-modules/emsindeximporter/files/ClusterLocationSelector.jy 0
-Exiting File Editor D:/M1/m1-ems/bundle/pkg/src/main/puppet/dev-modules/emsindeximporter/files/ClusterLocationSelector.jy 1
-Focus Gained Tool Find
+Exiting File Editor File 3 activity-66
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
 Focus Gained Tool Find
 Focus Lost Tool Find
-Focus Lost Tool Find
-File Opened  D:/M1/m1-ems/core/moduleEmsCore/src/main/resources/jython/ClusterLocationSelector.jy
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/resources/jython/ClusterLocationSelector.jy 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/resources/jython/ClusterLocationSelector.jy 34
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/resources/jython/ClusterLocationSelector.jy 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/resources/jython/ClusterLocationSelector.jy 14
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/resources/jython/ClusterLocationSelector.jy 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/resources/jython/ClusterLocationSelector.jy 6
+File Opened File 4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-34
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-14
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-6
 Action file_navigation
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/resources/jython/ClusterLocationSelector.jy 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/resources/jython/ClusterLocationSelector.jy 7
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/resources/jython/ClusterLocationSelector.jy 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/resources/jython/ClusterLocationSelector.jy 36
-File Opened  D:/M1/m1-ems/bundle/pkg/src/main/puppet/dev-modules/emsindeximporter/files/ClusterLocationSelector.jy
-File Opened  D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy
-File Opened  D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 0
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-7
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-36
+File Opened File 4
+File Opened File 4
+File Opened File 4
+Entering File Editor File 4 activity-0
 active Window EMS - [D:\M1\m1-ems] - [emsCore] - ...\core\moduleEmsCore\src\main\java\com\m1\ems\mgmt\activemailbox\cluster\ClusterManager.java - IntelliJ IDEA 14.0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 27
+Exiting File Editor File 4 activity-27
 Exited Tool Find 799
 Entered Tool Event Log 0
 active Window 8+1 ways to take backup in postgresql - Brown Fort - Google Chrome

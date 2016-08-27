@@ -1,33 +1,30 @@
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
+Active Project Project 1
 active Window idea--
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java 2
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java 14
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java 3
+File Opened File 1
+File Opened File 2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-14
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-3
 Entered Tool Project 0
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java 3
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java 4
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java 3
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java 2
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 33
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 47
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Action file_action_non_edit
-Action file_action_non_edit
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-3
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-4
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-3
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-2
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-33
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-0
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-47
+Entering File Editor File 3 activity-0
 Action file_action_non_edit
 Action file_action_edit
 Document Changed Code Removed
@@ -35,34 +32,34 @@ Document Changed Code Replaced Less
 Action file_action_non_edit
 Action file_action_edit
 Document Changed Code Removed
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 105
+Exiting File Editor File 3 activity-105
 active Window Slack--
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 9
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-0
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-9
+Entering File Editor File 3 activity-0
 active Window idea--
 Action file_navigation
-File Opened  /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/net/NetworkInterface.java
-Entering File Editor /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/net/NetworkInterface.java 0
+File Opened File 4
+Entering File Editor File 4 activity-0
 Action misc
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 57
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
+File Opened File 4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-57
+Entering File Editor File 4 activity-0
 active Window Slack--
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 251
+Exiting File Editor File 4 activity-251
 active Window Google Chrome--New Tab
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-0
 active Window Google Chrome--java - Method getHardwareAddress() gives NullPointerException when using other network's ip - Stack Overflow
 active Window Google Chrome--gethardwareaddress null pointer exception - Google Search
 active Window Google Chrome--Problems with the method getHardwareAddress() - Java : javahelp
 active Window Google Chrome--java - Method getHardwareAddress() gives NullPointerException when using other network's ip - Stack Overflow
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
+Entering File Editor File 4 activity-0
 active Window idea--
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 46
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 4
+Exiting File Editor File 4 activity-46
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-4
 active Window Google Chrome--getHardwareAddress returning null (Java in General forum at Coderanch)

@@ -1,136 +1,132 @@
 active Window idea--
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 4
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 30
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 44
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 25
+File Opened File 1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-4
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-30
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-44
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-25
 active Window Google Chrome--Pull Request #282: Feature/UTQG-23 disabling of rules for specific products - Stash
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 28
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 2
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-28
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-2
+Entering File Editor File 1 activity-0
 Action file_navigation
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 12
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-rule/utqg-ast/utqg-ast-rules/src/main/java/com/devfactory/ast/rules/FinalVariablesRule.java 0
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Exiting File Editor File 1 activity-12
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+File Opened File 2
+Entering File Editor File 2 activity-0
 active Window idea--
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 109
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 30
+Exiting File Editor File 2 activity-109
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-30
 active Window Skype--Skype
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 90
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-90
 active Window idea--
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Entering File Editor File 2 activity-0
 Action file_navigation
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 18
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 18
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 21
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 19
+Exiting File Editor File 2 activity-18
+Entering File Editor File 2 activity-0
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-18
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-21
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-19
 active Window Skype--Skype
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Entering File Editor File 3 activity-0
 Action file_action_edit
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 108
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 143
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
+Exiting File Editor File 3 activity-108
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-143
+Entering File Editor File 3 activity-0
 active Window idea--
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 159
+Exiting File Editor File 3 activity-159
 active Window Skype--Skype
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 26
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-26
 active Window idea--
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 23
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-23
 active Window Google Chrome--Pull Request #282: Feature/UTQG-23 disabling of rules for specific products - Stash
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 0
+Entering File Editor File 3 activity-0
 active Window idea--
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 38
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 15
+Exiting File Editor File 3 activity-38
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-15
 active Window Skype--Skype
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 2
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-2
 active Window idea--
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules.md 66
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 5
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 1
+File Opened File 4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-66
+File Opened File 4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-5
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-1
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-1
 active Window Skype--Skype
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 6
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 16
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java 11
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-1
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-6
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-16
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-11
+File Opened File 4
 active Window idea--
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 11
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 57
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UTQGRunMojo.java
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 0
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-11
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-57
+File Opened File 4
+File Opened File 4
+Entering File Editor File 4 activity-0
 Action file_navigation
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 7
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java 0
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 22
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 5
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java 1
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 159
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 4
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 67
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 13
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor File 4 activity-7
+Entering File Editor File 4 activity-0
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-22
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-1
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-1
+File Opened File 6
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-159
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-4
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-67
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-13
+Entering File Editor File 6 activity-0
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action file_action_edit
 Document Changed Code Removed
@@ -143,116 +139,29 @@ Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_non_edit
-Action file_action_non_edit
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 181
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 2
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 6
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 58
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 2
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor File 6 activity-181
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-2
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-6
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-58
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-2
+Entering File Editor File 6 activity-0
 Action file_action_edit
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 7
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 2
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 4
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 24
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 0
+Exiting File Editor File 6 activity-7
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-2
+File Opened File 7
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-4
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-24
+Entering File Editor File 7 activity-0
 Action file_action_non_edit
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action file_action_edit
 Document Changed Code Removed
@@ -272,10 +181,10 @@ Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 85
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 7
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/arrange_act_assert.md 0
+Exiting File Editor File 7 activity-85
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-7
+Entering File Editor File 7 activity-0
 Action file_action_edit
 Action file_action_non_edit
 Document Changed Code Added
@@ -289,38 +198,11 @@ Action file_action_edit
 Document Changed Code Added
 Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Document Changed Code Added
 Document Changed Code Added
 Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Document Changed Code Added
 Document Changed Code Added
 Action file_action_non_edit
 Document Changed Code Added

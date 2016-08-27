@@ -28,28 +28,26 @@ active Window Bitvise xterm - gold.bscp - root@52.207.219.95:22 - root@solra101a
 active Window Bitvise xterm - gold.bscp - root@52.207.219.95:22 - root@solre102agg-938747a2:/var/log/solr
 active Window Bitvise xterm - gold.bscp - root@52.207.219.95:22 - root@mcp:~
 active Window Bitvise xterm - gold.bscp - root@52.207.219.95:22 - root@apps-b7c20e86:/var/log/ems
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 13
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-13
 Action file_navigation
 Action file_action_edit
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
 Exited Tool Event Log 41
 Entered Tool Find 0
 Focus Gained Tool Find
-Focus Gained Tool Find
-File Opened  D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/purge/IndexResolverStage.java
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/purge/IndexResolverStage.java 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/purge/IndexResolverStage.java 3
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/purge/IndexResolverStage.java 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/purge/IndexResolverStage.java 58
+File Opened File 2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-3
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-58
 active Window EMS - [D:\M1\m1-ems] - [emsCore] - ...\core\moduleEmsCore\src\main\java\com\m1\ems\mgmt\activemailbox\purge\IndexResolverStage.java - IntelliJ IDEA 14.0
 Focus Lost Tool Find
-Focus Lost Tool Find
-File Opened  D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/search/solr/SolrSearchResults.java
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/search/solr/SolrSearchResults.java 0
+File Opened File 3
+Entering File Editor File 3 activity-0
 active Window EMS - [D:\M1\m1-ems] - [emsCore] - ...\core\moduleEmsCore\src\main\java\com\m1\ems\search\solr\SolrSearchResults.java - IntelliJ IDEA 14.0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/search/solr/SolrSearchResults.java 170
+Exiting File Editor File 3 activity-170
 Exited Tool Find 603
 Entered Tool Event Log 0
 active Window Bitvise xterm - gold.bscp - root@52.207.219.95:22 - root@apps-b7c20e86:/var/log/ems

@@ -63,7 +63,7 @@ def parse_focus_entry(log_entry):
 
 def parse_file_editor_change(log_entry):
     try:
-        return ['File Opened ', log_entry['fileName']]
+        return ['File Opened', log_entry['fileName']]
     except KeyError:
         return None
 
@@ -72,9 +72,9 @@ def parse_editor_mouse_event(log_entry):
     mouse_event = json.loads(log_entry['mouseEvent'])
     try:
         if "EXITED" in mouse_event['MouseEvent']:
-            return ["Exiting File Editor", log_entry['fileName'], log_entry['mouseMovementNum']]
+            return ["Exiting File Editor", log_entry['fileName'], "activity-"+log_entry['mouseMovementNum']]
         else:
-            return ["Entering File Editor", log_entry['fileName'], log_entry['mouseMovementNum']]
+            return ["Entering File Editor", log_entry['fileName'], "activity-"+log_entry['mouseMovementNum']]
     except:
         return None
 

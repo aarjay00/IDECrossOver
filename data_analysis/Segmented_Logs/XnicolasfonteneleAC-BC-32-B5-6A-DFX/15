@@ -1,183 +1,117 @@
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 92
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 2
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 34
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 18
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor File 1 activity-92
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-2
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-34
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-18
+Exiting File Editor File 1 activity-0
 active Window Terminal--quality-gate — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
 active Window Terminal--quality-gate — java ◂ java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
 active Window java--
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
+Entering File Editor File 1 activity-0
 Action file_action_non_edit
 active Window idea--
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 16
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 2
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor File 1 activity-16
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-2
+Exiting File Editor File 1 activity-0
 active Window Finder--nicolasfontenele
 active Window Terminal--utqg-bitbucket — java ◂ java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher bitbucket:run — 188×44
 active Window Slack--
 active Window Terminal--utqg-bitbucket — java ◂ java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher bitbucket:run — 188×44
 active Window Google Chrome--UTQG Active Sprint - Agile Board - dfraid
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 26
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-26
+Exiting File Editor File 1 activity-0
 active Window Terminal--quality-gate — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
 active Window java--
 active Window Skype--Skype
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 26
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 4
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-26
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-4
+Exiting File Editor File 1 activity-0
 active Window Terminal--utqg-demo-local — -bash — 188×44
-Focus Gained Tool Terminal
-Focus Gained Tool Terminal
-Focus Gained Tool Terminal
-Focus Gained Tool Terminal
-Focus Gained Tool Terminal
 Focus Gained Tool Terminal
 Exited Tool Event Log 325
 Entered Tool Terminal 0
 Action misc
-Action misc
 Focus Lost Tool Terminal
-Focus Lost Tool Terminal
-Focus Lost Tool Terminal
-Focus Lost Tool Terminal
-Focus Lost Tool Terminal
-Focus Lost Tool Terminal
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 6
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 68
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-6
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-68
+Exiting File Editor File 1 activity-0
 active Window Terminal--quality-gate — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 2
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 50
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 24
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-2
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-50
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-24
+Exiting File Editor File 1 activity-0
 active Window idea--
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 34
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 70
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 32
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-34
+Exiting File Editor File 1 activity-0
+File Opened File 2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-70
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-32
+Exiting File Editor File 2 activity-0
 active Window java--
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 34
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-34
+Exiting File Editor File 2 activity-0
 active Window Terminal--quality-gate — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 2
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 68
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-2
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-68
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
 active Window idea--
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 2
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 30
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 24
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 8
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-2
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-30
+Exiting File Editor File 2 activity-0
+File Opened File 2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-24
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-8
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
 active Window Terminal--quality-gate — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
 active Window Skype--Skype
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 20
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-20
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 92
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
-Document Changed Code Added
+Exiting File Editor File 2 activity-92
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
 Document Changed Code Added
 Action misc
-Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 158
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/site.xml 0
+Exiting File Editor File 2 activity-158
+Exiting File Editor File 2 activity-0
 active Window Terminal--quality-gate — java -classpath ~/tools/dev-tools/maven/boot/plexus-classworlds-2.5.2.jar -Dclassworlds.conf=/Users/nicolasfontenele/tools/dev-tools/maven/bin/m2.conf -Dmaven.home=/Users/nicolasfontenele/tools/dev-tools/maven -Dmaven.multiModuleProjectDirectory=/Users/nicolasfontenele/IdeaProjects/quality-gate org.codehaus.plexus.classworlds.launcher.Launcher clean install — 188×44
 active Window java--

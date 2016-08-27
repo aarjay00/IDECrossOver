@@ -1,37 +1,25 @@
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
+Active Project Project 1
 active Window idea--
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java
-File Opened  /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 21
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/ToolWindowManagerImpl.java 3
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ToolWindowManagerHook.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java 1
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
+File Opened File 1
+File Opened File 2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-21
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-3
+File Opened File 3
+File Opened File 4
+File Opened File 4
+File Opened File 4
+File Opened File 4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-1
+File Opened File 5
+File Opened File 6
+Entering File Editor File 6 activity-0
 Action file_action_non_edit
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -39,7 +27,6 @@ Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -69,20 +56,19 @@ Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
-Document Changed Code Removed
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
 Action file_navigation
-File Opened  /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java 0
+File Opened File 7
+Entering File Editor File 7 activity-0
 Action misc
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java 21
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java 7
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java 5
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java 1
+Exiting File Editor File 7 activity-21
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-7
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-5
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-1
 Entered Tool Structure 0

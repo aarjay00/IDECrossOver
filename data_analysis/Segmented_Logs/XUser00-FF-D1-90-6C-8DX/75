@@ -6,33 +6,31 @@ active Window EMS by MessageOne - Google Chrome
 active Window Search Personal Mail - Mozilla Firefox
 Exited Tool Event Log 9
 Entered Tool Find 0
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/search/solr/SolrSearchResults.java 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/search/solr/SolrSearchResults.java 5
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/search/solr/SolrSearchResults.java 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/search/solr/SolrSearchResults.java 1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-5
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
 Action file_navigation
 Action file_action_edit
 Exited Tool Find 7
 Entered Tool Hierarchy 0
-Focus Gained Tool Find
 Focus Gained Tool Find
 Exited Tool Hierarchy 9
 Entered Tool Event Log 0
 Exited Tool Event Log 33
 Entered Tool Find 0
 Focus Lost Tool Find
-Focus Lost Tool Find
-File Opened  D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 0
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 79
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 0
+File Opened File 2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-79
+Entering File Editor File 2 activity-0
 Action file_action_edit
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 3
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 0
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 7
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 0
+Exiting File Editor File 2 activity-3
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-7
+Entering File Editor File 2 activity-0
 Action file_action_edit
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 7
+Exiting File Editor File 2 activity-7
 Action file_action_edit
 active Window EMS - [D:\M1\m1-ems] - [ems-wfe] - ...\core\moduleWebServices\moduleWFE\src\main\webapp\jsp\emsui\archive-search.jsp - IntelliJ IDEA 14.0
 Action file_navigation
@@ -40,28 +38,25 @@ Action file_action_edit
 Exited Tool Find 441
 Entered Tool Hierarchy 0
 Focus Gained Tool Find
-Focus Gained Tool Find
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 0
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 13
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-13
 Exited Tool Hierarchy 3
 Entered Tool Find 0
-Focus Lost Tool Find
 Focus Lost Tool Find
 Exited Tool Find 567
 Entered Tool Hierarchy 0
 active Window Ashish Reddy Konda, Corey Horton
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 0
+Entering File Editor File 2 activity-0
 Focus Gained Tool Find
-Focus Gained Tool Find
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 5
+Exiting File Editor File 2 activity-5
 Exited Tool Hierarchy 25
 Entered Tool Event Log 0
 Exited Tool Event Log 55
 Entered Tool Find 0
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 0
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 9
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 0
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWFE/src/main/webapp/jsp/emsui/archive-search.jsp 1
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-9
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
 active Window EMS - Backend discussions
 active Window Bitvise xterm - gold.bscp - root@52.207.219.95:22 - root@solre102agg-938747a2:/var/log/solr
 active Window Bitvise xterm - gold.bscp - root@52.207.219.95:22 - root@solre102agg-938747a2:/var/log

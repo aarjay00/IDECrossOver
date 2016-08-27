@@ -1,17 +1,17 @@
 active Window Google Chrome--IDE user actions - Google Docs
 active Window idea--
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 4
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 9
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-4
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-9
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
 active Window Terminal--.IDECrossOverLogs — tail -f log — 235×66
 active Window Google Chrome--IDE user actions - Google Docs
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
 active Window idea--
 active Window Google Chrome--IDE user actions - Google Docs
 active Window Google Chrome--clear text intelliJ - Google Search
@@ -26,74 +26,62 @@ active Window Google Chrome--S3 Management Console
 active Window Google Chrome--IAM Management Console
 active Window Google Chrome--S3 Management Console
 active Window Google Chrome--IDE user actions - Google Docs
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 4
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Action run
-Action run
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-4
+Entering File Editor File 1 activity-0
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 16
+Exiting File Editor File 1 activity-16
 active Window java--
 Entered Tool Debug 0
 active Window idea--
 Action run
-Action run
-Action run
 active Window Google Chrome--IDE user actions - Google Docs
 active Window Terminal--.IDECrossOverLogs — tail -f log — 235×66
 active Window Google Chrome--IDE user actions - Google Docs
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
 active Window idea--
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 4
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-4
 active Window Google Chrome--IDE user actions - Google Docs
 Action misc
-Action misc
-Action misc
 active Window idea--
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 37
-Active Project Project '/Users/aarjay/Downloads/ideacommitlogplugin/S3Client' S3Client
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-37
+Active Project Project 1
 Exited Tool Debug 43
 Entered Tool Project 0
 Action misc
-Action misc
-Action misc
 active Window Terminal--.IDECrossOverLogs — tail -f log — 235×66
 active Window idea--
 active Window Google Chrome--IDE user actions - Google Docs
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
+Active Project Project 2
 active Window idea--
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 6
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 3
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 14
+File Opened File 3
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-6
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-14
 active Window Terminal--.IDECrossOverLogs — tail -f log — 235×66
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
+Entering File Editor File 3 activity-0
 active Window idea--
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 13
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 7
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 42
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 5
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 5
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 6
+Exiting File Editor File 3 activity-13
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-7
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-42
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-5
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-5
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-6
 active Window Terminal--.IDECrossOverLogs — tail -f log — 235×66
 active Window Google Chrome--IDE user actions - Google Docs

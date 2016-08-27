@@ -1,127 +1,121 @@
 Action run
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 13
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-13
+Entering File Editor File 1 activity-0
 Focus Lost Tool FindBugs-IDEA
-Focus Lost Tool FindBugs-IDEA
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 15
+Exiting File Editor File 1 activity-15
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully with 4 warnings in 3s 183ms</a>
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 10
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-10
 Action run
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
+Entering File Editor File 1 activity-0
 Successful Compilation
 Notification Compiler All files are up-to-date
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
+Exiting File Editor File 1 activity-0
 Notification Plugin DevKit Deployment Zip for module 'IDECrossOver' was saved to /Users/aarjay/IdeaProjects/IDECrossOver/IDECrossOver.zip
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 27
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 69
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 1
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-27
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-69
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
+Active Project Project 1
 active Window idea--
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 2
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 1
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 7
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 46
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 2
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 5
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 33
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
+File Opened File 2
+File Opened File 2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-7
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-46
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-2
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-5
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-33
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-0
 active Window Skype--Skype
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 2
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 164
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 2
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-2
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-164
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-2
+File Opened File 4
 active Window idea--
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 49
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 21
-File Opened  /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Util/ReflectUtil.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java
+File Opened File 4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-1
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-49
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-21
+File Opened File 5
+File Opened File 5
+File Opened File 5
+File Opened File 5
+File Opened File 6
+File Opened File 6
 Action file_navigation
-File Opened  /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java 0
+File Opened File 6
+Entering File Editor File 6 activity-0
 Action file_navigation
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java 45
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java 0
-File Opened  /Users/aarjay/plugin/intellij-community/platform/core-impl/src/com/intellij/openapi/editor/impl/DocumentImpl.java
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-impl/src/com/intellij/openapi/editor/impl/DocumentImpl.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/core-impl/src/com/intellij/openapi/editor/impl/DocumentImpl.java 28
-File Opened  /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java 0
+Exiting File Editor File 6 activity-45
+Entering File Editor File 6 activity-0
+File Opened File 7
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-28
+File Opened File 7
+Entering File Editor File 7 activity-0
 Action file_navigation
-File Opened  /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java 5
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java 0
+File Opened File 8
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-5
+Entering File Editor File 8 activity-0
 active Window Skype--Skype
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java 13
+Exiting File Editor File 8 activity-13
 active Window Google Chrome--W3W2bjH.jpg (2560×1680)
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java 1
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java 2
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java 1
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java 6
-Entering File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java 0
-Exiting File Editor /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/injected/editor/DocumentWindow.java 31
-File Opened  /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-1
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-2
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-1
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-6
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-31
+File Opened File 8
+File Opened File 8
+Entering File Editor File 8 activity-0
 active Window idea--
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 319
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 5
+Exiting File Editor File 8 activity-319
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-1
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-5
 active Window Google Chrome--removing items from list in java - Stack Overflow
 active Window Google Chrome--https://console.aws.amazon.com/s3/home?region=us-east-1#&bucket=cnu-idelogs&prefix=
 active Window Google Chrome--My Drive - Google Drive
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 17
-Focus Gained Tool Terminal
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-17
 Focus Gained Tool Terminal
 Entered Tool Terminal 0
 Focus Lost Tool Terminal
-Focus Lost Tool Terminal
 Focus Gained Tool Terminal
-Focus Gained Tool Terminal
-Focus Lost Tool Terminal
 Focus Lost Tool Terminal
 active Window Google Chrome--Rohit Jain - Google Drive
 active Window Google Chrome--ToolRuns - Google Drive
@@ -142,26 +136,18 @@ active Window Google Chrome--CNU2016 Project Overview - Stash
 active Window Google Chrome--Browse Rohit Jain / rojain - Stash
 active Window Google Chrome--Browse CNU2016 / social-network - Stash
 Focus Gained Tool Terminal
-Focus Gained Tool Terminal
-Focus Lost Tool Terminal
 Focus Lost Tool Terminal
 active Window Terminal--IDECrossOver — -bash — 238×66
 Focus Gained Tool Terminal
-Focus Gained Tool Terminal
-Focus Lost Tool Terminal
 Focus Lost Tool Terminal
 Focus Gained Tool Terminal
-Focus Gained Tool Terminal
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
+Entering File Editor File 8 activity-0
 active Window idea--
 Focus Lost Tool Terminal
-Focus Lost Tool Terminal
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 15
+Exiting File Editor File 8 activity-15
 active Window Terminal--IDECrossOver — -bash — 238×66
 Focus Gained Tool Terminal
-Focus Gained Tool Terminal
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
+Entering File Editor File 8 activity-0
 Focus Lost Tool Terminal
-Focus Lost Tool Terminal
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
+Exiting File Editor File 8 activity-0
 active Window Skype--Skype

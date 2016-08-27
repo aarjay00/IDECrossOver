@@ -1,633 +1,275 @@
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 2
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 46
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 6
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 2
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 22
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-2
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-46
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-6
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-2
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-22
+Exiting File Editor File 1 activity-0
 active Window idea--
-Action misc
 Action misc
 active Window Terminal--quality-gate — -bash — 188×44
 active Window Terminal--quality-gate — git-remote-https ◂ git push — 188×44
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 48
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 2
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-maven-plugin/src/main/java/com/devfactory/utqg/plugins/maven/UnitTestLibsVerifier.java 0
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-configuration/src/main/java/com/devfactory/utqg/configuration/ConfigurationFile.java
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-tool/utqg-analysis/src/main/java/com/devfactory/utqg/analyzers/ASTAnalyzer.java
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-48
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-2
+Exiting File Editor File 1 activity-0
+File Opened File 2
+File Opened File 3
 active Window idea--
-Action file_navigation
 Action file_navigation
 active Window Google Chrome--hello-world-1 / Unit Test Quality Gate - Bitbucket
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+File Opened File 4
+Entering File Editor File 4 activity-0
 active Window idea--
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 10
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 4
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 4
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 78
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 2
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 2
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
+Exiting File Editor File 4 activity-10
+Exiting File Editor File 4 activity-0
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-4
+Exiting File Editor File 4 activity-0
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-4
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-78
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-2
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-2
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
 Action file_action_edit
-Action file_action_edit
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 60
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/approved_frameworks.md 0
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
-File Opened  /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Action file_action_edit
+Exiting File Editor File 5 activity-60
+Exiting File Editor File 5 activity-0
+File Opened File 5
+Entering File Editor File 5 activity-0
 Action file_action_edit
 Document Changed Code Added
 Action misc
-Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 196
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor File 5 activity-196
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 14
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 2
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 86
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 4
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor File 5 activity-14
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-2
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-86
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-4
+Exiting File Editor File 5 activity-0
 active Window Google Chrome--UTQG Active Sprint - Agile Board - dfraid
 active Window Google Chrome--[UTQG-23] Disabling of rules for specific products - dfraid
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 134
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 2
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Action file_action_edit
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-134
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-2
+Exiting File Editor File 5 activity-0
 Action file_action_edit
 Document Changed Code Replaced Less
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 4
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 196
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 10
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Action file_action_non_edit
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-4
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-196
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-10
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 active Window idea--
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_non_edit
 Action file_action_non_edit
 Document Changed Code Added
-Action misc
 Action misc
 Document Changed Code Removed
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 470
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 12
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Action file_navigation
+Exiting File Editor File 5 activity-470
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-12
+Exiting File Editor File 5 activity-0
 Action file_navigation
 Document Changed Code Removed
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 168
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Action file_action_non_edit
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-168
+Exiting File Editor File 5 activity-0
 Action file_action_non_edit
 Document Changed Code Added
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Entering File Editor File 5 activity-0
 Document Changed Code Added
-Action misc
 Action misc
 Document Changed Code Removed
 Action misc
-Action misc
 Document Changed Code Removed
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 112
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 36
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 4
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 20
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 48
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 18
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 24
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 30
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 8
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 10
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Action file_action_non_edit
+Exiting File Editor File 5 activity-112
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-36
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-4
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-20
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-48
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-18
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-24
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-30
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-8
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-10
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
 Action file_action_non_edit
 Document Changed Code Added
 Document Changed Code Added
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_non_edit
 Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action misc
-Action misc
 Action misc
 Action misc
 Action file_action_edit
-Action file_action_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
 Action misc
-Action misc
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 752
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 312
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 80
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 2
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 158
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 16
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 126
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Action file_action_edit
+Exiting File Editor File 5 activity-752
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-312
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-80
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-2
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-158
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-16
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-126
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
 Action file_action_edit
 Document Changed Code Removed
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 18
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 114
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Action file_action_edit
+Exiting File Editor File 5 activity-18
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-114
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
 Action file_action_edit
 Document Changed Code Replaced More
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 34
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Action file_action_edit
+Exiting File Editor File 5 activity-34
+Exiting File Editor File 5 activity-0
+Entering File Editor File 5 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
-Action file_action_edit
 Document Changed Code Removed
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Action misc
-Action misc
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 260
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Active Project Project '/Users/nicolasfontenele/IdeaProjects/utqg-demo-local' my-app
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
-Action file_action_edit
+Exiting File Editor File 5 activity-260
+Exiting File Editor File 5 activity-0
+Active Project Project 1
+Entering File Editor File 6 activity-0
 Action file_action_edit
 Document Changed Code Added
 Action file_action_edit
-Action file_action_edit
 Document Changed Code Added
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 122
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
+Exiting File Editor File 6 activity-122
+Entering File Editor File 6 activity-0
 Action file_action_edit
-Action file_action_edit
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 9
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 7
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 43
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/utqg-demo-local/quality-gate.yml 1
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 118
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Active Project Project '/Users/nicolasfontenele/IdeaProjects/quality-gate' quality-gate
-Action file_action_edit
+Exiting File Editor File 6 activity-9
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-7
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-43
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-1
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-118
+Exiting File Editor File 6 activity-0
+Entering File Editor File 6 activity-0
+Active Project Project 2
 Action file_action_edit
 Document Changed Code Replaced More
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 30
-Exiting File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
-Entering File Editor /Users/nicolasfontenele/IdeaProjects/quality-gate/utqg-server/utqg-doc/src/site/markdown/rules/disable_rules_specific_projects.md 0
+Exiting File Editor File 6 activity-30
+Exiting File Editor File 6 activity-0
+Entering File Editor File 6 activity-0
 Action misc
-Action misc
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Action misc
-Action misc
-Action file_action_non_edit
 Action file_action_non_edit
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
-Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
-Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added

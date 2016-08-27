@@ -1,66 +1,39 @@
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 15
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-15
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
 active Window Google Chrome--New Tab 🔊
 active Window Google Chrome--Java - Interfaces 🔊
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 2
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-2
+Entering File Editor File 1 activity-0
 Document Changed Code Added
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 59
+Exiting File Editor File 1 activity-59
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Entering File Editor File 1 activity-0
 Document Changed Code Added
 active Window idea--
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
 Action file_action_non_edit
 Document Changed Code Added
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Exiting File Editor File 1 activity-0
 Document Changed Code Added
+Entering File Editor File 1 activity-0
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Document Changed Code Added
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 11
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 1
+Exiting File Editor File 1 activity-11
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 1
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
+Entering File Editor File 1 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -79,15 +52,11 @@ Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 77
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
+Exiting File Editor File 1 activity-77
+File Opened File 2
+Entering File Editor File 2 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -106,125 +75,102 @@ Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 29
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 1
+Exiting File Editor File 2 activity-29
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 2
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 29
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 67
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-29
+File Opened File 2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-67
+Entering File Editor File 2 activity-0
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 9
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Exiting File Editor File 2 activity-9
+Entering File Editor File 2 activity-0
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 18
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 1
+Exiting File Editor File 2 activity-18
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 15
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-15
+Entering File Editor File 2 activity-0
 Action file_action_edit
 Document Changed Code Removed
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_edit
-Document Changed Code Removed
-Action file_action_non_edit
 Action file_action_non_edit
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_non_edit
+Action file_action_edit
+Document Changed Code Removed
 Action file_action_non_edit
 Action file_action_edit
 Document Changed Code Removed
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 24
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 2
+Exiting File Editor File 2 activity-24
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-2
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
 Document Changed Code Added
-Document Changed Code Added
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Document Changed Code Added
 Document Changed Code Added
 Action misc
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 8
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 8
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-8
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-8
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 7
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 2
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Exiting File Editor File 2 activity-7
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-2
+Entering File Editor File 2 activity-0
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 16
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 1
+Exiting File Editor File 2 activity-16
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 9
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-9
+Entering File Editor File 2 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 45
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 2
+Exiting File Editor File 2 activity-45
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-2
 active Window Skype--Skype
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
 Action file_action_edit
 Document Changed Code Removed
 active Window idea--
@@ -237,109 +183,76 @@ Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
+Action misc
+Exiting File Editor File 2 activity-51
+File Opened File 2
+Entering File Editor File 2 activity-0
+Action file_action_edit
+Document Changed Code Removed
+Action file_action_edit
+Document Changed Code Removed
+Action file_action_edit
+Document Changed Code Removed
+Action file_action_edit
+Document Changed Code Removed
+Action file_action_edit
+Document Changed Code Removed
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 51
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Action file_action_edit
-Document Changed Code Removed
-Action file_action_edit
-Document Changed Code Removed
-Action file_action_edit
-Document Changed Code Removed
-Action file_action_edit
-Document Changed Code Removed
-Action file_action_edit
-Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 38
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 6
+Exiting File Editor File 2 activity-38
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-6
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 1
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 7
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-7
 active Window Google Chrome--FDINET / FDINET / 9f322bede79 - Stash 🔊
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 10
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-10
 active Window iTerm2--1. bash
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 30
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-30
+File Opened File 2
+Entering File Editor File 2 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_edit
-Document Changed Code Removed
 Document Changed Code Removed
 active Window idea--
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 201
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 1
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 1
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Exiting File Editor File 2 activity-201
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
+Entering File Editor File 2 activity-0
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 11
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
+Exiting File Editor File 2 activity-11
+File Opened File 2
+Entering File Editor File 2 activity-0
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 13
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 1
+Exiting File Editor File 2 activity-13
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 1
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 14
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-14
+File Opened File 2
+Entering File Editor File 2 activity-0
 Action file_action_edit
-Document Changed Code Removed
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Replaced Less
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -359,16 +272,13 @@ Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 41
+Exiting File Editor File 2 activity-41
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Entering File Editor File 2 activity-0
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 17
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
+Exiting File Editor File 2 activity-17
+File Opened File 2
+Entering File Editor File 2 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -387,64 +297,60 @@ Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 41
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 1
+Exiting File Editor File 2 activity-41
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
 active Window Skype--Skype
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
 active Window Google Chrome--New Tab 🔊
 active Window Google Chrome--The Machinist (2004) - Soundtracks - IMDb 🔊
 active Window Google Chrome--Lunar Rhapsody - YouTube 🔊
 active Window Google Chrome--The Machinist (2004) - Soundtracks - IMDb 🔊
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
 active Window Google Chrome--Susan Ashton - Summer Solstice - YouTube
 active Window Google Chrome--The Machinist (2004) - Soundtracks - IMDb
 active Window Google Chrome--Last Call - YouTube
 active Window Google Chrome--here without you 3 doors down - YouTube 🔊
 active Window Google Chrome--interface difference in AST - Google Search 🔊
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
 active Window Google Chrome--java - extract interface that a class implementing using AST parser - Stack Overflow 🔊
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 21
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 11
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-21
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-11
+File Opened File 3
+Entering File Editor File 3 activity-0
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 53
+Exiting File Editor File 3 activity-53
 active Window idea--
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
+File Opened File 3
+Entering File Editor File 3 activity-0
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 19
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Exiting File Editor File 3 activity-19
+File Opened File 3
+Entering File Editor File 3 activity-0
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 35
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 23
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 1
+Exiting File Editor File 3 activity-35
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-23
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 46
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-46
+File Opened File 3
+Entering File Editor File 3 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -455,17 +361,13 @@ Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 52
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
+Exiting File Editor File 3 activity-52
+File Opened File 3
+Entering File Editor File 3 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -476,116 +378,86 @@ Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action misc
 Document Changed Code Added
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 55
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 1
+Exiting File Editor File 3 activity-55
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Right.java 7
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 10
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test2Left.java
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 7
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 4
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/14/PrimitiveVsSimpleTypeLeft.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/14/PrimitiveVsSimpleTypeLeft.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/14/PrimitiveVsSimpleTypeLeft.java 1
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/14/PrimitiveVsSimpleTypeLeft.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/14/PrimitiveVsSimpleTypeLeft.java 15
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 4
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 4
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/2/CompilerLeft.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/2/CompilerLeft.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/2/CompilerLeft.java 2
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/2/CompilerLeft.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/2/CompilerLeft.java 30
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 2
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 4
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/26/TestLeft.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/26/TestLeft.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/26/TestLeft.java 2
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/26/TestLeft.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_issue/26/TestLeft.java 39
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 8
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 2
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 2
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-7
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-10
+File Opened File 4
+File Opened File 4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-7
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-4
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-1
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-15
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-4
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-4
+File Opened File 6
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-2
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-30
+File Opened File 6
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-2
+Entering File Editor File 6 activity-0
+Exiting File Editor File 6 activity-4
+File Opened File 7
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-2
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-39
+File Opened File 7
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-8
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-2
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-2
 active Window Google Chrome--java - extract interface that a class implementing using AST parser - Stack Overflow 🔊
 active Window Google Chrome--www.ifi.uzh.ch/dam/jcr:00000000-5852-3622-0000-00002e62bcc9/SWEvol-ChangeDistiller.pdf 🔊
 active Window Google Chrome--SWEvol-ChangeDistiller.pdf 🔊
 active Window Google Chrome--SWEvol-ChangeDistiller.pdf
 active Window Google Chrome--SWEvol-ChangeDistiller.pdf 🔊
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 9
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 0
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-9
+Entering File Editor File 7 activity-0
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/src/main/java/ch/uzh/ifi/seal/changedistiller/ChangeDistiller.java 33
+Exiting File Editor File 7 activity-33
 active Window idea--
-File Opened  /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+File Opened File 7
+Entering File Editor File 7 activity-0
 Action misc
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 18
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 7
+Exiting File Editor File 7 activity-18
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-7
 Action run
 Successful Compilation
 Notification Compiler All files are up-to-date
 active Window Google Chrome--New Tab 🔊
 active Window Google Chrome--interface in java AST - Google Search 🔊
 active Window Google Chrome--javaparser/ClassOrInterfaceDeclaration.java at master · javaparser/javaparser 🔊
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-0
+Entering File Editor File 7 activity-0
 active Window idea--
-Exiting File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 43
-Entering File Editor /Users/rajdeep/gitrepos/tools-changedistiller/resources/testdata/src_change/Test3Left.java 0
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
+Exiting File Editor File 7 activity-43
+Entering File Editor File 7 activity-0
 Action file_action_non_edit

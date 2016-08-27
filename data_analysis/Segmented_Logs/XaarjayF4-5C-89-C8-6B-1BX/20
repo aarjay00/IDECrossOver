@@ -24,33 +24,27 @@ active Window Google Chrome--rohit@codenation.co.in - Google Docs
 active Window Google Chrome--IDE user actions - Google Docs
 Exited Tool Terminal 17
 Entered Tool Messages 0
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 14
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-14
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
 active Window idea--
-Action misc
 Action misc
 active Window Terminal--.IDECrossOverLogs — -bash — 238×66
 active Window idea--
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java
-Focus Gained Tool Terminal
+Active Project Project 1
+File Opened File 2
+File Opened File 3
 Focus Gained Tool Terminal
 Focus Lost Tool Terminal
-Focus Lost Tool Terminal
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java 13
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java 5
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java 2
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java 9
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-13
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-5
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-2
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-9
 Exited Tool Messages 3
 Entered Tool Terminal 0
 active Window Google Chrome--IDE user actions - Google Docs

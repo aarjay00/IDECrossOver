@@ -1,532 +1,335 @@
 Action file_action_non_edit
 Document Changed Code Added
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 91
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
+Exiting File Editor File 1 activity-91
+Entering File Editor File 1 activity-0
 Action debugging
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 20
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 42
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 7
+Exiting File Editor File 1 activity-20
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-42
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-7
 Document Changed Code Removed
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 7
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-7
 Action debugging
 active Window java--
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 9
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-9
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
 Action debugging
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 3
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 65
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/DocListener.java 19
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 2
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 14
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 8
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Action debugging
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-3
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-0
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-65
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-19
+File Opened File 2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-2
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-14
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-8
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
+Entering File Editor File 2 activity-0
 Action debugging
 Notification Debugger messages Method breakpoints may dramatically slow down debugging
-Notification Debugger messages Method breakpoints may dramatically slow down debugging
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 95
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 6
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 6
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 5
+Exiting File Editor File 2 activity-95
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-6
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-6
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-5
 active Window idea--
 Action debugging
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-13
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
 Action debugging
-Action debugging
-Action debugging
-Action debugging
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 13
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 1
-Action debugging
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 32
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 23
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-32
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-23
+Entering File Editor File 2 activity-0
 Action file_action_non_edit
 Action file_action_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Action misc
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 155
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 1
+Exiting File Editor File 2 activity-155
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-1
 Action run
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully in 1s 958ms</a>
 active Window java--
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 48
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-48
+Entering File Editor File 2 activity-0
 Action debugging
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 14
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
+Exiting File Editor File 2 activity-14
+Entering File Editor File 2 activity-0
 active Window idea--
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 46
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 10
+Exiting File Editor File 2 activity-46
+Entering File Editor File 2 activity-0
+Exiting File Editor File 2 activity-0
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-10
 Action misc
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 2
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 0
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-2
+Entering File Editor File 3 activity-0
 Action file_navigation
 Action file_action_edit
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 35
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 9
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 17
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 20
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/ActionListener.java 2
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 34
-Action debugging
+Exiting File Editor File 3 activity-35
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-9
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-17
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-20
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-2
+File Opened File 3
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-34
 Action debugging
 Action run
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Action file_action_non_edit
-Action file_action_non_edit
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_non_edit
-Action file_action_non_edit
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+Entering File Editor File 3 activity-0
 Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 87
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 6
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 2
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
 Document Changed Code Added
+Exiting File Editor File 3 activity-87
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-6
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-2
+Entering File Editor File 3 activity-0
+Action file_action_non_edit
 Document Changed Code Added
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 25
+Exiting File Editor File 3 activity-25
 Action run
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
+Entering File Editor File 3 activity-0
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully in 1s 875ms</a>
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 20
+Exiting File Editor File 3 activity-20
 active Window java--
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-0
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-0
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-0
+Entering File Editor File 3 activity-0
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Removed
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Removed
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Removed
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
 active Window idea--
 Action file_action_non_edit
 Action file_action_edit
 Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Document Changed Code Removed
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 145
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 5
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 6
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 1
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 2
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 8
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 3
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 14
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 6
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 7
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 7
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 28
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 6
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 6
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 4
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 24
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Action misc
-Action misc
+Exiting File Editor File 3 activity-145
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-5
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-6
+Entering File Editor File 3 activity-0
+Exiting File Editor File 3 activity-1
+File Opened File 4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-2
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-8
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-3
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-14
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-6
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-7
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-7
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-28
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-6
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-6
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-24
+Entering File Editor File 4 activity-0
 Action misc
 Action run
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 39
+Exiting File Editor File 4 activity-39
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully in 1s 811ms</a>
 Exited Tool Structure 63
 Entered Tool Debug 0
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 2
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 2
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-2
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-2
 active Window java--
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
+File Opened File 4
+File Opened File 4
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-1
+Entering File Editor File 4 activity-0
 active Window idea--
 Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action file_action_non_edit
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 164
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 3
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
+Exiting File Editor File 4 activity-164
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-3
+Entering File Editor File 4 activity-0
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 79
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 31
+Exiting File Editor File 4 activity-79
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-31
 Action debugging
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java
+File Opened File 4
 Action debugging
-Action debugging
-Action debugging
-Action debugging
-Action debugging
-Action debugging
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 7
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-7
 active Window java--
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 3
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-3
+Entering File Editor File 4 activity-0
 active Window idea--
 Action misc
-Action misc
-Action misc
-Action misc
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 261
+Exiting File Editor File 4 activity-261
 active Window Slack--
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
+Entering File Editor File 4 activity-0
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 64
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 13
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 82
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 0
+Exiting File Editor File 4 activity-64
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-1
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-1
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-13
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-1
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-82
+Entering File Editor File 4 activity-0
 active Window idea--
 Action misc
+Exiting File Editor File 4 activity-38
+File Opened File 4
+Entering File Editor File 4 activity-0
 Action misc
+Exiting File Editor File 4 activity-133
+File Opened File 5
+File Opened File 5
+Entering File Editor File 5 activity-0
 Action misc
-Action misc
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java 38
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 133
-File Opened  /Users/aarjay/plugin/intellij-community/platform/core-api/src/com/intellij/openapi/editor/Document.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 55
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 2
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 42
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 1
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
+Exiting File Editor File 5 activity-55
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-2
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-42
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-1
+File Opened File 6
+File Opened File 7
+File Opened File 8
+File Opened File 8
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-1
+Entering File Editor File 8 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 87
-Focus Gained Tool Terminal
+Exiting File Editor File 8 activity-87
 Focus Gained Tool Terminal
 Action run
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
+Entering File Editor File 8 activity-0
 Focus Lost Tool Terminal
-Focus Lost Tool Terminal
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 12
+Exiting File Editor File 8 activity-12
 Exited Tool Debug 1
 Entered Tool Messages 0
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully with 4 warnings in 3s 984ms</a>
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 32
-Focus Gained Tool FindBugs-IDEA
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-32
 Focus Gained Tool FindBugs-IDEA
 Exited Tool Messages 53
 Entered Tool FindBugs-IDEA 0
 Action debugging
 Focus Lost Tool FindBugs-IDEA
-Focus Lost Tool FindBugs-IDEA
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Focus Gained Tool FindBugs-IDEA
+Entering File Editor File 8 activity-0
 Focus Gained Tool FindBugs-IDEA
 Successful Compilation
 Notification Compiler All files are up-to-date
 Focus Lost Tool FindBugs-IDEA
-Focus Lost Tool FindBugs-IDEA
-Focus Gained Tool FindBugs-IDEA
 Focus Gained Tool FindBugs-IDEA
 Focus Lost Tool FindBugs-IDEA
-Focus Lost Tool FindBugs-IDEA
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
+Exiting File Editor File 8 activity-0
 Notification FindBugs: Analysis Finished Found 21 bugs in 23 classes&nbsp;<a href='#more'>more...</a><br/><font size='10px'>using FindBugs-IDEA 1.0.0 with Findbugs version 3.0.1</font><br/><br/><a href='#disable'>Disable notification</a>
 Focus Gained Tool FindBugs-IDEA
-Focus Gained Tool FindBugs-IDEA
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java 6
-Focus Lost Tool FindBugs-IDEA
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-6
 Focus Lost Tool FindBugs-IDEA
 Focus Gained Tool FindBugs-IDEA
-Focus Gained Tool FindBugs-IDEA
-Focus Lost Tool FindBugs-IDEA
 Focus Lost Tool FindBugs-IDEA
 Focus Gained Tool FindBugs-IDEA
-Focus Gained Tool FindBugs-IDEA
-Focus Lost Tool FindBugs-IDEA
 Focus Lost Tool FindBugs-IDEA
 Focus Gained Tool FindBugs-IDEA
-Focus Gained Tool FindBugs-IDEA
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
+File Opened File 8
 Focus Lost Tool FindBugs-IDEA
-Focus Lost Tool FindBugs-IDEA
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
+Entering File Editor File 8 activity-0
 Action file_action_non_edit
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Document Changed Code Added
 Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
@@ -536,50 +339,34 @@ Document Changed Code Removed
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 30
+Exiting File Editor File 8 activity-30
 Action debugging
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
+Entering File Editor File 8 activity-0
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully with 1 warning in 2s 461ms</a>
 Notification FindBugs: Analysis Finished Found 21 bugs in 23 classes&nbsp;<a href='#more'>more...</a><br/><font size='10px'>using FindBugs-IDEA 1.0.0 with Findbugs version 3.0.1</font><br/><br/><a href='#disable'>Disable notification</a>
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 8
+Exiting File Editor File 8 activity-8
 Focus Gained Tool FindBugs-IDEA
-Focus Gained Tool FindBugs-IDEA
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Util/ReflectUtil.java
+File Opened File 9
 Focus Lost Tool FindBugs-IDEA
-Focus Lost Tool FindBugs-IDEA
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Util/ReflectUtil.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Util/ReflectUtil.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Util/ReflectUtil.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Util/ReflectUtil.java 3
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Util/ReflectUtil.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Util/ReflectUtil.java 8
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Util/ReflectUtil.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Util/ReflectUtil.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Util/ReflectUtil.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Util/ReflectUtil.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Util/ReflectUtil.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/Util/ReflectUtil.java 1
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-1
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-3
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-8
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-1
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-1
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-1
 Focus Gained Tool FindBugs-IDEA
-Focus Gained Tool FindBugs-IDEA
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-Focus Lost Tool FindBugs-IDEA
+File Opened File 9
 Focus Lost Tool FindBugs-IDEA
 Focus Gained Tool FindBugs-IDEA
-Focus Gained Tool FindBugs-IDEA
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 60
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 74
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-60
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-74

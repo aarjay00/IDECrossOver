@@ -12,11 +12,10 @@ active Window Reduce Storage importer cluster - MessageOne - Devfactory Confluen
 active Window M1 Everyone
 active Window Search - Devfactory Confluence Wiki - Google Chrome
 Focus Gained Tool Find
-Focus Gained Tool Find
 Exited Tool Event Log 7
 Entered Tool Find 0
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/test/java/com/m1/ems/commandline/activemailbox/importer/ShardCommandTest.java 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/test/java/com/m1/ems/commandline/activemailbox/importer/ShardCommandTest.java 26
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-26
 Exited Tool Find 61
 Entered Tool Event Log 0
 Exited Tool Event Log 111
@@ -24,92 +23,75 @@ Entered Tool Find 0
 Exited Tool Find 53
 Entered Tool Event Log 0
 Focus Lost Tool Find
-Focus Lost Tool Find
 active Window Bitvise xterm - gold.bscp - root@52.207.219.95:22 - root@amdb1-1:~
-Focus Gained Tool Find
 Focus Gained Tool Find
 Exited Tool Event Log 13
 Entered Tool Find 0
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/test/java/com/m1/ems/commandline/activemailbox/importer/ShardCommandTest.java 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/test/java/com/m1/ems/commandline/activemailbox/importer/ShardCommandTest.java 1
-Focus Lost Tool Find
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
 Focus Lost Tool Find
 Action file_navigation
 Action file_action_edit
 Focus Gained Tool Find
-Focus Gained Tool Find
 Focus Lost Tool Find
-Focus Lost Tool Find
-File Opened  D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 0
+File Opened File 2
+Entering File Editor File 2 activity-0
 active Window EMS - [D:\M1\m1-ems] - [emsCore] - ...\core\moduleEmsCore\src\main\java\com\m1\ems\mgmt\activemailbox\cluster\ClusterManager.java - IntelliJ IDEA 14.0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 26
-Focus Gained Tool Find
+Exiting File Editor File 2 activity-26
 Focus Gained Tool Find
 Focus Lost Tool Find
-Focus Lost Tool Find
-File Opened  D:/M1/m1-ems/core/moduleEmsCore/src/test/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManagerTest.java
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/test/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManagerTest.java 0
+File Opened File 3
+Entering File Editor File 3 activity-0
 active Window EMS - [D:\M1\m1-ems] - [emsCore] - ...\core\moduleEmsCore\src\test\java\com\m1\ems\mgmt\activemailbox\cluster\ClusterManagerTest.java - IntelliJ IDEA 14.0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/test/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManagerTest.java 97
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 0
-File Opened  D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 9
+Exiting File Editor File 3 activity-97
+Entering File Editor File 3 activity-0
+File Opened File 3
+Exiting File Editor File 3 activity-9
 Exited Tool Find 873
 Entered Tool Event Log 0
 Exited Tool Event Log 1
 Entered Tool Find 0
 Focus Gained Tool Find
-Focus Gained Tool Find
 Focus Lost Tool Find
-Focus Lost Tool Find
-File Opened  D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy
-Entering File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy 0
+File Opened File 4
+Entering File Editor File 4 activity-0
 active Window EMS - [D:\M1\m1-ems] - [dynamic.webserver] - ...\core\moduleWebServices\moduleWebServerRPM\src\main\jython\generateClusterLocationAmpCommands.jy - IntelliJ IDEA 14.0
-Exiting File Editor D:/M1/m1-ems/core/moduleWebServices/moduleWebServerRPM/src/main/jython/generateClusterLocationAmpCommands.jy 90
-File Opened  D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 0
+Exiting File Editor File 4 activity-90
+File Opened File 4
+Entering File Editor File 4 activity-0
 Action file_navigation
 Focus Gained Tool Hierarchy
-Focus Gained Tool Hierarchy
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 196
+Exiting File Editor File 4 activity-196
 Exited Tool Find 187
 Entered Tool Hierarchy 0
 Focus Lost Tool Hierarchy
-Focus Lost Tool Hierarchy
 active Window EMS - [D:\M1\m1-ems] - [emsCore] - ...\core\moduleEmsCore\src\main\java\com\m1\ems\mgmt\activemailbox\cluster\ClusterManager.java - IntelliJ IDEA 14.0
 Focus Gained Tool Hierarchy
+Focus Lost Tool Hierarchy
+Entering File Editor File 4 activity-0
+Exiting File Editor File 4 activity-71
 Focus Gained Tool Hierarchy
 Focus Lost Tool Hierarchy
-Focus Lost Tool Hierarchy
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 71
-Focus Gained Tool Hierarchy
-Focus Gained Tool Hierarchy
-Focus Lost Tool Hierarchy
-Focus Lost Tool Hierarchy
-File Opened  D:/M1/m1-ems/core/moduleEmsCore/src/test/java/com/m1/ems/search/solr/SolrDocumentConverterTest.java
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/test/java/com/m1/ems/search/solr/SolrDocumentConverterTest.java 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/test/java/com/m1/ems/search/solr/SolrDocumentConverterTest.java 83
+File Opened File 5
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-83
 active Window EMS - [D:\M1\m1-ems] - [emsCore] - ...\core\moduleEmsCore\src\test\java\com\m1\ems\search\solr\SolrDocumentConverterTest.java - IntelliJ IDEA 14.0
-File Opened  D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 0
+File Opened File 5
+Entering File Editor File 5 activity-0
 active Window EMS - [D:\M1\m1-ems] - [emsCore] - ...\core\moduleEmsCore\src\main\java\com\m1\ems\mgmt\activemailbox\cluster\ClusterManager.java - IntelliJ IDEA 14.0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 767
+Exiting File Editor File 5 activity-767
 Exited Tool Hierarchy 760
 Entered Tool Event Log 0
 Exited Tool Event Log 37
 Entered Tool Find 0
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 0
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 1
+Entering File Editor File 5 activity-0
+Exiting File Editor File 5 activity-1
 active Window 
 Exited Tool Find 3
 Entered Tool Event Log 0
-Entering File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 0
+Entering File Editor File 5 activity-0
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Exiting File Editor D:/M1/m1-ems/core/moduleEmsCore/src/main/java/com/m1/ems/mgmt/activemailbox/cluster/ClusterManager.java 108
+Exiting File Editor File 5 activity-108
 Exited Tool Event Log 9
 Entered Tool Find 0
 Exited Tool Find 7

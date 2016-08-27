@@ -4,828 +4,311 @@ active Window Google Chrome--jni - Getting active window information in Java - S
 active Window Google Chrome--Automated Parsing Log Types | Loggly
 active Window Google Chrome--Action System
 Focus Gained Tool Terminal
-Focus Gained Tool Terminal
 active Window idea--
 Focus Lost Tool Terminal
-Focus Lost Tool Terminal
 active Window Slack--
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Focus Gained Tool Terminal
+Entering File Editor File 1 activity-0
 Focus Gained Tool Terminal
 Focus Lost Tool Terminal
-Focus Lost Tool Terminal
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 17
+Exiting File Editor File 1 activity-17
 Focus Gained Tool Terminal
-Focus Gained Tool Terminal
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
+Entering File Editor File 1 activity-0
 Focus Lost Tool Terminal
-Focus Lost Tool Terminal
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 8
+Exiting File Editor File 1 activity-8
 active Window Terminal--user3 — -bash — 238×66
 active Window Terminal--.IDECrossOverLogs — -bash — 238×66
 active Window Terminal--user2 — python — 238×66
 active Window Terminal--.IDECrossOverLogs — -bash — 238×66
 active Window Google Chrome--Custom Language Support
 active Window Google Chrome--Install IDE Logger Plugin - Google Docs
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 1
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 25
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-25
 active Window pycharm--
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
+Entering File Editor File 1 activity-0
 Action file_action_edit
 Document Changed Code Added
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
+Document Changed Code Added
 Action file_action_edit
 Document Changed Code Added
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
+Document Changed Code Added
 Action file_action_edit
 Document Changed Code Added
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
+Document Changed Code Added
 Action file_action_edit
 Document Changed Code Added
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
+Document Changed Code Added
 Action file_action_edit
 Document Changed Code Added
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Document Changed Code Added
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Document Changed Code Added
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Document Changed Code Added
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Document Changed Code Added
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Document Changed Code Added
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Document Changed Code Added
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Added
 Action misc
-Action misc
-Action misc
-Action misc
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 9
+Exiting File Editor File 1 activity-9
 active Window Terminal--.IDECrossOverLogs — -bash — 238×66
 active Window idea--
 Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Added
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Action misc
-Action misc
-Action misc
 Action misc
 Document Changed Code Removed
 Document Changed Code Added
 Document Changed Code Replaced Less
 Action misc
-Action misc
-Action misc
-Action misc
 active Window Terminal--.IDECrossOverLogs — -bash — 238×66
 active Window Google Chrome--Install IDE Logger Plugin - Google Docs
 active Window Google Chrome--New Tab
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 3
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 26
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 1
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-3
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-26
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-1
 active Window Google Chrome--TechCrunch - The latest technology news and information on startups
 active Window Google Chrome--DeepMind NHS health data-sharing deal faces further scrutiny | TechCrunch
 active Window Google Chrome--TechCrunch - The latest technology news and information on startups
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 21
-File Opened  /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/plaf/basic/BasicSliderUI.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorListener.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/PluginStartUp.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/S3Client.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/IDELogger.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorManagerListener.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/Listeners/EditorListener.java
-File Opened  /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 3
-Entering File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 0
-Exiting File Editor /Users/aarjay/IdeaProjects/IDECrossOver/src/log/ActionLogger.java 16
+Entering File Editor File 1 activity-0
+Exiting File Editor File 1 activity-21
+File Opened File 2
+File Opened File 3
+File Opened File 4
+File Opened File 5
+File Opened File 6
+File Opened File 7
+File Opened File 7
+File Opened File 7
+File Opened File 7
+File Opened File 7
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-3
+Entering File Editor File 7 activity-0
+Exiting File Editor File 7 activity-16
 active Window idea--
 Action misc
-Action misc
-Action misc
-Action misc
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Active Project Project '/Users/aarjay/IdeaProjects/IDECrossOver' IDECrossOver
-Active Project Project '/Users/aarjay/Downloads/ideacommitlogplugin/S3Client' S3Client
-Active Project Project '/Users/aarjay/Downloads/ideacommitlogplugin/S3Client' S3Client
-Active Project Project '/Users/aarjay/Downloads/ideacommitlogplugin/S3Client' S3Client
-Active Project Project '/Users/aarjay/Downloads/ideacommitlogplugin/S3Client' S3Client
-Active Project Project '/Users/aarjay/Downloads/ideacommitlogplugin/S3Client' S3Client
-Active Project Project '/Users/aarjay/Downloads/ideacommitlogplugin/S3Client' S3Client
-File Opened  /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
+Active Project Project 1
+Active Project Project 2
+File Opened File 8
+Entering File Editor File 8 activity-0
 Notification Maven Import <a href='reimport'>Import Changes</a> <a href='autoImport'>Enable Auto-Import</a>
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 34
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 12
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 1
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 2
+Exiting File Editor File 8 activity-34
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-12
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-1
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-2
 active Window Terminal--.IDECrossOverLogs — -bash — 238×66
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 1
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-1
 active Window Skype--Skype
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 19
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 25
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 1
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 2
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 47
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-19
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-25
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-1
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-2
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-47
 active Window Google Chrome--TechCrunch - The latest technology news and information on startups
 active Window Google Chrome--New Tab
 active Window Google Chrome--aws maven dependency - Google Search
 active Window Google Chrome--Maven Repository: com.amazonaws » aws-java-sdk
 active Window Google Chrome--Maven Repository: com.amazonaws » aws-java-sdk » 1.11.29
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 2
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-2
+Entering File Editor File 8 activity-0
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Document Changed Code Added
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Added
 Document Changed Code Removed
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Added
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
 Document Changed Code Added
 active Window idea--
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 107
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 3
+Exiting File Editor File 8 activity-107
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-3
 Action run
-Action run
-Action run
-Action run
-Action run
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
+Entering File Editor File 8 activity-0
 Successful Compilation
 Notification Compiler <a href='#'>Compilation completed successfully in 3s 30ms</a>
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 14
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 3
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 79
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 2
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 1
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 5
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 3
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 2
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 26
+Exiting File Editor File 8 activity-14
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-3
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-79
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-2
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-1
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-5
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-3
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-2
+Entering File Editor File 8 activity-0
+Exiting File Editor File 8 activity-26
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-File Opened  /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 1
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 6
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 1
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 6
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 9
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 21
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 10
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 6
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 3
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 0
+File Opened File 9
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-1
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-6
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-1
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-6
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-9
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-21
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-10
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-6
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-3
+Entering File Editor File 9 activity-0
 Action misc
+File Opened File 9
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-3
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-1
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-1
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-14
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-1
+File Opened File 9
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-13
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-7
 Action misc
-Action misc
-Action misc
-Action misc
-File Opened  /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 3
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 1
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 1
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 14
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 1
-File Opened  /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 13
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client.java 7
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 2
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 1
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-2
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-1
 Action file_action_edit
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-4
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-16
+Entering File Editor File 9 activity-0
+Exiting File Editor File 9 activity-1
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 4
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 16
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 1
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-File Opened  /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 2
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 0
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
+File Opened File 10
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-2
+Entering File Editor File 10 activity-0
 Action file_action_non_edit
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 31
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/S3Client/BaseClient.java 1
+Exiting File Editor File 10 activity-31
+Entering File Editor File 10 activity-0
+Exiting File Editor File 10 activity-1
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-File Opened  /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 0
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
+File Opened File 11
+Entering File Editor File 11 activity-0
 Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
 Document Changed Code Added
+Exiting File Editor File 11 activity-15
 Document Changed Code Added
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 15
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 0
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
+Entering File Editor File 11 activity-0
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Document Changed Code Removed
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
+Exiting File Editor File 11 activity-0
+Entering File Editor File 11 activity-0
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 0
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 0
-Document Changed Code Added
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 0
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
+Exiting File Editor File 11 activity-0
 Action file_action_non_edit
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
 Document Changed Code Added
+Entering File Editor File 11 activity-0
 Document Changed Code Added
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 0
+Exiting File Editor File 11 activity-0
 Document Changed Code Added
-Document Changed Code Added
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 0
-Document Changed Code Added
-Document Changed Code Added
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 0
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
+Entering File Editor File 11 activity-0
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Document Changed Code Added
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 0
+Exiting File Editor File 11 activity-0
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 0
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
+Entering File Editor File 11 activity-0
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Document Changed Code Added
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action misc
-Action misc
-Action misc
-Action misc
 Action misc
 Document Changed Code Removed
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 27
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 2
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 1
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 10
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/src/main/java/main.java 1
+Exiting File Editor File 11 activity-27
+Entering File Editor File 11 activity-0
+Exiting File Editor File 11 activity-2
+Entering File Editor File 11 activity-0
+Exiting File Editor File 11 activity-1
+Entering File Editor File 11 activity-0
+Exiting File Editor File 11 activity-10
+Entering File Editor File 11 activity-0
+Exiting File Editor File 11 activity-1
 Document Changed Code Removed
 Focus Gained Tool Terminal
-Focus Gained Tool Terminal
 Focus Lost Tool Terminal
-Focus Lost Tool Terminal
-File Opened  /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Exiting File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 1
-Entering File Editor /Users/aarjay/Downloads/ideacommitlogplugin/S3Client/pom.xml 0
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
+File Opened File 11
+Entering File Editor File 11 activity-0
+Exiting File Editor File 11 activity-1
+Entering File Editor File 11 activity-0
 Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
 Action file_action_edit
 Document Changed Code Removed
 Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
+Document Changed Code Removed
+Document Changed Code Added
 Action file_action_edit
 Document Changed Code Removed
 Document Changed Code Added
-Document Changed Code Added
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Action file_action_edit
-Document Changed Code Removed
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
 Action misc
-Action misc
-Action misc
-Action misc
-Action misc
-Document Changed Code Added
 Document Changed Code Added
 Document Changed Code Removed
 Document Changed Code Added
 Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Document Changed Code Added
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
-Action file_action_non_edit
 Action file_action_non_edit
