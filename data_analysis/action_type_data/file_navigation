@@ -23,3 +23,5 @@ Annotate
 Forward
 Back
 Add
+Type Hierarchy
+Show parameters of the method call at caret
