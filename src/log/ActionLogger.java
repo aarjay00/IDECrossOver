@@ -52,7 +52,7 @@ public class ActionLogger {
 
     public void logProjectChange(Project project){
         activeProject=project;
-        HashMap<String,String> logEntry = new HashMap<>();
+        HashMap<String,String> logEntry = new HashMap<String,String>();
         logEntry.put("logType","projectType");
         logEntry.put("projectDetails",project.toString());
         IDELogger.getInstance().log(logEntry);
@@ -120,7 +120,7 @@ public class ActionLogger {
     }
     public Map<String,String> logKeyEvent(KeyEvent keyEvent)
     {
-        Map<String,String> logEntry=new HashMap<>();
+        Map<String,String> logEntry=new HashMap<String,String>();
         logEntry.put("logType","KeyEvent");
         logEntry.put("KeyText",keyEvent.getKeyText(keyEvent.getKeyCode()));
         logEntry.put("KeyEvent",keyEvent.paramString());
@@ -130,7 +130,7 @@ public class ActionLogger {
     public void logDocumentEvent(DocumentEvent event)
     {
 
-        Map<String ,String> logEntry = new HashMap<>();
+        Map<String ,String> logEntry = new HashMap<String,String>();
         logEntry.put("logType","DocumentEvent");
         logEntry.put("description",event.toString());
         VirtualFile virtualFile = FileDocumentManager.getInstance().getFile(event.getDocument());
@@ -161,7 +161,7 @@ public class ActionLogger {
 
     public Map<String,String> logVirtualFile(VirtualFile virtualFile)
     {
-        Map<String,String> logEntry= new HashMap<>();
+        Map<String,String> logEntry= new HashMap<String,String>();
         try{
             Document document = FileDocumentManager.getInstance().getDocument(virtualFile);
             logEntry.put("fileContent",document.getText());
@@ -188,7 +188,7 @@ public class ActionLogger {
     }
     public void logFocusComponent(PropertyChangeEvent event){
 
-        Map<String,String> logEntry  = new HashMap<>();
+        Map<String,String> logEntry  = new HashMap<String,String>();
         logEntry.put("logType","focusComponent");
         if(event.getOldValue()!=null)
             logEntry.put("oldEvent",event.getOldValue().toString());
@@ -217,7 +217,7 @@ public class ActionLogger {
         }
     }
     public void logNewToolWindow(ToolWindowImpl toolWindow, Boolean leaveTool){
-        Map<String,String> logEntry = new HashMap<>();
+        Map<String,String> logEntry = new HashMap<String,String>();
         logEntry.put("logType","ToolEntry");
         logEntry.put("toolEnter",leaveTool.toString());
         logEntry.put("tooName",toolWindow.getId());
@@ -226,7 +226,7 @@ public class ActionLogger {
         IDELogger.getInstance().log(logEntry);
     }
     public void logFocus(FocusEvent e,ToolWindowImpl toolWindow,Boolean focusGained){
-        Map<String,String> logEntry = new HashMap<>();
+        Map<String,String> logEntry = new HashMap<String,String>();
         logEntry.put("logType","FocusEvent");
         logEntry.put("focusDetails",e.paramString());
         logEntry.put("focusGained",focusGained.toString());
@@ -235,7 +235,7 @@ public class ActionLogger {
     }
     public void  logNotification(Notification notification){
 //        System.out.println(notification.toString());
-        Map<String,String> logEntry = new HashMap<>();
+        Map<String,String> logEntry = new HashMap<String,String>();
         logEntry.put("logType","Notification");
         logEntry.put("groupId",notification.getGroupId());
         logEntry.put("title",notification.getTitle());
@@ -243,7 +243,7 @@ public class ActionLogger {
         IDELogger.getInstance().log(logEntry);
     }
     public void logCompilationStatus(CompileContext compileContext , Integer errors, Boolean aborted, Integer warnings){
-        HashMap<String,String> logEntry =  new HashMap<>();
+        HashMap<String,String> logEntry =  new HashMap<String,String>();
         logEntry.put("logType","CompilationStatus");
         logEntry.put("errors",errors.toString());
         logEntry.put("aborted",aborted.toString());
@@ -254,7 +254,7 @@ public class ActionLogger {
     public void logActiveApplication(String newActiveApplication){
         if(activeApplication.equals(newActiveApplication)) return;
         activeApplication=newActiveApplication;
-        Map<String,String> logEntry = new HashMap<>();
+        Map<String,String> logEntry = new HashMap<String,String>();
         logEntry.put("logType","activeWindow");
         logEntry.put("windowDetails",activeApplication);
         IDELogger.getInstance().log(logEntry);

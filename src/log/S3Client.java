@@ -28,6 +28,12 @@ public class S3Client {
 
     private static S3Client s3Client = null;
 
+    private static File fileUpload;
+
+    private static String bucketName;
+
+    private static String logFileName;
+
     public static S3Client getInstance(){
         if(s3Client == null){
             s3Client = new S3Client();
@@ -37,12 +43,12 @@ public class S3Client {
 
     public Boolean uploadLogToS3(){
 
-        String bucketName="cnu-idelogs";
-        String fileName=getUserDetail()+"/"+getFileName();
-//        Properties properties = System.getProperties();
+        bucketName="cnu-idelogs";
+        logFileName=getUserDetail()+"/"+getFileName();
+        Properties properties = System.getProperties();
         File fileLog = new File(System.getProperty("user.dir")+"/.IDECrossOverLogs/log");
         Long epoch = System.currentTimeMillis()/1000L;
-        File fileUpload = new File(System.getProperty("user.dir")+"/.IDECrossOverLogs/upload"+epoch.toString());
+        fileUpload = new File(System.getProperty("user.dir")+"/.IDECrossOverLogs/upload"+epoch.toString());
         try {
             Files.copy(fileLog.toPath(), fileUpload.toPath());
         }catch (IOException e){
@@ -57,7 +63,7 @@ public class S3Client {
                 public void run() {
                     AWSCredentials credentials = new BasicAWSCredentials(accesskeyID,secretAccessKey);
                     AmazonS3 s3client = new AmazonS3Client(credentials);
-                    s3client.putObject(new PutObjectRequest(bucketName, fileName, fileUpload));
+                    s3client.putObject(new PutObjectRequest(bucketName, logFileName, fileUpload));
                     if(!fileUpload.delete()){
                         //Handle upload file not being deleted
                     }
