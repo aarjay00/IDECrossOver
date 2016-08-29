@@ -27,7 +27,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.Properties;
+import java.util.*;
 
 import com.sun.jna.Native;
 import com.sun.jna.platform.win32.User32;
@@ -158,9 +158,11 @@ public class PluginStartUp implements ProjectComponent {
                             "-e","set window_name to name of front window",
                             "-e","end tell"
                         };
+                        java.util.List<String> appNameList= Arrays.asList("Google Chrome","Terminal","iTerm2","firefox");
                         String applicationDetails="";
-                        if(!applicationName.equals("idea"))
-                         applicationDetails=runCommand(commands_2);
+//                        if(!applicationName.equals("idea"))
+                        if(appNameList.contains(applicationName))
+                            applicationDetails=runCommand(commands_2);
                         ActionLogger.getInstance().logActiveApplication(applicationName+"--"+applicationDetails);
                     try {
                         Thread.sleep(15000);
