@@ -167,7 +167,7 @@ public class PluginStartUp implements ProjectComponent {
                     try {
                         Thread.sleep(15000);
                     } catch (InterruptedException e) {
-                        e.printStackTrace();
+//                        e.printStackTrace();
                     }
                 }
             }
@@ -181,7 +181,7 @@ public class PluginStartUp implements ProjectComponent {
                     try{
                         Thread.sleep(15000);
                     }catch (InterruptedException e){
-                        e.printStackTrace();
+//                        e.printStackTrace();
                     }
                 }
             }

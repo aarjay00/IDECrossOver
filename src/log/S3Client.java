@@ -63,11 +63,16 @@ public class S3Client {
                 public void run() {
                     AWSCredentials credentials = new BasicAWSCredentials(accesskeyID,secretAccessKey);
                     AmazonS3 s3client = new AmazonS3Client(credentials);
-                    s3client.putObject(new PutObjectRequest(bucketName, logFileName, fileUpload));
+                    try{
+                        s3client.putObject(new PutObjectRequest(bucketName, logFileName, fileUpload));
+                        IDELogger.getInstance().deleteLogs(); // approved by siddhanth
+                    }
+                    catch (Exception e){
+
+                    }
                     if(!fileUpload.delete()){
                         //Handle upload file not being deleted
                     }
-                    IDELogger.getInstance().deleteLogs();
                 }
             });
 //            s3client.putObject(new PutObjectRequest(bucketName, fileName, file));
