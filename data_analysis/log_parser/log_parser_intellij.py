@@ -1,8 +1,9 @@
-import log_parser
+from log_parser_base import LogParserBase
 import util
 import json
 
-class log_parser_intellij(log_parser):
+
+class LogParserIntellij(LogParserBase):
 
     @classmethod
     def parse_log_file(cls,file_name):
@@ -26,9 +27,9 @@ class log_parser_intellij(log_parser):
 
     @classmethod
     def parse_log_dir(cls,log_dir):
-        super(log_parser_intellij, cls).parse_log_dir(cls,log_dir)
+        return super(LogParserIntellij, cls).parse_log_dir(cls, log_dir)
 
 
     @classmethod
-    def parse_log_collection(cls,log_dir_collection):
-        super(log_parser_intellij, cls).parse_log_collection(cls,log_dir_collection)
+    def parse_log_collection(cls, log_collection_dir):
+        return super(LogParserIntellij, cls).parse_log_collection(cls, log_collection_dir)

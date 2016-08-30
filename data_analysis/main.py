@@ -19,10 +19,9 @@
 # log_list[0]
 
 import s3_client
-from log_parser.parse_logs_util import *
-from action_type import ActionType
 from log_analysis import *
-from parse_log_entry import *
+from log_parser.parse_logs_util import *
+from log_representation.parse_log_entry import *
 
 ActionType.load_files()
 
