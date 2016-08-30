@@ -15,3 +15,5 @@ Recompile
 Make Module
 Compile
 Add New Configuration
+Execute Maven Goal
+Run with Coverage context configuration
