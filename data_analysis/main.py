@@ -12,33 +12,29 @@
 # hotkey_analysis(command_list)
 
 
-from parse_logs import *
-from s3_client import *
-
 # log_list=parse_old_intelliJ_log("log")
 
 # print len(log_list)
 
 # log_list[0]
 
-from parse_logs import *
-from parse_log_entry import *
-from log_analysis import *
 import s3_client
-
+from log_parser.parse_logs_util import *
 from action_type import ActionType
+from log_analysis import *
+from parse_log_entry import *
 
 ActionType.load_files()
 
-# s3_client.downloadLogs()
+s3_client.downloadLogs()
 
-old_log=parse_old_intelliJ_log('log')
+# old_log=parse_old_intelliJ_log('log')
 
-parsed_old_log=parse_logs(old_log)
+# parsed_old_log=parse_logs(old_log)
 
 
 
-print len(old_log),len(parsed_old_log)
+# print len(old_log),len(parsed_old_log)
 
 users=parse_all_logs('Logs')
 

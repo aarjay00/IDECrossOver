@@ -1,6 +1,6 @@
 from itertools import groupby
 import time
-import util
+import log_util
 
 def sort_logs(log_list):
 
@@ -66,8 +66,24 @@ def compact_log_segment(log_segment):
         compact_log_list.append(log)
         prev_log_entry=log[0]
         prev_log_entry_time=int(log[1])
-    print len(compact_log_list),len(log_segment)
+    # print len(compact_log_list),len(log_segment)
     return compact_log_list
+
+
+def log_entry_equality(current_log_entry,previous_log_entry):
+
+    if(previous_log_entry[0]!=current_log_entry[0]):
+        return None
+    if(previous_log_entry==current_log_entry):
+        return previous_log_entry
+    # elif(previous_log_entry[0]=='Exiting File Editor')
+
+
+def remove_action_type(action_type_name,log_segment):
+
+    log_segment = filter(lambda x : not (len(x[0]) > 1 and x[0][0]=='Action' and x[0][1]==action_type_name) ,log_segment)
+
+    return log_segment
 
 def normalize_file_name(log_segment,accessed_file_list):
 
@@ -96,42 +112,21 @@ def normalize_project_name(log_segment,accessed_project_list):
     return log_segment
 
 
-def get_log_time(log_entry):
-
-    epoch = int(log_entry[1])
-
-    time_tuple = time.gmtime(epoch)
-
-    time_readeable = time.strftime("%m:%d::%H:%M:%S",time_tuple)
-
-    full_time_readeable = time.ctime(epoch)
-
-    return time_readeable
-
-def print_log_segments(log_list_segmented,dir_path):
-
-    util.create_directory(dir_path)
-
-    for ind,log_segment in enumerate(log_list_segmented):
-
-        with open(dir_path+"/"+str(ind),'w') as fd:
-            fd.write("Time Start-"+get_log_time(log_segment[0])+"\n")
-            time_start_epoch=int(log_segment[0][1])
-            for log_entry in log_segment:
-                line=str(int(log_entry[1])-time_start_epoch)+"-"+' '.join(log_entry[0])
-                line=util.encode_data(line)
-                fd.write(line+"\n")
-            fd.write("Time End-"+get_log_time(log_segment[-1])+"\n")
 def log_analysis(log_list,user_name):
 
-
     log_list_segmented=segment_log_list_2(log_list,300);
+
+    log_list_segmented = [remove_action_type("misc",log_segment) for log_segment in log_list_segmented]
+
+    log_list_segmented = [remove_action_type("file_action_edit",log_segment) for log_segment in log_list_segmented]
+
 
     log_list_compact=[compact_log_segment(log_segment) for log_segment in log_list_segmented]
 
     accessed_file_list=[]
     log_list_compact=[normalize_file_name(log_segment,accessed_file_list) for log_segment in log_list_compact]
+
     accessed_project_list=[]
     log_list_compact=[normalize_project_name(log_segment,accessed_project_list) for log_segment in log_list_compact]
 
-    print_log_segments(log_list_compact,"Segmented_"+user_name)
+    log_util.print_log_segments(log_list_compact,"Segmented_"+user_name)
