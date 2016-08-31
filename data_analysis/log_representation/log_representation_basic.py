@@ -6,8 +6,20 @@ import re
 
 class LogRepresentationBasic(LogRepresentationBase):
 
+
     @classmethod
     def represent_log_entry(cls,log_entry):
+
+        log_entry_represented=cls.represent_log_entry_2(log_entry)
+
+        if(log_entry_represented==None):
+            return None
+        log_entry_represented=(log_entry_represented,log_entry['timeStamp'])
+
+        return log_entry_represented
+
+    @classmethod
+    def represent_log_entry_2(cls,log_entry):
         log_type = log_entry['logType']
 
         if log_type == "CompilationStatus":

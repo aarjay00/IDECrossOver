@@ -44,13 +44,12 @@ ActionType.load_files()
 
 # users=parse_all_logs('Logs')
 
-# for user_name,user_logs in users.iteritems():
-#     parsed_user_logs=parse_logs(user_logs)
-#     log_analysis(parsed_user_logs,user_name)
-
 
 log_collection = LogCollection(LogParserIntellij,LogRepresentationBasic)
 
 log_collection.load_log_collection('Logs')
 
-log_collection.load_log_collection_representation()
+log_collection.convert_log_collection_representation(log_collection_name='log_collection_default',log_collection_represented_name='log_repr')
+
+for user_name,user_logs in log_collection.log_repr.iteritems():
+     log_analysis(user_logs,user_name)
