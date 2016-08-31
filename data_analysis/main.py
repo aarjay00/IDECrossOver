@@ -30,6 +30,7 @@ from log_parser.log_parser_intellij import LogParserIntellij
 from log_representation.log_representation_basic import LogRepresentationBasic
 
 
+
 ActionType.load_files()
 
 # s3_client.downloadLogs()

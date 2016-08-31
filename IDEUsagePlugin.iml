@@ -9,7 +9,7 @@
     </content>
     <orderEntry type="jdk" jdkName="IntelliJ IDEA Community Edition IC-139.1803.20" jdkType="IDEA JDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="com.amazonaws:aws-java-sdk:1.8.2" level="project" />
     <orderEntry type="library" name="net.java.dev.jna:jna-platform:4.1.0" level="project" />
+    <orderEntry type="library" name="com.amazonaws:aws-java-sdk:1.8.2" level="project" />
   </component>
 </module>
