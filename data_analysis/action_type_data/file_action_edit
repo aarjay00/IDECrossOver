@@ -35,3 +35,9 @@ Indent Selection
 Paste from History...
 insertNewLineOrStopEditing1
 Rearrange Code
+Inline...
+insertTabOrStopEditing
+Insert/Overwrite
+Override Methods...
+Move Statement Down
+Auto-Indent Lines

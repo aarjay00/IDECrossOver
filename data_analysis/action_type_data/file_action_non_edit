@@ -24,3 +24,6 @@ Move Line Up
 Move Cell Up
 Move Caret to Text Start
 Quick Documentation
+Move Caret to Text End
+Run to Cursor
+Move Caret to Page Top

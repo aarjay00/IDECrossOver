@@ -84,14 +84,14 @@ def get_active_window_times(log_segment_list):
                 continue
 
             if active_window == '':
-                active_window=log_entry[1]
+                active_window=log_entry[1].split("--")[0].strip().lower()
 
             if(active_window not in window_times):
                 window_times[active_window]=0
 
             window_times[active_window] += log_entry_timestamp - start_time
             start_time = log_entry_timestamp
-            active_window = log_entry[1]
+            active_window = log_entry[1].split('--')[0].strip().lower()
 
         if (active_window not in window_times):
             window_times[active_window] = 0
