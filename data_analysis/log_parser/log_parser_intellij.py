@@ -7,7 +7,7 @@ class LogParserIntellij(LogParserBase):
 
     @classmethod
     def parse_log_file(cls,file_name):
-        print "parsing - ", file
+        print "parsing - ", file_name
         file_data_lines=[]
         with open(file_name, 'r') as fileFD:
             file_data = util.decode_data(fileFD.read())
@@ -27,9 +27,9 @@ class LogParserIntellij(LogParserBase):
 
     @classmethod
     def parse_log_dir(cls,log_dir):
-        return super(LogParserIntellij, cls).parse_log_dir(cls, log_dir)
+        return super(LogParserIntellij, cls).parse_log_dir(log_dir)
 
 
     @classmethod
     def parse_log_collection(cls, log_collection_dir):
-        return super(LogParserIntellij, cls).parse_log_collection(cls, log_collection_dir)
+        return super(LogParserIntellij, cls).parse_log_collection(log_collection_dir)

@@ -4,7 +4,7 @@ import abc
 class LogRepresentationBase():
     __metaclass__ = abc.ABCMeta
 
-    @abc.abstractmethod
     @classmethod
+    @abc.abstractmethod
     def represent_log_entry(cls):
         raise NotImplementedError

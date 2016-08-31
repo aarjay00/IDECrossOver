@@ -22,7 +22,7 @@ class LogParserBase():
             logs_collection[log_dir] = cls.parse_log_dir(log_dir)
         return logs_collection
 
-    @abc.abstractmethod
     @classmethod
+    @abc.abstractmethod
     def parse_log_file(cls):
         raise NotImplementedError

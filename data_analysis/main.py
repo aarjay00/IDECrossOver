@@ -23,9 +23,16 @@ from log_analysis import *
 from log_parser.parse_logs_util import *
 from log_representation.parse_log_entry import *
 
+from log_collection.log_collection import LogCollection
+
+from log_parser.log_parser_intellij import LogParserIntellij
+
+from log_representation.log_representation_basic import LogRepresentationBasic
+
+
 ActionType.load_files()
 
-s3_client.downloadLogs()
+# s3_client.downloadLogs()
 
 # old_log=parse_old_intelliJ_log('log')
 
@@ -35,8 +42,15 @@ s3_client.downloadLogs()
 
 # print len(old_log),len(parsed_old_log)
 
-users=parse_all_logs('Logs')
+# users=parse_all_logs('Logs')
 
-for user_name,user_logs in users.iteritems():
-    parsed_user_logs=parse_logs(user_logs)
-    log_analysis(parsed_user_logs,user_name)
+# for user_name,user_logs in users.iteritems():
+#     parsed_user_logs=parse_logs(user_logs)
+#     log_analysis(parsed_user_logs,user_name)
+
+
+log_collection = LogCollection(LogParserIntellij,LogRepresentationBasic)
+
+log_collection.load_log_collection('Logs')
+
+log_collection.load_log_collection_representation()
