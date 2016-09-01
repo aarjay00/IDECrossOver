@@ -25,7 +25,7 @@ def basic_scatter_plot_offline(xy,graph_name):
     plotly.offline.iplot([trace],filename=graph_name)
 
     
-dev_1 = ['U','U','E','D','D','D','U']
+dev_1 = ['U','U','E','D','D','D','U','X']
 dev_2 = ['U','U','U','D','D','U']
 activity_color_map={'U':'blue','E':'green','D':'red'}
 
@@ -34,11 +34,12 @@ def create_trace_from_dev_activity(dev_activity,dev_name):
         trace_x_understand = [idx for idx,activity in enumerate(dev_activity) if activity=='U']
         trace_x_edit = [idx for idx,activity in enumerate(dev_activity) if activity=='E']
         trace_x_debug= [idx for idx,activity in enumerate(dev_activity) if activity=='D']
+        trace_x_none  = [idx for idx,activity in enumerate(dev_activity) if activity=='X']
     
-        marker_understand = marker=dict(color='blue',size='15',symbol='square-dot')
-        marker_edit = marker=dict(color='green',size='15',symbol='square-dot')
-        marker_debug = marker=dict(color='red',size='15',symbol='square-dot')
-
+        marker_understand =dict(color='blue',size='15',symbol='square-dot')
+        marker_edit =dict(color='green',size='15',symbol='square-dot')
+        marker_debug =dict(color='red',size='15',symbol='square-dot')
+        marker_none = dict(color='black',size='15',symbol='square-dot')
     
         trace_understand = Scatter(x=trace_x_understand,y=[dev_name]*len(trace_x_understand)
                                    ,marker=marker_understand
@@ -61,15 +62,24 @@ def create_trace_from_dev_activity(dev_activity,dev_name):
                               mode='markers'
                               ,showlegend=False
                              ,name='debug_actions')
-        
-        return [trace_understand,trave_edit,trace_debug]
+
+        trace_none = Scatter(x=trace_x_none,y=[dev_name]*len(trace_x_none)
+                              ,marker=marker_none,
+                              hoverinfo='none',
+                              mode='markers'
+                              ,showlegend=False
+                             ,name='none_actions')
+
+        return [trace_understand,trave_edit,trace_debug,trace_none]
     
 def create_dev_activity_graph(dev_activity,dev_name):
-    
+#     plotly.offline.init_notebook_mode()
+    set_credentials()
     trace_collection=[]    
-    trace_collection.extend(create_trace_from_dev_activity(dev_1,'dev_1'))
-    plotly.plotly.image.save_as(trace_collection,dev_name+'.png')
-    plotly.offline.iplot(trace_collection)
+    trace_collection.extend(create_trace_from_dev_activity(dev_activity,dev_name))
+#     plotly.plotly.image.save_as(trace_collection,dev_name+'.png')
+    plotly.plotly.plot(trace_collection,dev_name.split('/')[-1])
+#     plotly.offline.iplot(trace_collection)
 # trace_collection.extend(create_trace_from_dev_activity(dev_2,'dev_2'))
 
         

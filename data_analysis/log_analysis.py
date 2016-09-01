@@ -244,6 +244,6 @@ def log_analysis(log_list,user_name):
     log_list_compact=[normalize_project_name(log_segment,accessed_project_list) for log_segment in log_list_compact]
 
 
-    segment_classification.classify_log_segment_list(log_list_compact)
+    segment_classification.classify_log_segment_list(log_list_compact,user_name)
 
     log_util.print_log_segments(log_list_compact,"Segmented_"+user_name)
