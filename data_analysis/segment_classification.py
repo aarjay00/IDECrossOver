@@ -106,7 +106,6 @@ def segment_classify_basic(log_segment):
     pass
 
 
-
 def classify_log_segment_list(log_segment_list):
 
     log_segment_window_times=get_active_window_times(log_segment_list)

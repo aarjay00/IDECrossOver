@@ -4,7 +4,6 @@ import com.intellij.notification.Notification;
 import com.intellij.notification.Notifications;
 import com.intellij.notification.NotificationsAdapter;
 import com.intellij.openapi.actionSystem.ActionManager;
-import com.intellij.openapi.application.Application;
 import com.intellij.openapi.application.ApplicationManager;
 import com.intellij.openapi.compiler.CompilerManager;
 import com.intellij.openapi.components.ProjectComponent;
@@ -14,7 +13,6 @@ import com.intellij.openapi.project.Project;
 import com.intellij.openapi.project.ProjectManager;
 import com.intellij.openapi.wm.*;
 import com.intellij.openapi.wm.ex.ToolWindowManagerEx;
-import com.intellij.openapi.wm.impl.FocusManagerImpl;
 import com.intellij.openapi.wm.impl.ToolWindowManagerImpl;
 import com.intellij.psi.PsiManager;
 import com.intellij.ui.content.MessageView;
@@ -24,7 +22,6 @@ import log.IDELogger;
 import org.jetbrains.annotations.NotNull;
 
 import javax.swing.*;
-import java.awt.*;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
@@ -32,7 +29,6 @@ import java.util.*;
 import com.sun.jna.Native;
 import com.sun.jna.platform.win32.User32;
 import com.sun.jna.platform.win32.WinDef.HWND;
-import com.sun.jna.platform.win32.WinDef.RECT;
 
 
 /**
@@ -142,16 +138,17 @@ public class PluginStartUp implements ProjectComponent {
 
                 String osName= System.getProperty("os.name").toLowerCase();
                 if(osName.contains("mac"))
-                    runLinux();
+                    runMac();
                 else if(osName.contains("windows"))
                     runWindows();
+                else
+                    runLinux();
 
             }
-            private void runLinux(){
+            private void runMac(){
                 while(true) {
-                    String command= "lsappinfo";
                     String commands_1[] ={"osascript","-e","tell application \"System Events\"","-e","set frontApp to name of first application process whose frontmost is true","-e","end tell"};
-                    String applicationName=runCommand(commands_1);
+                    String applicationName=runCommand(commands_1,false);
 
                     String commands_2[] ={"osascript",
                             "-e","tell application \""+applicationName+"\"",
@@ -162,7 +159,7 @@ public class PluginStartUp implements ProjectComponent {
                         String applicationDetails="";
 //                        if(!applicationName.equals("idea"))
                         if(appNameList.contains(applicationName))
-                            applicationDetails=runCommand(commands_2);
+                            applicationDetails=runCommand(commands_2,false);
                         ActionLogger.getInstance().logActiveApplication(applicationName+"--"+applicationDetails);
                     try {
                         Thread.sleep(15000);
@@ -171,21 +168,36 @@ public class PluginStartUp implements ProjectComponent {
                     }
                 }
             }
-            private void runWindows(){
-                while(true){
+            private void runWindows() {
+                while (true) {
                     char[] buffer = new char[1024 * 2];
                     HWND hwnd = User32.INSTANCE.GetForegroundWindow();
-                    User32.INSTANCE.GetWindowText(hwnd, buffer, 1024   );
+                    User32.INSTANCE.GetWindowText(hwnd, buffer, 1024);
                     ActionLogger.getInstance().logActiveApplication(Native.toString(buffer));
 //                    System.out.println("Active window title: " + Native.toString(buffer));
-                    try{
+                    try {
                         Thread.sleep(15000);
-                    }catch (InterruptedException e){
+                    } catch (InterruptedException e) {
 //                        e.printStackTrace();
                     }
                 }
             }
-            private String runCommand(String[] commands){
+
+            private void runLinux(){
+
+                String[] command= {"xdotools","getwindowfocus","getwindowname"};
+
+                ActionLogger.getInstance().logActiveApplication(runCommand(command,true));
+                while(true){
+                    try{
+                        Thread.sleep(15000);
+                    }
+                    catch (InterruptedException e) {
+//                        e.printStackTrace();
+                    }
+                }
+            }
+            private String runCommand(String[] commands,Boolean linux){
                 StringBuffer output = new StringBuffer();
                 Process p;
                 try {
@@ -195,8 +207,9 @@ public class PluginStartUp implements ProjectComponent {
                             new BufferedReader(new InputStreamReader(p.getInputStream()));
                     String line = "";
                     while ((line = reader.readLine()) != null) {
-//                            if(line.contains("in front"))
-                        output.append(line);
+                            if(!linux || (linux && line.contains("in front")) ) {
+                                output.append(line);
+                            }
                     }
                 }catch (Exception e) {
                         e.printStackTrace();
