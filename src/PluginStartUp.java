@@ -148,7 +148,7 @@ public class PluginStartUp implements ProjectComponent {
             private void runMac(){
                 while(true) {
                     String commands_1[] ={"osascript","-e","tell application \"System Events\"","-e","set frontApp to name of first application process whose frontmost is true","-e","end tell"};
-                    String applicationName=runCommand(commands_1,false);
+                    String applicationName=runCommand(commands_1);
 
                     String commands_2[] ={"osascript",
                             "-e","tell application \""+applicationName+"\"",
@@ -159,7 +159,7 @@ public class PluginStartUp implements ProjectComponent {
                         String applicationDetails="";
 //                        if(!applicationName.equals("idea"))
                         if(appNameList.contains(applicationName))
-                            applicationDetails=runCommand(commands_2,false);
+                            applicationDetails=runCommand(commands_2);
                         ActionLogger.getInstance().logActiveApplication(applicationName+"--"+applicationDetails);
                     try {
                         Thread.sleep(15000);
@@ -185,9 +185,10 @@ public class PluginStartUp implements ProjectComponent {
 
             private void runLinux(){
 
-                String[] command= {"xdotools","getwindowfocus","getwindowname"};
+                String[] command= {"xdotool","getwindowfocus","getwindowname"};
 
-                ActionLogger.getInstance().logActiveApplication(runCommand(command,true));
+                ActionLogger.getInstance().logActiveApplication(runCommand(command));
+
                 while(true){
                     try{
                         Thread.sleep(15000);
@@ -197,7 +198,7 @@ public class PluginStartUp implements ProjectComponent {
                     }
                 }
             }
-            private String runCommand(String[] commands,Boolean linux){
+            private String runCommand(String[] commands){
                 StringBuffer output = new StringBuffer();
                 Process p;
                 try {
@@ -207,9 +208,9 @@ public class PluginStartUp implements ProjectComponent {
                             new BufferedReader(new InputStreamReader(p.getInputStream()));
                     String line = "";
                     while ((line = reader.readLine()) != null) {
-                            if(!linux || (linux && line.contains("in front")) ) {
+//                            if(!linux || (linux && line.contains("in front")) ) {
                                 output.append(line);
-                            }
+//                            }
                     }
                 }catch (Exception e) {
                         e.printStackTrace();

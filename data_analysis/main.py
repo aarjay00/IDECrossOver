@@ -29,11 +29,11 @@ from log_parser.log_parser_intellij import LogParserIntellij
 
 from log_representation.log_representation_basic import LogRepresentationBasic
 
-
+import graph
 
 ActionType.load_files()
 
-# s3_client.downloadLogs()
+s3_client.downloadLogs()
 
 # old_log=parse_old_intelliJ_log('log')
 
@@ -52,5 +52,16 @@ log_collection.load_log_collection('Logs')
 
 log_collection.convert_log_collection_representation(log_collection_name='log_collection_default',log_collection_represented_name='log_repr')
 
+
+dev_activity_dict={}
+
 for user_name,user_logs in log_collection.log_repr.iteritems():
-     log_analysis(user_logs,user_name)
+
+     user_activity=log_analysis(user_logs,user_name)
+
+     user_name=user_name.split('/')[-1].strip()
+
+     dev_activity_dict[user_name] = user_activity
+
+
+graph.create_all_dev_activity_graph(dev_activity_dict)

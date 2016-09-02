@@ -2,10 +2,16 @@ import plotly.plotly as py
 from plotly.graph_objs import Scatter
 import plotly
 
+import datetime
+
 def set_credentials():
     
 #   Set credentials for online plotting  
-    plotly.tools.set_credentials_file(username='aarjay00', api_key='89q89hwig4')
+#     plotly.tools.set_credentials_file(username='aarjay00', api_key='89q89hwig4')
+
+
+    plotly.tools.set_credentials_file(username='aarjay80', api_key='7dzds0fegi')
+
 
 def basic_scatter_plot_online(xy,graph_name):
     set_credentials()
@@ -20,7 +26,7 @@ def basic_scatter_plot_offline(xy,graph_name):
     x=[i[0] for i in xy ]
     y=[i[1] for i in xy]
     
-    marker=dict(color='red',size='50',symbol='square-dot')
+    marker=dict(color='red',size='5',symbol='square-dot')
     trace=Scatter(x=x,y=y,mode='markers',name='col_name',marker=marker,connectgaps=True)
     plotly.offline.iplot([trace],filename=graph_name)
 
@@ -31,11 +37,17 @@ activity_color_map={'U':'blue','E':'green','D':'red'}
 
 def create_trace_from_dev_activity(dev_activity,dev_name):
         
-        trace_x_understand = [idx for idx,activity in enumerate(dev_activity) if activity=='U']
-        trace_x_edit = [idx for idx,activity in enumerate(dev_activity) if activity=='E']
-        trace_x_debug= [idx for idx,activity in enumerate(dev_activity) if activity=='D']
-        trace_x_none  = [idx for idx,activity in enumerate(dev_activity) if activity=='X']
-    
+        # trace_x_understand = [idx for idx,activity in enumerate(dev_activity) if activity=='U']
+        # trace_x_edit = [idx for idx,activity in enumerate(dev_activity) if activity=='E']
+        # trace_x_debug= [idx for idx,activity in enumerate(dev_activity) if activity=='D']
+        # trace_x_none  = [idx for idx,activity in enumerate(dev_activity) if activity=='X']
+
+        trace_x_understand = [datetime.datetime.fromtimestamp(int(activity[1])) for activity in dev_activity if activity[0] == 'U']
+        trace_x_edit = [datetime.datetime.fromtimestamp(int(activity[1])) for activity in dev_activity if activity[0] == 'E']
+        trace_x_debug   = [datetime.datetime.fromtimestamp(int(activity[1])) for activity in dev_activity if activity[0] == 'D']
+        trace_x_none = [datetime.datetime.fromtimestamp(int(activity[1])) for activity in dev_activity if activity[0] == 'X']
+
+
         marker_understand =dict(color='blue',size='15',symbol='square-dot')
         marker_edit =dict(color='green',size='15',symbol='square-dot')
         marker_debug =dict(color='red',size='15',symbol='square-dot')
@@ -73,14 +85,26 @@ def create_trace_from_dev_activity(dev_activity,dev_name):
         return [trace_understand,trave_edit,trace_debug,trace_none]
     
 def create_dev_activity_graph(dev_activity,dev_name):
-#     plotly.offline.init_notebook_mode()
+    # plotly.offline.init_notebook_mode()
+    dev_name=dev_name.split('/')[-1].strip()
     set_credentials()
     trace_collection=[]    
     trace_collection.extend(create_trace_from_dev_activity(dev_activity,dev_name))
 #     plotly.plotly.image.save_as(trace_collection,dev_name+'.png')
-    plotly.plotly.plot(trace_collection,dev_name.split('/')[-1])
-#     plotly.offline.iplot(trace_collection)
+    plotly.plotly.plot(trace_collection,filename=dev_name)
+    # plotly.offline.iplot(trace_collection)
 # trace_collection.extend(create_trace_from_dev_activity(dev_2,'dev_2'))
 
-        
+
+def create_all_dev_activity_graph(dev_activity_dict):
+
+    set_credentials()
+    trace_collection=[]
+
+    for user_name,user_activity in dev_activity_dict.iteritems():
+
+        trace_collection.extend(create_trace_from_dev_activity(user_activity,user_name))
+
+    plotly.plotly.plot(trace_collection,"All_Dev")
+
 # basic_scatter_plot_offline([[1,'b'],[2,'a']],'trial')

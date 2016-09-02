@@ -193,7 +193,9 @@ def classify_log_segment_list(log_segment_list,user_name):
         end_time  = int(log_segment[-1][1])
 
         activity=segment_classify_basic(log_segment)
-        user_activity.append(activity)
+        user_activity.append((activity,start_time))
+
+    return user_activity
 
     graph.create_dev_activity_graph(user_activity,user_name)
 
