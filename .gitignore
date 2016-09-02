@@ -11,3 +11,5 @@ log_analysis/Logs
 log_analysis/Segmented_Logs
 managepy
 *ipynb*
+migrations
+*.sqlite3
