@@ -3,7 +3,15 @@ from django.conf.urls import include,url
 
 from . import views
 
-urlpatterns =[
+from rest_framework import routers
+from views import *
 
-    url(r'^$',views.index,name='index')
+router = routers.DefaultRouter()
+
+router.register(r'activity',views.ActivityViewSet)
+
+urlpatterns =[
+    url('^',include(router.urls)),
+    url(r'docs/',include('rest_framework_swagger.urls')),
+    # url(r'^$', views.index, name='index'),
 ]

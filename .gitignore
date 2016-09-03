@@ -8,8 +8,10 @@ log
 log_analysis/eclipse
 log_analysis/intellij
 log_analysis/Logs
-log_analysis/Segmented_Logs
+*Segmented_Logs*
+*Segmented_log_analysis*
 managepy
 *ipynb*
 migrations
 *.sqlite3
+*.log
