@@ -1,0 +1,20 @@
+<div ng-controller="ActivityController as AC">
+    <div class="row ng-scope">
+        <div class="container-fluid ng-scope">
+            <div class="activity top35 dashboard-header ng-scope">
+        <h3 class="dashboard-title col-sm-5 vcenter ng-binding">My Daily WorkPattern</h3>
+        <span class="actMetric col-sm-2 pull-right vcenter"> <span class="mute" uib-tooltip="This score measures how aligned the individual is to the manager’s plan by comparing the minutes spent on each activity with the the target schedule laid out by the manager.">Alignment Score: </span>
+        <span class="numberCircle ng-binding ng-scope less30" uib-tooltip="Resemblance to the plan"> 17%</span>
+
+        </span> <span class="actMetric col-sm-2 pull-right vcenter">
+            <span class="mute" uib-tooltip="This score represents the individual’s ability to focus on one activity at a time rather than frequently switching from one activity to another.">Focus Score: </span>
+            <span class="numberCircle ng-binding ng-scope more30" uib-tooltip="Focus Score">40%</span>
+        </span>
+        <span class="actMetric col-sm-2 pull-right vcenter"> <span class="mute" uib-tooltip="This score uses keyboard strokes and mouse clicks to represents the intensity of the work the individual is performing on his or her computer.">Intensity Score: </span>
+            <span class="numberCircle ng-binding ng-scope more70" uib-tooltip="Intensity Score"> 79%</span>
+        </span>
+    </div>
+            <div id="day_graph"></div>
+        </div>
+    </div>
+</div>

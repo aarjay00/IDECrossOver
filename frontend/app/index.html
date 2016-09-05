@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="workpatternApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="workpatternApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="workpatternApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="workpatternApp" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>My AngularJS App</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/normalize.css">
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/main.css">
+  <link rel="stylesheet" href="app.css">
+  <link rel = "stylesheet" href="crossover.css">
+  <script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+<body>
+  <!--<ul class="menu">-->
+    <!--<li><a href="#view1">view1</a></li>-->
+    <!--<li><a href="#view2">view2</a></li>-->
+  <!--</ul>-->
+
+  <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+  <![endif]-->
+
+  <!-- In production use:
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
+  -->
+  <script src="bower_components/angular/angular.js"></script>
+  <script src="bower_components/angular-route/angular-route.js"></script>
+  <script src="bower_components/angular-cookies/angular-cookies.js"></script>
+
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="app.js"></script>
+  <script src="view1/view1.js"></script>
+  <script src="view2/view2.js"></script>
+  <script src="views/index/index.js"></script>
+  <script src="views/user_detail/user_detail.js"></script>
+  <script src="views/summary/summary.js"></script>
+  <script src="views/activity/activity.js"></script>
+  <script src="views/overview/overview.js"></script>
+  <script src="services/service.js"></script>
+  <script src="components/version/version.js"></script>
+  <script src="components/version/version-directive.js"></script>
+  <script src="components/version/interpolate-filter.js"></script>
+
+
+  <div class="team-member contractor ng-scope">
+    <div class="container-fluid ng-scope">
+
+      <div class="row summary">
+        <div class="col-md-6 contractor-info ng-scope" ng-controller="UserController as UC">
+          <div class="row ng-scope">
+            <div class="col-xs-4 col-sm-3 col-md-5 avatar"><img class="img-responsive" width="280" src="/images/user.png"></div>
+            <div class="col-xs-8 col-sm-9 col-md-7">
+              <select ng-model="user" ng-options="user.user_name for user in UC.user_list"
+                      ng-change="UC.change_user(user)" style="margin: 20px 20px 20px 10px;"></select>
+              <h4 class="name ng-binding"> {{user.user_name}} </h4>
+
+              <div class="font15 regular text-ellipsis top10 grey ng-binding"> Engineer</div>
+              <div class="top10 ng-binding"><span class="grey">Start date:</span> Jul 04, 2016</div>
+              <div class="team ng-binding ng-scope">
+                <span class="mute">Team: </span>CNU 2016
+              </div>
+              <div class="manager ng-binding ng-scope">
+                <span class="mute">Manager:</span> Rahul Subramaniam
+              </div>
+              <div class="location ng-binding">
+                <span class="mute">Location: </span> United Arab Emirates, (UTC+04:00)
+              </div>
+              <div class="current-time ng-binding">
+                <span class="mute">Current date/time: </span>Sep 03, 12:03 PM
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6" ng-include="'views/overview/overview.html'">
+        </div>
+
+      </div>
+
+      <div class="row ng-scope">
+        <div class="title top50 navigation ng-scope">
+          <div class="container-fluid">
+            <div class="btn-group pull-left select-view">
+              <a href="#summary">
+                <span class="btn btn-default loaded ng-pristine ng-untouched ng-valid active ng-not-empty" uib-btn-radio="'weeklyDashboard'">
+                  Summary
+                </span>
+              </a>
+
+              <a href="#activity">
+                <span class="btn btn-default loaded ng-pristine ng-untouched ng-valid ng-scope ng-not-empty" uib-btn-radio="'productivity'">
+                  Activity
+                </span>
+              </a>
+            </div>
+            <div class="pull-right datepicker-container calendar-blue" ng-controller="CalendarPickController as CPC"><span
+                    class="right15 font14 pointer today  is-today hide">Today</span>
+              <img src="images/arrow-left.png" class="arrow" ng-click = "CPC.prevCalendar()">
+              <button class="datepicker-trigger">
+                <span> {{CPC.display_picker()}} </span>
+              </button>
+              <img src="images/arrow-right.png" class="arrow" ng-click="CPC.nextCalendar()"></div>
+
+                <!-- ngIf: isOpen --> </div>
+          </div>
+        </div>
+      </div>
+
+      <div ng-view></div>
+
+
+
+    </div>
+
+  </div>
+
+
+
+
+</body>
+</html>
