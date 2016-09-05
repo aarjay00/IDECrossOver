@@ -124,14 +124,13 @@ for user_name,user_logs in log_collection.log_repr.iteritems():
 
      dev_activity_dict[user_name] = user_activity
 
-# exit()
 
-#user_logs = log_collection.log_collection_default
+user_logs = log_collection.log_collection_default
 
-# user_list = user_logs.keys()
-#
-# populate_users(user_list)
-#
-# populate_logs(user_logs)
-#
-# populate_activity(dev_activity_dict)
+user_list = user_logs.keys()
+
+populate_users(user_list)
+
+populate_logs(user_logs)
+
+populate_activity(dev_activity_dict)
