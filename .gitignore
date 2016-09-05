@@ -4,6 +4,7 @@ out/
 *.pyc
 *.swp
 *.zip
+*.sql
 log
 log_analysis/eclipse
 log_analysis/intellij
@@ -15,3 +16,4 @@ managepy
 migrations
 *.sqlite3
 *.log
+backend/workpattern/log_analysis/Logs/

@@ -23,3 +23,18 @@ def get_day_range(day_num):
 
 def today():
     return datetime.date.today()
+
+def get_date_object(date_string):
+
+    date_string = date_string.split('-')
+
+    date  = datetime.datetime(year=int(date_string[0]),month=int(date_string[1])+1,day=int(date_string[2]))
+
+    return date
+
+def get_day_range_2(day):
+
+    start  =  day
+    end = day + timedelta(days=1) - timedelta(seconds=1)
+
+    return start,end

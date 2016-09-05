@@ -9,6 +9,7 @@ from views import *
 router = routers.DefaultRouter()
 
 router.register(r'activity',views.ActivityViewSet)
+router.register(r'user',views.UserViewSet)
 
 urlpatterns =[
     url('^',include(router.urls)),

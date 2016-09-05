@@ -5,7 +5,7 @@ import json
 import cPickle as pickle
 
 
-sys.path.append('/Users/aarjay/cnu_project/backend')
+sys.path.append('/Users/aarjay/cnu_project_backend/backend')
 
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "backend.settings")
@@ -109,6 +109,7 @@ def populate_activity(dev_activity_dict):
 
 s3_client.downloadLogs('log_analysis/Logs/')
 
+
 log_collection = initialize_log_collection('log_analysis/Logs/',False)
 
 log_collection.convert_log_collection_representation(log_collection_name='log_collection_default',log_collection_represented_name='log_repr')
@@ -123,12 +124,14 @@ for user_name,user_logs in log_collection.log_repr.iteritems():
 
      dev_activity_dict[user_name] = user_activity
 
+# exit()
 
-
-# user_logs = log_collection.log_collection_default
+#user_logs = log_collection.log_collection_default
 
 # user_list = user_logs.keys()
-
+#
 # populate_users(user_list)
-
+#
 # populate_logs(user_logs)
+#
+# populate_activity(dev_activity_dict)
