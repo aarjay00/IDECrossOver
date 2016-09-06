@@ -9,7 +9,7 @@ class User(models.Model):
 
     user_id = models.AutoField(primary_key=True)
     user_name = models.CharField(max_length=255,unique=True)
-    user_name_display = models.CharField(max_length=255,unique=False)
+    user_name_display = models.CharField(max_length=255,default="display_name",unique=False)
 
 
 class Log(models.Model):
