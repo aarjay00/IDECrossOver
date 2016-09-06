@@ -109,6 +109,7 @@ class ActivityViewSet(mixins.ListModelMixin,
 
             user = User.objects.get(user_id = user_id)
             start_date,end_date = time_util.get_week_range(week_num)
+            print start_date,end_date
 
             activity_list = Activity.objects.filter(user_id_id = user, time_begin__gte=start_date, time_end__lte=end_date)
 

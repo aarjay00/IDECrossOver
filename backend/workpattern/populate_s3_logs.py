@@ -107,7 +107,7 @@ def populate_activity(dev_activity_dict):
 
 
 
-s3_client.downloadLogs('log_analysis/Logs/')
+# s3_client.downloadLogs('log_analysis/Logs/')
 
 
 log_collection = initialize_log_collection('log_analysis/Logs/',False)
