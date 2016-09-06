@@ -3,7 +3,7 @@
 import datetime
 from datetime import  timedelta
 
-def get_week_range(week_num):
+def get_week_range_old(week_num):
     end = datetime.date.today()
     start =  end - timedelta(days = end.isocalendar()[2]-1)
     for i in range(week_num):
@@ -11,6 +11,22 @@ def get_week_range(week_num):
         start = end - timedelta(days = end.isocalendar()[2]-1)
     end += timedelta(days=1)
     return datetime.datetime.combine(start,datetime.datetime.min.time()),datetime.datetime.combine(end,datetime.datetime.min.time())
+
+
+def get_week_range(week_num):
+
+    d = datetime.datetime.today()
+
+    start_week = d - timedelta(days=d.weekday())
+    start_week = start_week - timedelta(hours = start_week.hour , minutes = start_week.minute , seconds = start_week.second , microseconds = start_week.microsecond)
+
+    end_week = start_week + timedelta(days=7) - timedelta(seconds=1)
+
+    start_week = start_week - timedelta(days = 7*week_num)
+
+    end_week = end_week - timedelta(days=7 * week_num)
+
+    return start_week,end_week
 
 def get_day_range(day_num):
     end  = datetime.date.today()+timedelta(days=1)

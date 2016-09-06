@@ -89,9 +89,10 @@ class ActivityViewSet(mixins.ListModelMixin,
         for day_num in range(7):
             day= date + timedelta(days=day_num - date.weekday())
             start_date, end_date = time_util.get_day_range_2(day)
-            print start_date, end_date
             activity_list = Activity.objects.filter(user_id_id=user, time_begin__gte=start_date, time_end__lte=end_date)
-            data['day' + str(day.weekday())] = util.get_percentage(activity_list)
+            print start_date, end_date,len(activity_list),day.weekday()
+
+            data['day' + str(day.weekday()+1)] = util.get_percentage(activity_list)
 
 
         return JsonResponse(data, safe=False)
