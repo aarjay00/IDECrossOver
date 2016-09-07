@@ -60,6 +60,10 @@ app_module.service('DateService',function (CookieService) {
         return date_repr
     }
     this.getMonthSummaryRepresentation = function(start_day,start_month,end_day,end_month){
+        if(start_day<10)
+            start_day = '0'+start_day
+        if(end_day<10)
+            end_day = '0'+end_day
         var repr = month_list[start_month-1]+' '+start_day+'-'+month_list[end_month-1]+' '+end_day
 
         return repr
@@ -237,13 +241,13 @@ app_module.service('GraphService',function (CookieService,DateService) {
     this.WeekPlot = function (activity_summation_list) {
         var traces = []
 
-        var day_idx = ['day1','day1','day3','day4','day5','day6','day7']
+        var day_idx = ['day1','day2','day3','day4','day5','day6','day7']
 
         var day_name = ['Mon','Tue','Wed','Thur','Fri','Sat','Sun']
 
 
         for(idx in day_name){
-            data = this.getActivitySummationDayTrace(activity_summation_list[day_idx[idx]],day_name[idx])
+            var data = this.getActivitySummationDayTrace(activity_summation_list[day_idx[idx]],day_name[idx])
             traces = traces.concat(data)
         }
 
@@ -269,7 +273,7 @@ app_module.service('GraphService',function (CookieService,DateService) {
 
         var tickvals = []
         var ticktext =[]
-        for(idx =0;idx<24;idx+=1){
+        for(idx =0;idx<25;idx+=1){
             tickvals = tickvals.concat(idx)
             ticktext = ticktext.concat(idx+":00")
         }
@@ -325,7 +329,7 @@ app_module.service('GraphService',function (CookieService,DateService) {
         };
         traces = traces.concat(trace_empty)
         var layout = {
-            title: 'Timeline',
+            // title: 'Timeline',
             barmode: 'stack',
             xaxis:
             {
@@ -334,8 +338,12 @@ app_module.service('GraphService',function (CookieService,DateService) {
                 tickvals:tickvals,
                 ticktext: ticktext
             },
-            yaxis:{fixedrange: true},
-            width:1500,
+            yaxis:
+            {
+                fixedrange: true,
+                showticklabels:false
+            },
+            width:2000,
             height:300,
             hovermode:'none',
             showlegend: false

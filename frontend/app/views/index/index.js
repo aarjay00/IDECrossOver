@@ -105,3 +105,19 @@ app_module.controller('UserController',function ($rootScope,UserService,CookieSe
     }
     UC.getUserList()
 });
+
+app_module.controller('ViewSelectController',function () {
+    var VSC = this
+    VSC.summary_class = 'active'
+    VSC.activity_class = ''
+
+    VSC.summary_select = function () {
+        VSC.summary_class='active'
+        VSC.activity_class=''
+    }
+
+    VSC.activity_select = function () {
+        VSC.activity_class='active'
+        VSC.summary_class=''
+    }
+})

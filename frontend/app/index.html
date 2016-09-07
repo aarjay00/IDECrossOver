@@ -34,8 +34,6 @@
 
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="app.js"></script>
-  <script src="view1/view1.js"></script>
-  <script src="view2/view2.js"></script>
   <script src="views/index/index.js"></script>
   <script src="views/user_detail/user_detail.js"></script>
   <script src="views/summary/summary.js"></script>
@@ -53,10 +51,10 @@
       <div class="row summary">
         <div class="col-md-6 contractor-info ng-scope" ng-controller="UserController as UC">
           <div class="row ng-scope">
-            <div class="col-xs-4 col-sm-3 col-md-5 avatar"><img class="img-responsive" width="280" src="/images/user.png"></div>
-            <div class="col-xs-8 col-sm-9 col-md-7">
+            <div class="col-xs-4 col-sm-3 col-md-6 avatar"><img class="img-responsive" width="280" src="/images/user.png"></div>
+            <div class="col-xs-8 col-sm-9 col-md-5" style="margin-left: 40px">
               <select ng-model="user" ng-options="user.user_name_display for user in UC.user_list"
-                      ng-change="UC.change_user(user)" style="margin: 20px 20px 20px 10px;"></select>
+                      ng-change="UC.change_user(user)" style="margin: 10px 10px 10px 0px;"></select>
               <h4 class="name ng-binding"> {{user.user_name_display}} </h4>
 
               <div class="font15 regular text-ellipsis top10 grey ng-binding"> Engineer</div>
@@ -85,21 +83,24 @@
       <div class="row ng-scope">
         <div class="title top50 navigation ng-scope">
           <div class="container-fluid">
-            <div class="btn-group pull-left select-view">
-              <a href="#summary">
-                <span class="btn btn-default loaded ng-pristine ng-untouched ng-valid active ng-not-empty" id="summary_button" uib-btn-radio="'weeklyDashboard'">
+            <div class="btn-group pull-left select-view" ng-controller="ViewSelectController as VSC">
+              <a href="#summary" ng-click="VSC.summary_select()">
+                <span class="btn btn-default loaded "  uib-btn-radio="'weeklyDashboard'" ng-click="VSC.summary_select()" ng_class="VSC.summary_class">
                   Summary
                 </span>
               </a>
-
-              <a href="#activity">
-                <span class="btn btn-default loaded ng-pristine ng-untouched ng-valid ng-scope ng-not-empty" id="activity_button" uib-btn-radio="'productivity'">
+              <a href="#activity"  ng-click="VSC.activity_select()" ng_class="VSC.activity_class">
+                <span class="btn btn-default"  uib-btn-radio="'productivity'" ng-click="VSC.activity_select()" ng_class="VSC.activity_class">
                   Activity
                 </span>
               </a>
             </div>
+
+
             <div class="pull-right datepicker-container calendar-blue"  ng-controller="CalendarPickController as CPC"><span
                     class="right15 font14 pointer today  is-today hide">Today</span>
+
+
               <img src="images/arrow-left.png" class="arrow" ng-click = "CPC.prevCalendar()">
               <button class="datepicker-trigger">
                 <span> {{CPC.display_picker()}} </span>
