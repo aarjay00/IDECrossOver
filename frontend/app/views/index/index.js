@@ -100,6 +100,7 @@ app_module.controller('UserController',function ($rootScope,UserService,CookieSe
     UC.getUserList = function () {
         UserService.getUserList().then(function (user_list) {
             UC.user_list = user_list
+            UC.change_user()
         })
     }
     UC.getUserList()

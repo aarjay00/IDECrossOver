@@ -55,9 +55,9 @@
           <div class="row ng-scope">
             <div class="col-xs-4 col-sm-3 col-md-5 avatar"><img class="img-responsive" width="280" src="/images/user.png"></div>
             <div class="col-xs-8 col-sm-9 col-md-7">
-              <select ng-model="user" ng-options="user.user_name for user in UC.user_list"
+              <select ng-model="user" ng-options="user.user_name_display for user in UC.user_list"
                       ng-change="UC.change_user(user)" style="margin: 20px 20px 20px 10px;"></select>
-              <h4 class="name ng-binding"> {{user.user_name}} </h4>
+              <h4 class="name ng-binding"> {{user.user_name_display}} </h4>
 
               <div class="font15 regular text-ellipsis top10 grey ng-binding"> Engineer</div>
               <div class="top10 ng-binding"><span class="grey">Start date:</span> Jul 04, 2016</div>
@@ -87,18 +87,18 @@
           <div class="container-fluid">
             <div class="btn-group pull-left select-view">
               <a href="#summary">
-                <span class="btn btn-default loaded ng-pristine ng-untouched ng-valid active ng-not-empty" uib-btn-radio="'weeklyDashboard'">
+                <span class="btn btn-default loaded ng-pristine ng-untouched ng-valid active ng-not-empty" id="summary_button" uib-btn-radio="'weeklyDashboard'">
                   Summary
                 </span>
               </a>
 
               <a href="#activity">
-                <span class="btn btn-default loaded ng-pristine ng-untouched ng-valid ng-scope ng-not-empty" uib-btn-radio="'productivity'">
+                <span class="btn btn-default loaded ng-pristine ng-untouched ng-valid ng-scope ng-not-empty" id="activity_button" uib-btn-radio="'productivity'">
                   Activity
                 </span>
               </a>
             </div>
-            <div class="pull-right datepicker-container calendar-blue" ng-controller="CalendarPickController as CPC"><span
+            <div class="pull-right datepicker-container calendar-blue"  ng-controller="CalendarPickController as CPC"><span
                     class="right15 font14 pointer today  is-today hide">Today</span>
               <img src="images/arrow-left.png" class="arrow" ng-click = "CPC.prevCalendar()">
               <button class="datepicker-trigger">

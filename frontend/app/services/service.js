@@ -25,12 +25,57 @@ app_module.service('CookieService', function ($cookieStore,$cookies) {
 });
 
 
+app_module.service('DateService',function (CookieService) {
+
+    day_list=['Mon','Tue','Wed','Thur','Fri','Sat','Sun']
+
+    month_list= ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
+
+
+    this.getDate = function () {
+        return new Date()
+    }
+    this.subtractDayFromDate = function (day_num,date) {
+
+        date.setDay(date.getHours() - day_num*24)
+        return date
+    }
+    this.getWeekRange = function(date) {
+        var day = date.getDay()
+
+        var week_start = new Date(date.getTime()) ;
+        var week_end  = new Date(date.getTime());
+        week_start.setHours(week_start.getHours()-(day-1)*24)
+        week_end.setHours(week_end.getHours()+(7-day)*24)
+
+        var week_start_repr = this.getDateRepresentation(week_start)
+        var week_end_repr = this.getDateRepresentation(week_end)
+
+        return [week_start_repr,week_end_repr]
+
+    }
+    this.getDateRepresentation = function (date) {
+
+        var date_repr = month_list[date.getMonth()] +  " " + date.getDate() + ", " + date.getFullYear();
+        return date_repr
+    }
+    this.getMonthSummaryRepresentation = function(start_day,start_month,end_day,end_month){
+        var repr = month_list[start_month-1]+' '+start_day+'-'+month_list[end_month-1]+' '+end_day
+
+        return repr
+    }
+
+})
+
+
 app_module.service('UserService',function ($q,$http,CookieService) {
 
+    this.service_location = 'http://workpattern.backend.swarm.devfactory.com/'
 
+    // this.service_location = 'http://localhost:8000/'
 
     this.getUserList = function () {
-        var http_get_request = 'http://localhost:8000/workpattern/user'
+        var http_get_request = this.service_location+'workpattern/user'
         var defer = $q.defer();
         $http.get(http_get_request)
             .success(function (response) {
@@ -45,13 +90,17 @@ app_module.service('UserService',function ($q,$http,CookieService) {
 app_module.service('ActivityService',function ($q,$http,CookieService,DateService) {
 
 
-
-    var user_id = 35
+    var user_id = 9
     CookieService.setValue('user_id',user_id)
     var AS =  this
 
+    AS.service_location = 'http://workpattern.backend.swarm.devfactory.com/'
+    // AS.service_location = 'http://localhost:8000/'
+
+
+
     AS.getUserSummary = function () {
-        var http_get_request = 'http://localhost:8000/workpattern/activity/user_month_activity/?'
+        var http_get_request = AS.service_location+'workpattern/activity/user_month_activity/?'
         var user_id = CookieService.getValue('user_id')
         var defer = $q.defer();
         http_get_request = http_get_request + "user_id="+user_id
@@ -71,7 +120,7 @@ app_module.service('ActivityService',function ($q,$http,CookieService,DateServic
         var date_repr = date.getFullYear()+"-"+date.getMonth()+"-"+date.getDate()
 
         console.log("aaaa"+date_repr)
-        var http_get_request='http://localhost:8000/workpattern/activity/user_week_activity/?'
+        var http_get_request=AS.service_location+'workpattern/activity/user_week_activity/?'
         var user_id = CookieService.getValue('user_id')
         var defer = $q.defer();
 
@@ -83,7 +132,7 @@ app_module.service('ActivityService',function ($q,$http,CookieService,DateServic
         return defer.promise;
     }
     AS.getDaySummary = function (date) {
-        var http_get_request = 'http://localhost:8000/workpattern/activity/user_day_activity/?'
+        var http_get_request = AS.service_location+'workpattern/activity/user_day_activity/?'
         var user_id=CookieService.getValue('user_id')
         var date = CookieService.getObject('date_picker_date')
         var defer = $q.defer();
@@ -102,7 +151,7 @@ app_module.service('ActivityService',function ($q,$http,CookieService,DateServic
 })
 
 
-app_module.service('GraphService',function (CookieService) {
+app_module.service('GraphService',function (CookieService,DateService) {
 
 
     this.color_map = {'U':'rgb(34, 170, 228,.9)','E':'rgba(76,175,80,.9)','D':'rgba(237,80,83,.9)','X':'rgb(82,97,107,.9)'};
@@ -160,32 +209,35 @@ app_module.service('GraphService',function (CookieService) {
         week_name = ['week1','week2','week3','week4']
         for(idx in week_name) {
             console.log(week_name[idx])
-            data = this.getActivitySummationWeekTrace(activity_summation_list[week_name[idx]],week_name[idx])
+            var week = DateService.getMonthSummaryRepresentation(activity_summation_list[week_name[idx]][1],
+                activity_summation_list[week_name[idx]][2],
+                activity_summation_list[week_name[idx]][3],
+                activity_summation_list[week_name[idx]][4])
+            data = this.getActivitySummationWeekTrace(activity_summation_list[week_name[idx]][0],week)
             traces = traces.concat(data)
         }
 
         var layout = {
             title: 'User Work Pattern Summary',
             barmode: 'stack',
-            xaxis:
-            {
-                fixedrange: true
-            },
             yaxis:{fixedrange: true},
-            width:500,
+            width:600,
+            margin: {
+              l:135
+            },
+            pad:100,
             height:300,
             hovermode:'none',
             showlegend: false
 
         };
-
         Plotly.newPlot('month_graph', traces, layout, {staticPlot: true});
     }
 
     this.WeekPlot = function (activity_summation_list) {
         var traces = []
 
-        var day_idx = ['day1','day2','day3','day4','day5','day6','day7']
+        var day_idx = ['day1','day1','day3','day4','day5','day6','day7']
 
         var day_name = ['Mon','Tue','Wed','Thur','Fri','Sat','Sun']
 
@@ -213,6 +265,15 @@ app_module.service('GraphService',function (CookieService) {
     }
 
     this.DayPlot = function (activity_list) {
+
+
+        var tickvals = []
+        var ticktext =[]
+        for(idx =0;idx<24;idx+=1){
+            tickvals = tickvals.concat(idx)
+            ticktext = ticktext.concat(idx+":00")
+        }
+
         var traces=[]
         console.log(activity_list)
 
@@ -268,7 +329,10 @@ app_module.service('GraphService',function (CookieService) {
             barmode: 'stack',
             xaxis:
             {
-                fixedrange: true,range:[0.0,24.0]
+                fixedrange: true,
+                tickmode:'array',
+                tickvals:tickvals,
+                ticktext: ticktext
             },
             yaxis:{fixedrange: true},
             width:1500,
@@ -284,42 +348,6 @@ app_module.service('GraphService',function (CookieService) {
 
 
 
-app_module.service('DateService',function (CookieService) {
-
-    day_list=['Mon','Tue','Wed','Thur','Fri','Sat','Sun']
-
-    month_list= ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
-
-
-    this.getDate = function () {
-            return new Date()
-    }
-    this.subtractDayFromDate = function (day_num,date) {
-
-        date.setDay(date.getHours() - day_num*24)
-        return date
-    }
-    this.getWeekRange = function(date) {
-        var day = date.getDay()
-
-        var week_start = new Date(date.getTime()) ;
-        var week_end  = new Date(date.getTime());
-        week_start.setHours(week_start.getHours()-(day-1)*24)
-        week_end.setHours(week_end.getHours()+(7-day)*24)
-
-        var week_start_repr = this.getDateRepresentation(week_start)
-        var week_end_repr = this.getDateRepresentation(week_end)
-
-        return [week_start_repr,week_end_repr]
-
-    }
-    this.getDateRepresentation = function (date) {
-
-        var date_repr = month_list[date.getMonth()] +  " " + date.getDate() + ", " + date.getFullYear();
-        return date_repr
-    }
-
-})
 
 
 app_module.service('ActivityParser',function () {
